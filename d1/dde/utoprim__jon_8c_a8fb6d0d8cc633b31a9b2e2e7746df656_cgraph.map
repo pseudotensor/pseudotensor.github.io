@@ -1,0 +1,6 @@
+<map id="find_root_1D_gen_Sc" name="find_root_1D_gen_Sc">
+<area shape="rect" id="node3" href="$d1/dde/utoprim__jon_8c.html#ad797f172e3b3b7f0fb03c7076cd404eb" title="optimized version of func_Sc() very similar to optimized version of func_Eprime() but different &quot;geta..." alt="" coords="359,32,452,61"/>
+<area shape="rect" id="node9" href="$d1/dde/utoprim__jon_8c.html#acba495fe9b21b19b393a2e532c4880dc" title="optimized version of res_sq_Sc() just calls func_Sc_opt() for now since more optimized than original ..." alt="" coords="200,57,309,87"/>
+<area shape="rect" id="node5" href="$d1/dde/utoprim__jon_8c.html#a7aa8084194414e0db6af909356a94f74" title="get first part of kinetic stuff for func() or resid_sq() for optimized version of func()..." alt="" coords="501,5,629,35"/>
+<area shape="rect" id="node7" href="$d1/dde/utoprim__jon_8c.html#adc1ab10f4ac3ae07f8f8b8e4b00f3858" title="get kinetic stuff for func() or resid_sq() for optimized version of func()" alt="" coords="501,59,629,88"/>
+</map>

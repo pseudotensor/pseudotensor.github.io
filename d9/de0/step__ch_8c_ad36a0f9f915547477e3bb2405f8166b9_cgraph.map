@@ -1,0 +1,39 @@
+<map id="post_advance" name="post_advance">
+<area shape="rect" id="node3" href="$d4/dad/bounds_8funcdeclare_8h.html#a4079244d85c301885c1363ca41502869" title="simple bounding during evolution NOTEMARK: Was previously also bounding pstag here, but not necessary since done by calling bound_pstag in fluxctstag.c" alt="" coords="157,59,320,88"/>
+<area shape="rect" id="node9" href="$d4/dad/bounds_8funcdeclare_8h.html#a689fddc1949b1a1d390b59d10d17d83c" title="normal full bounding during evolution NOTEMARK: Was previously also bounding pstag here..." alt="" coords="176,5,301,35"/>
+<area shape="rect" id="node12" href="$d3/da1/diag_8c.html#a33d4865bef4d1e548c3d10b3839adf67" title="main diag() call for diagnostics OPENMPNOTE: Assume diag() not called by multiple threads..." alt="" coords="216,192,261,221"/>
+<area shape="rect" id="node5" href="$d4/dad/bounds_8funcdeclare_8h.html#adbe0e3ba8a74f09ab928a96bd68cab6d" title="bound any prim type CALLS directly real and MPI boundary functions pstag = pstagglobal ucons = unewgl..." alt="" coords="371,5,480,35"/>
+<area shape="rect" id="node7" href="$de/d51/bounds_8c.html#a4bc7413b2cdb89e070f38bbb689ae555" title="bound_prim_user_dir" alt="" coords="541,5,683,35"/>
+<area shape="rect" id="node14" href="$df/d75/dump_8c.html#a4d6fb00e08ae8f636e0f692cb3cb9600" title="failure and floor dU dump" alt="" coords="369,219,481,248"/>
+<area shape="rect" id="node18" href="$d3/da1/diag_8c.html#a9eff58798a3c6600dc1af48cc2351759" title="setup whether do each dump type" alt="" coords="376,272,475,301"/>
+<area shape="rect" id="node20" href="$d3/da1/diag_8c.html#a6bd89f9169256368191c508d23b0b453" title="if doavg==1, then assume this is call before dumping" alt="" coords="376,325,475,355"/>
+<area shape="rect" id="node70" href="$d3/da1/diag_8c.html#ac28f761a193154003749f6768aed53d8" title="OPENMPNOTE: Assume frdotout() not called by multiple threads, so static&#39;s are ok (including firsttime..." alt="" coords="392,59,459,88"/>
+<area shape="rect" id="node72" href="$d3/da1/diag_8c.html#ac9512f95a18d4a189ac642d138f95051" title="2D only for now since really only useful for 2D imaging map out region around failure point OPENMPNOT..." alt="" coords="573,432,651,461"/>
+<area shape="rect" id="node79" href="$d3/da1/diag_8c.html#a9102dca79a26a061d7627e90ab9884e7" title="do stuff before dumping" alt="" coords="387,112,464,141"/>
+<area shape="rect" id="node81" href="$d3/da1/diag_8c.html#a18e5fec3ae6add189ebc4aac4f81a536" title="do stuff after dumping" alt="" coords="383,165,468,195"/>
+<area shape="rect" id="node16" href="$df/d75/dump_8c.html#a3e31bdd656d8f4d79745197cde017193" title="fluxsimple dump contents" alt="" coords="531,219,693,248"/>
+<area shape="rect" id="node22" href="$d3/da1/diag_8c.html#a3e3c541236811effddcceeb8f8c72ed4" title="get various vars vs. time and average them in time" alt="" coords="564,272,660,301"/>
+<area shape="rect" id="node24" href="$d3/da1/diag_8c.html#a53324e6dbf9729772e70f0a053468ae6" title="set var to be averaged in time" alt="" coords="564,325,660,355"/>
+<area shape="rect" id="node68" href="$d3/da1/diag_8c.html#ad6fdb1d700c5f5b59ffff8b7bb5755f0" title="final vars averaged in time" alt="" coords="561,379,663,408"/>
+<area shape="rect" id="node26" href="$d3/ddc/phys_8funcdeclare_8h.html#a11e17cd8b0594d1ad52e3594aa9f477e" title="find ucon, ucov, bcon, bcov from primitive variables when calling get_state, users of this function e..." alt="" coords="1449,471,1524,500"/>
+<area shape="rect" id="node34" href="$de/db6/wavespeeds_8c.html#a89ebfcafdd16ff4aafb94363ca6da464" title="get wave speeds for flux calculation and for dt calculation" alt="" coords="741,419,816,448"/>
+<area shape="rect" id="node64" href="$d3/d72/fluxvpot_8c.html#a7277508d423fdc259aa198871f944927" title="find divb if higher order method, then must use conserved value U[] assumed to then exist and be used..." alt="" coords="745,352,812,381"/>
+<area shape="rect" id="node66" href="$d7/def/phys_8tools_8c.html#a51e912387d483e2de9097d5ee70c364d" title="lowerf" alt="" coords="751,196,807,225"/>
+<area shape="rect" id="node28" href="$d3/ddc/phys_8funcdeclare_8h.html#a12a473e24b431762af4168179e82cd08" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="1592,431,1755,460"/>
+<area shape="rect" id="node30" href="$df/d21/global_8funcdeclare_8rad_8h.html#a8a762bf6582e6f7e1199de9c43b98454" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="1575,484,1772,513"/>
+<area shape="rect" id="node32" href="$d3/ddc/phys_8funcdeclare_8h.html#a41b8eacac0a4a23d6b00b670fe49629c" title="bsq_calc_fromq" alt="" coords="1616,537,1731,567"/>
+<area shape="rect" id="node36" href="$de/db6/wavespeeds_8c.html#add5696e20b7235a8f870dd0dffb8dc7d" title="vchar_each" alt="" coords="865,419,953,448"/>
+<area shape="rect" id="node38" href="$d8/d20/vchar_8c.html#acdcca98ca82b041999cdb29fdf958a22" title="Charles believed that near polar axis one should set vmax=vmin=0, but not right since makes flux comp..." alt="" coords="1016,444,1069,473"/>
+<area shape="rect" id="node43" href="$df/d21/global_8funcdeclare_8rad_8h.html#a2f3df15638b9795556ef2bdf1e8c8f97" title="compute radiative characteristics as limited by opacity" alt="" coords="1004,379,1081,408"/>
+<area shape="rect" id="node40" href="$d8/d20/vchar_8c.html#acad033b60e7ca6404ffcd9b0fdfd13b4" title="simplefast" alt="" coords="1311,457,1393,487"/>
+<area shape="rect" id="node45" href="$d2/d72/phys_8tools_8rad_8c.html#a63256be4e6a63216cb736012e36a6375" title="calc_chi" alt="" coords="1159,300,1228,329"/>
+<area shape="rect" id="node47" href="$d2/d72/phys_8tools_8rad_8c.html#a795959353203e99366b456b16d0d0bab" title="calculates total opacity over dx[] for given chi or chieff" alt="" coords="1131,353,1256,383"/>
+<area shape="rect" id="node49" href="$d2/d72/phys_8tools_8rad_8c.html#abd01208ba3c5754ea5587bcaefcaa01b" title="get lab&#45;frame 3&#45;velocity for radiative emission in radiative frame" alt="" coords="1140,407,1247,436"/>
+<area shape="rect" id="node52" href="$d9/de9/coord_8c.html#a0672d8c0ee4ff07c7265d0ecbc365cdc" title="normally&#45;used dxdxp[i,j,k] = dV/dX" alt="" coords="1305,404,1399,433"/>
+<area shape="rect" id="node54" href="$d9/de9/coord_8c.html#a64a4372100fc55abf546f02c8b779595" title="Jacobian for dx uniform per dx nonuniform (dx/dr / dx/dr&#39;) i.e." alt="" coords="1449,392,1524,421"/>
+<area shape="rect" id="node56" href="$d9/de9/coord_8c.html#a56c4b5c03b74a33a7d809daecfa6925e" title="numerical derivative of V w.r.t. X" alt="" coords="1613,377,1733,407"/>
+<area shape="rect" id="node58" href="$d9/de9/coord_8c.html#a65ad4ca9656d141cc995fd35ed31dc40" title="Returns boyer&#45;lindquist coordinte of point." alt="" coords="1823,377,1892,407"/>
+<area shape="rect" id="node60" href="$d8/d60/init_8c.html#a27c01fe4532cf3e10d467517403dbf70" title="blcoord_user" alt="" coords="1955,351,2051,380"/>
+<area shape="rect" id="node62" href="$d9/de9/coord_8c.html#af7a086e6042d598aea95c2360d07a99b" title="blcoord_singfixes" alt="" coords="1941,404,2064,433"/>
+<area shape="rect" id="node74" href="$d9/de9/coord_8c.html#a041e7b005310415c97d90f4b8521ed1a" title="get X(i,j,k) CENT is default position in degenerate cases" alt="" coords="752,561,805,591"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="Utoprimgen_pick" name="Utoprimgen_pick">
+<area shape="rect" id="node3" href="$d1/dde/utoprim__jon_8c.html#a2c450f7c2c86203afc48f0a40c665d38" title="The ONLY global function:" alt="" coords="175,146,351,193"/>
+<area shape="rect" id="node5" href="$d3/ddc/phys_8funcdeclare_8h.html#a3c69b676adf3024cd6ae832094d91fab" title="find ucon, ucov, bcon, bcov from primitive variables when calling get_state, users of this function e..." alt="" coords="188,216,337,245"/>
+<area shape="rect" id="node11" href="$d3/ddc/phys_8funcdeclare_8h.html#aae6a7d24b984236dae44b1a3e8ee37b6" title="find ucon, ucov, bcon, bcov from primitive variables when calling get_state, users of this function e..." alt="" coords="188,269,337,299"/>
+<area shape="rect" id="node13" href="$d7/def/phys_8tools_8c.html#ad54ad99ee062beaf43518d6e9afae0a7" title="primtoflux_nonradonly" alt="" coords="188,323,337,352"/>
+<area shape="rect" id="node47" href="$df/d21/global_8funcdeclare_8rad_8h.html#a9fe58e7f372421d18633c8fc5007b815" title="u2p_rad" alt="" coords="229,469,296,499"/>
+<area shape="rect" id="node61" href="$d3/ddc/phys_8funcdeclare_8h.html#a07847bede2b7ba9d0aabaea82f17f989" title="find ucon, ucov, bcon, bcov from primitive variables when calling get_state, users of this function e..." alt="" coords="200,576,325,605"/>
+<area shape="rect" id="node65" href="$d7/def/phys_8tools_8c.html#a764e6f682011d16faec0f9b71eb360d2" title="primtoflux_radonly" alt="" coords="199,389,327,419"/>
+<area shape="rect" id="node7" href="$d3/ddc/phys_8funcdeclare_8h.html#a12a473e24b431762af4168179e82cd08" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="419,216,581,245"/>
+<area shape="rect" id="node9" href="$d3/ddc/phys_8funcdeclare_8h.html#a41b8eacac0a4a23d6b00b670fe49629c" title="bsq_calc_fromq" alt="" coords="443,163,557,192"/>
+<area shape="rect" id="node15" href="$d7/def/phys_8tools_8c.html#ace478826bef11e98daed7dd2ab026c93" title="matter only terms (as if B=0)" alt="" coords="448,323,552,352"/>
+<area shape="rect" id="node35" href="$d7/def/phys_8tools_8c.html#a664550c21e363870d26e73f3ab5b3d3c" title="electromagnetic terms (as if rho=u=p=0)" alt="" coords="448,269,552,299"/>
+<area shape="rect" id="node17" href="$d7/def/phys_8tools_8c.html#a133cabc36f68eda16f9245f749c3cc38" title="flux asociated with Ynu variable" alt="" coords="687,216,780,245"/>
+<area shape="rect" id="node19" href="$d7/def/phys_8tools_8c.html#a787551c0e83438fe9e63ecd3d996f61a" title="massflux_calc" alt="" coords="903,216,1009,245"/>
+<area shape="rect" id="node21" href="$d7/def/phys_8tools_8c.html#a2ef51d65728fe59168e5b705165af6d4" title="flux associated with Y_L variable" alt="" coords="692,269,775,299"/>
+<area shape="rect" id="node24" href="$d7/def/phys_8tools_8c.html#a1e1dcf1d515232206c829a33d7e1192b" title="flux associated with Y_fl variable" alt="" coords="689,429,777,459"/>
+<area shape="rect" id="node27" href="$d7/def/phys_8tools_8c.html#a5717fa95303172fb697892a9232f0546" title="flux of specific entropy" alt="" coords="675,323,792,352"/>
+<area shape="rect" id="node29" href="$d7/def/phys_8tools_8c.html#a4886704a6724ea65ccaae2277b6ded74" title="MHD stress tensor, with first index up, second index down mhd^dir_j understood that mhddiagpress only..." alt="" coords="683,376,784,405"/>
+<area shape="rect" id="node31" href="$d7/def/phys_8tools_8c.html#ab3fd971df8ad09cce2462e78d7735f33" title="MHD stress tensor, with first index up, second index down." alt="" coords="897,403,1015,432"/>
+<area shape="rect" id="node33" href="$d7/def/phys_8tools_8c.html#a44930b5d598885afcb717a270f42749f" title="MHD stress tensor, with first index up, second index down avoids catastrophic cancellation with rest&#45;..." alt="" coords="867,349,1045,379"/>
+<area shape="rect" id="node37" href="$d7/def/phys_8tools_8c.html#a3552b97ec9f1982094fbc3e3f9af7f05" title="MHD stress tensor, with first index up, second index down mhd^dir_j." alt="" coords="683,59,784,88"/>
+<area shape="rect" id="node43" href="$d7/def/phys_8tools_8c.html#a12b4ca77ffbef030f608b079327b4eb7" title="spatial part of dualfaraday" alt="" coords="655,112,812,141"/>
+<area shape="rect" id="node39" href="$d7/def/phys_8tools_8c.html#a3f6e052b84282b8db7b05a0acc435622" title="EM part of stress&#45;energy tensor." alt="" coords="897,5,1015,35"/>
+<area shape="rect" id="node41" href="$d7/def/phys_8tools_8c.html#a864ca09eade159d4c4b545593c1095de" title="MHD stress tensor, with first index up, second index down avoids catastrophic cancellation with rest&#45;..." alt="" coords="877,59,1035,88"/>
+<area shape="rect" id="node45" href="$d7/def/phys_8tools_8c.html#abc846df49f33c007310b52240e099e3b" title="Notation for HARM paper and JCM&#39;s GRFFE paper is that: B^ = &#160;*F^{} and for lab&#45;frame we chose ={&#45;1..." alt="" coords="888,112,1024,141"/>
+<area shape="rect" id="node49" href="$d2/d72/phys_8tools_8rad_8c.html#a67b370af2fa58283bc590ff4e895fb90" title="Like u2p_rad_orig(), but uses Jon&#39;s paper draft ZAMO RAD version." alt="" coords="451,536,549,565"/>
+<area shape="rect" id="node51" href="$d2/d72/phys_8tools_8rad_8c.html#a77c546a7fb064266fef5a9e796dc63dc" title="compute ZAMO version of radiation quantities as in paper draft" alt="" coords="660,536,807,565"/>
+<area shape="rect" id="node53" href="$d3/ddc/phys_8funcdeclare_8h.html#abfae38e47b0bd05a4fc38302ff948a96" title="find gamma&#45;factor wrt normal observer This function and qsq_calc() have about the same cache miss amo..." alt="" coords="648,589,819,619"/>
+<area shape="rect" id="node55" href="$df/d21/global_8funcdeclare_8rad_8h.html#a3e47afcfc5c42719999d851395fd032d" title="nrad(E)" alt="" coords="669,643,797,672"/>
+<area shape="rect" id="node57" href="$df/d21/global_8funcdeclare_8rad_8h.html#af07558357c906b4dfa61cd34656d9f02" title="E=urad=arad T^4 and just solve for T (this is LTE only if assume resulting T is gas T)..." alt="" coords="893,616,1019,645"/>
+<area shape="rect" id="node59" href="$df/d21/global_8funcdeclare_8rad_8h.html#a7dc2e853cec9b6f9a5e83ce23c468d03" title="nrad(T) = nrad=arad T^3/2.70118 (this is LTE only if put in T was gas T)" alt="" coords="892,669,1020,699"/>
+<area shape="rect" id="node63" href="$df/d21/global_8funcdeclare_8rad_8h.html#a8a762bf6582e6f7e1199de9c43b98454" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="401,589,599,619"/>
+<area shape="rect" id="node67" href="$d7/def/phys_8tools_8c.html#a3c8277899afc2a48590156971490bb79" title="radiation terms (as if rho=u=p=0)" alt="" coords="448,429,552,459"/>
+<area shape="rect" id="node70" href="$df/d21/global_8funcdeclare_8rad_8h.html#a389bf7e41d2fd117af996e3392067cdc" title="compute radiation stres&#45;energy tensor assuming M1 closure" alt="" coords="683,483,784,512"/>
+</map>

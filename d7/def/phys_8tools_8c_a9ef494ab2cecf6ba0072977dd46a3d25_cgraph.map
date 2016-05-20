@@ -1,0 +1,7 @@
+<map id="get_state_thermodynamics_forcheckinversion" name="get_state_thermodynamics_forcheckinversion">
+<area shape="rect" id="node3" href="$d2/d0e/eos_8funcdeclare_8h.html#a1a12a4567087d4cb4b4f7279027b8827" title="wrapper [assumed not called by utoprim_jon.c that could change EOS type] used for inversion check..." alt="" coords="253,5,416,51"/>
+<area shape="rect" id="node7" href="$d2/d0e/eos_8funcdeclare_8h.html#ac6eb963661a1399f6a71f33e3a920a5b" title="entropy wrapper this function should NOT be called by utoprim_jon.c inversion" alt="" coords="232,75,437,104"/>
+<area shape="rect" id="node5" href="$d8/d67/eos_8c.html#a62fa304d208e1263d8d681524057a723" title="p(rho0, u) (needed to get initial guess for W)" alt="" coords="511,13,628,43"/>
+<area shape="rect" id="node9" href="$d2/d0e/eos_8funcdeclare_8h.html#a6e43546483f8fc91354442cacd5071e0" title="wrapper this function should NOT be called by utoprim_jon.c inversion" alt="" coords="487,66,652,113"/>
+<area shape="rect" id="node11" href="$d8/d67/eos_8c.html#aef4f2a239ab2ba6c9471a5e9b45f55dd" title="specific entropy as function of rho0 and internal energy (wmrho0) specificS(rho0,wmrho0)" alt="" coords="703,66,868,113"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="get_stateforcheckinversion" name="get_stateforcheckinversion">
+<area shape="rect" id="node3" href="$d3/ddc/phys_8funcdeclare_8h.html#a12a473e24b431762af4168179e82cd08" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="251,5,413,35"/>
+<area shape="rect" id="node5" href="$df/d21/global_8funcdeclare_8rad_8h.html#a8a762bf6582e6f7e1199de9c43b98454" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="233,59,431,88"/>
+<area shape="rect" id="node7" href="$d7/def/phys_8tools_8c.html#a9ef494ab2cecf6ba0072977dd46a3d25" title="separate function for getting thermodynamical quantities" alt="" coords="243,111,421,158"/>
+<area shape="rect" id="node19" href="$d3/ddc/phys_8funcdeclare_8h.html#a41b8eacac0a4a23d6b00b670fe49629c" title="bsq_calc_fromq" alt="" coords="275,181,389,211"/>
+<area shape="rect" id="node9" href="$d2/d0e/eos_8funcdeclare_8h.html#a1a12a4567087d4cb4b4f7279027b8827" title="wrapper [assumed not called by utoprim_jon.c that could change EOS type] used for inversion check..." alt="" coords="501,81,664,127"/>
+<area shape="rect" id="node13" href="$d2/d0e/eos_8funcdeclare_8h.html#ac6eb963661a1399f6a71f33e3a920a5b" title="entropy wrapper this function should NOT be called by utoprim_jon.c inversion" alt="" coords="480,151,685,180"/>
+<area shape="rect" id="node11" href="$d8/d67/eos_8c.html#a62fa304d208e1263d8d681524057a723" title="p(rho0, u) (needed to get initial guess for W)" alt="" coords="759,89,876,119"/>
+<area shape="rect" id="node15" href="$d2/d0e/eos_8funcdeclare_8h.html#a6e43546483f8fc91354442cacd5071e0" title="wrapper this function should NOT be called by utoprim_jon.c inversion" alt="" coords="735,142,900,189"/>
+<area shape="rect" id="node17" href="$d8/d67/eos_8c.html#aef4f2a239ab2ba6c9471a5e9b45f55dd" title="specific entropy as function of rho0 and internal energy (wmrho0) specificS(rho0,wmrho0)" alt="" coords="951,142,1116,189"/>
+</map>

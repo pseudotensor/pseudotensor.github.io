@@ -1,0 +1,4 @@
+<map id="get_fluxpldirs" name="get_fluxpldirs">
+<area shape="rect" id="node3" href="$de/db2/initbase_8funcdeclare_8h.html#a395f04bf7bb7b9d0cc97bc67a9993eed" title="update A_i" alt="" coords="152,5,245,35"/>
+<area shape="rect" id="node5" href="$de/db2/initbase_8funcdeclare_8h.html#af6e7a3b1afd8299571039be1987bfc9e" title="fix EMF_i (in Flux space so ready to be used) from A_i and Aold_i pretty similar to update_vpot()..." alt="" coords="153,59,244,88"/>
+</map>

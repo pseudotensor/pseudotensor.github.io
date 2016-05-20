@@ -1,0 +1,50 @@
+<map id="user1_init_primitives" name="user1_init_primitives">
+<area shape="rect" id="node3" href="$d8/d60/init_8c.html#a91bb22ba17c7bb75ad2d8d9fa0594549" title="normalize_densities" alt="" coords="205,56,341,85"/>
+<area shape="rect" id="node11" href="$d8/d60/init_8c.html#a5622ff1892053efcbc8cb4f0d3b179f7" title="normalize_field" alt="" coords="219,109,328,139"/>
+<area shape="rect" id="node35" href="$d8/d60/init_8c.html#a74ea4028cbfdf95bd0fef05776ea65e2" title="init_dsandvels" alt="" coords="221,163,325,192"/>
+<area shape="rect" id="node37" href="$de/df8/initbase_8c.html#a7665bb79a8aea27c4ea4d7e58fd83c19" title="used to transform from one coordinate system to PRIMECOORDS when acting on pstag, only relevant for m..." alt="" coords="196,216,351,245"/>
+<area shape="rect" id="node39" href="$d3/d09/transforms_8c.html#a5eb01df8f2e210c8611a8320dc983a9d" title="assumes all centered quantities (so for FLUXB==FLUXCTSTAG assumes operates on centered field versions..." alt="" coords="433,228,543,257"/>
+<area shape="rect" id="node68" href="$d3/d72/fluxvpot_8c.html#ab97fececaef834dd354d1b4ecf39a174" title="this assigns rough pstag value from p in case not using vector potential" alt="" coords="200,319,347,366"/>
+<area shape="rect" id="node71" href="$d4/dad/bounds_8funcdeclare_8h.html#addca75a18cc861326a321565a2e81aa0" title="normal bounding of non&#45;staggered primitives" alt="" coords="444,388,532,417"/>
+<area shape="rect" id="node77" href="$d3/d72/fluxvpot_8c.html#a90699a18ede8b7f112c0078512804ec1" title="initialize vector potential given user function assumes normal non&#45;staggered field in pr Notice that ..." alt="" coords="239,440,308,469"/>
+<area shape="rect" id="node91" href="$d3/d72/fluxvpot_8c.html#aa3e468208ad1695107c1d12714618ba1" title="zero&#45;out field for primitives (and pstag too)" alt="" coords="223,493,324,523"/>
+<area shape="rect" id="node93" href="$d8/d60/init_8c.html#a4e121b9448ac1adaa7608206369f9ea5" title="init_postvpot" alt="" coords="225,547,321,576"/>
+<area shape="rect" id="node95" href="$d4/dad/bounds_8funcdeclare_8h.html#a91fe5c4370e3292a19e7f794797a407f" title="normal bounding of all primitives" alt="" coords="223,600,324,629"/>
+<area shape="rect" id="node104" href="$d8/d67/eos_8c.html#a62fa304d208e1263d8d681524057a723" title="p(rho0, u) (needed to get initial guess for W)" alt="" coords="215,653,332,683"/>
+<area shape="rect" id="node5" href="$d8/d60/init_8c.html#ade057393b5a9360920a3488dee330c24" title="getmax_densities_full" alt="" coords="415,59,561,88"/>
+<area shape="rect" id="node9" href="$d5/de1/global_8inits_8h.html#a25126ce7fee3ea2ef35a18754153a8e7" title="user1_normalize_densities" alt="" coords="400,5,576,35"/>
+<area shape="rect" id="node7" href="$d5/de1/global_8inits_8h.html#a00572d03d39f206e7c0f4ed940a554c5" title="user1_getmax_densities_full" alt="" coords="632,59,819,88"/>
+<area shape="rect" id="node13" href="$d5/de1/global_8inits_8h.html#af422330f01b143bf1de8b2e2413fe28d" title="user1_normalize_field" alt="" coords="415,117,561,147"/>
+<area shape="rect" id="node15" href="$d8/d60/init_8c.html#ad10623d5c2fc6a304322571f638ef538" title="get_maxes" alt="" coords="683,117,768,147"/>
+<area shape="rect" id="node33" href="$d3/d72/fluxvpot_8c.html#aae186e320fe407d9eaa12c671035eb05" title="renormalize field using user norm GODMARK: in reality should renormalize A_i and then recompute and c..." alt="" coords="641,171,809,200"/>
+<area shape="rect" id="node17" href="$d5/de1/global_8inits_8h.html#abbd4925df619affe5614041fab6c2ff0" title="user1_get_maxes" alt="" coords="887,119,1012,148"/>
+<area shape="rect" id="node19" href="$d3/ddc/phys_8funcdeclare_8h.html#a837cc5e285c9e98d2b74a324352b0117" title="bsq_calc" alt="" coords="1084,172,1159,201"/>
+<area shape="rect" id="node21" href="$d9/de9/coord_8c.html#a0672d8c0ee4ff07c7265d0ecbc365cdc" title="normally&#45;used dxdxp[i,j,k] = dV/dX" alt="" coords="1075,119,1168,148"/>
+<area shape="rect" id="node23" href="$d9/de9/coord_8c.html#a64a4372100fc55abf546f02c8b779595" title="Jacobian for dx uniform per dx nonuniform (dx/dr / dx/dr&#39;) i.e." alt="" coords="1228,175,1303,204"/>
+<area shape="rect" id="node25" href="$d9/de9/coord_8c.html#a56c4b5c03b74a33a7d809daecfa6925e" title="numerical derivative of V w.r.t. X" alt="" coords="1360,175,1480,204"/>
+<area shape="rect" id="node27" href="$d9/de9/coord_8c.html#a65ad4ca9656d141cc995fd35ed31dc40" title="Returns boyer&#45;lindquist coordinte of point." alt="" coords="1529,201,1599,231"/>
+<area shape="rect" id="node29" href="$d8/d60/init_8c.html#a27c01fe4532cf3e10d467517403dbf70" title="blcoord_user" alt="" coords="1661,175,1757,204"/>
+<area shape="rect" id="node31" href="$d9/de9/coord_8c.html#af7a086e6042d598aea95c2360d07a99b" title="blcoord_singfixes" alt="" coords="1648,228,1771,257"/>
+<area shape="rect" id="node41" href="$d3/d09/transforms_8c.html#a571104584acab566d6eb37f51cfb2102" title="converts whichvel/whichcoord velocity to WHICHVEL/(&#45;&gt;MCOORD&#45;&gt;PRIMECOORDS) converts field too..." alt="" coords="648,228,803,257"/>
+<area shape="rect" id="node43" href="$d3/d09/transforms_8c.html#a0a76b7b5c088e56618389fe3acf60119" title="whichcoordin &#45;&gt; whichcoordout" alt="" coords="908,333,991,363"/>
+<area shape="rect" id="node59" href="$d3/d09/transforms_8c.html#a0c5044bf89287cf41d59999d96f9fc12" title="MCOORD &#45;&gt; prime MCOORD." alt="" coords="885,228,1013,257"/>
+<area shape="rect" id="node45" href="$d3/d09/transforms_8c.html#a18c0d9e83dd42057f18c8682445e520e" title="bltoks" alt="" coords="1093,281,1149,311"/>
+<area shape="rect" id="node54" href="$d3/d09/transforms_8c.html#aeb5a7fff357c150f4a21d08ee9141661" title="kstobl" alt="" coords="1093,335,1149,364"/>
+<area shape="rect" id="node47" href="$d3/d09/transforms_8c.html#a4e56c98db9838030d332feae8a77e19d" title="bltoks_trans" alt="" coords="1219,281,1312,311"/>
+<area shape="rect" id="node49" href="$d9/de9/coord_8c.html#a96290375e27d5d0aa4d843b07e228e14" title="normally&#45;used bl_coord[i,j,k] {i,j,k} &#45;&gt; V only" alt="" coords="1375,281,1465,311"/>
+<area shape="rect" id="node51" href="$d9/de9/coord_8c.html#a041e7b005310415c97d90f4b8521ed1a" title="get X(i,j,k) CENT is default position in degenerate cases" alt="" coords="1537,281,1591,311"/>
+<area shape="rect" id="node56" href="$d3/d09/transforms_8c.html#aeba8434ef96cb68e3557349ee8e24378" title="kstobl_trans" alt="" coords="1219,335,1312,364"/>
+<area shape="rect" id="node61" href="$d9/de9/coord_8c.html#a6b81e8ff9e3ef5fdf6eade928726f237" title="normally&#45;used dxdxp[i,j,k]" alt="" coords="1072,228,1171,257"/>
+<area shape="rect" id="node64" href="$d9/de9/coord_8c.html#a8a51ec95e21441bc2c561af70a1037de" title="Get (dV/dX)^{&#45;1}." alt="" coords="1227,228,1304,257"/>
+<area shape="rect" id="node66" href="$d6/d1b/metric_8tools_8c.html#af5438dd54272eb585ff5acb06d7195d4" title="matrix_inverse" alt="" coords="1367,228,1473,257"/>
+<area shape="rect" id="node73" href="$d4/dad/bounds_8funcdeclare_8h.html#adbe0e3ba8a74f09ab928a96bd68cab6d" title="bound any prim type CALLS directly real and MPI boundary functions pstag = pstagglobal ucons = unewgl..." alt="" coords="671,453,780,483"/>
+<area shape="rect" id="node75" href="$de/d51/bounds_8c.html#a4bc7413b2cdb89e070f38bbb689ae555" title="bound_prim_user_dir" alt="" coords="879,453,1020,483"/>
+<area shape="rect" id="node79" href="$d3/d72/fluxvpot_8c.html#a378110ce9e72f058608b8c4903fbd545" title="initialize vector potential given user function assumes normal non&#45;staggered field in pr..." alt="" coords="424,335,552,364"/>
+<area shape="rect" id="node87" href="$d3/d72/fluxvpot_8c.html#a611633396e672d62510a308e07215ef8" title="initialize vector potential given user function assumes normal non&#45;staggered field in pr Notice that ..." alt="" coords="440,441,536,471"/>
+<area shape="rect" id="node89" href="$d8/d60/init_8c.html#afda44281ad5c163455c40f012d4a8954" title="init_vpot2field_user" alt="" coords="421,495,555,524"/>
+<area shape="rect" id="node81" href="$d8/d60/init_8c.html#ae0015d34dd7991b3fa3ecde643efb36a" title="init_vpot_user" alt="" coords="675,281,776,311"/>
+<area shape="rect" id="node83" href="$d3/d09/transforms_8c.html#a3bd0638aa36c0540906a2b7c2b76bcf7" title="converts u_ in whichcoord to PRIMECOORDS" alt="" coords="625,335,825,364"/>
+<area shape="rect" id="node97" href="$d4/dad/bounds_8funcdeclare_8h.html#a460b84e1112e3aef17209c20e22e1cf1" title="bound all prims" alt="" coords="427,573,549,603"/>
+<area shape="rect" id="node100" href="$d4/dad/bounds_8funcdeclare_8h.html#abdea68b778dc9253324da69d3c376965" title="bound any pstag type CALLS directly real and MPI boundary functions pstag is at FACE1,2,3 for fields, so user bound is different MPI bounding is the same as CENT quantities used when restarting in initbase.c to bound unewglobal for FLUXB==FLUXCTSTAG" alt="" coords="667,573,784,603"/>
+<area shape="rect" id="node102" href="$de/d51/bounds_8c.html#a3246b706b24adb6265016a8954807f6f" title="assume single user function takes care of primitive locations" alt="" coords="875,573,1024,603"/>
+</map>

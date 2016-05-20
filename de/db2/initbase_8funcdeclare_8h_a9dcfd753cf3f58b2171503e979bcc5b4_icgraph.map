@@ -1,0 +1,9 @@
+<map id="init_vpot_user" name="init_vpot_user">
+<area shape="rect" id="node3" href="$de/db2/initbase_8funcdeclare_8h.html#a1a109a057a32e1128b12f3bf84fe8038" title="get A_i in PRIMECOORDS for FLUXB==FLUXCTSTAG at CORNi for each A_i, the natural staggered field locat..." alt="" coords="157,5,293,51"/>
+<area shape="rect" id="node5" href="$de/db2/initbase_8funcdeclare_8h.html#a378110ce9e72f058608b8c4903fbd545" title="initialize vector potential given user function assumes normal non&#45;staggered field in pr..." alt="" coords="161,75,289,104"/>
+<area shape="rect" id="node7" href="$de/db2/initbase_8funcdeclare_8h.html#a90699a18ede8b7f112c0078512804ec1" title="initialize vector potential given user function assumes normal non&#45;staggered field in pr Notice that ..." alt="" coords="343,75,412,104"/>
+<area shape="rect" id="node9" href="$df/d15/init_8tools_8c.html#a77551ab2581efdbaf170dfca073ff9ab" title="user1_init_primitives" alt="" coords="461,75,603,104"/>
+<area shape="rect" id="node11" href="$de/db2/initbase_8funcdeclare_8h.html#a0afa200a5f947b1c9f6e554519f28fc4" title="init_primitives" alt="" coords="652,75,753,104"/>
+<area shape="rect" id="node13" href="$de/df8/initbase_8c.html#ac4110398e386c9888d9565630357dbbe" title="General&#45;Primary init() routine Uses globals inside init() because sets memory and sets physics..." alt="" coords="804,75,841,104"/>
+<area shape="rect" id="node15" href="$d0/d29/main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main function that primarily calls init(), diag(), and step_ch_full() in loop." alt="" coords="891,75,941,104"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Fangle" name="Fangle">
+<area shape="rect" id="node3" href="$d9/de9/coord_8c.html#aa1a68b393c2ada1f3abf179be623a83c" title="limlin" alt="" coords="117,32,168,61"/>
+<area shape="rect" id="node14" href="$d9/de9/coord_8c.html#a59056786b13f7f91e4eddd7679b4c4e1" title="minlin" alt="" coords="115,85,171,115"/>
+<area shape="rect" id="node5" href="$d9/de9/coord_8c.html#a1f2270dea241e5cc21135803a397b7db" title="mins" alt="" coords="219,32,269,61"/>
+<area shape="rect" id="node7" href="$d9/de9/coord_8c.html#a88f9330b4045c924440d283f835c23c3" title="maxs" alt="" coords="319,5,372,35"/>
+<area shape="rect" id="node9" href="$d9/de9/coord_8c.html#a423b0068484133016645a61602c58287" title="=mins if dir &lt; 0 =maxs if dir &gt;= 0" alt="" coords="421,32,496,61"/>
+<area shape="rect" id="node11" href="$d9/de9/coord_8c.html#a903c2af253a5f2cac063d020db8f640d" title="for sjet coords" alt="" coords="545,32,599,61"/>
+</map>

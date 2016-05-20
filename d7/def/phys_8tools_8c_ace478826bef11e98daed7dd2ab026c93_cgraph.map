@@ -1,0 +1,10 @@
+<map id="primtoflux_ma" name="primtoflux_ma">
+<area shape="rect" id="node3" href="$d7/def/phys_8tools_8c.html#a133cabc36f68eda16f9245f749c3cc38" title="flux asociated with Ynu variable" alt="" coords="169,5,263,35"/>
+<area shape="rect" id="node5" href="$d7/def/phys_8tools_8c.html#a787551c0e83438fe9e63ecd3d996f61a" title="massflux_calc" alt="" coords="359,57,465,87"/>
+<area shape="rect" id="node7" href="$d7/def/phys_8tools_8c.html#a2ef51d65728fe59168e5b705165af6d4" title="flux associated with Y_L variable" alt="" coords="175,109,257,139"/>
+<area shape="rect" id="node10" href="$d7/def/phys_8tools_8c.html#a1e1dcf1d515232206c829a33d7e1192b" title="flux associated with Y_fl variable" alt="" coords="172,163,260,192"/>
+<area shape="rect" id="node13" href="$d7/def/phys_8tools_8c.html#a5717fa95303172fb697892a9232f0546" title="flux of specific entropy" alt="" coords="157,216,275,245"/>
+<area shape="rect" id="node15" href="$d7/def/phys_8tools_8c.html#a4886704a6724ea65ccaae2277b6ded74" title="MHD stress tensor, with first index up, second index down mhd^dir_j understood that mhddiagpress only..." alt="" coords="165,269,267,299"/>
+<area shape="rect" id="node17" href="$d7/def/phys_8tools_8c.html#ab3fd971df8ad09cce2462e78d7735f33" title="MHD stress tensor, with first index up, second index down." alt="" coords="353,243,471,272"/>
+<area shape="rect" id="node19" href="$d7/def/phys_8tools_8c.html#a44930b5d598885afcb717a270f42749f" title="MHD stress tensor, with first index up, second index down avoids catastrophic cancellation with rest&#45;..." alt="" coords="323,296,501,325"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ucon_calc_rel4vel" name="ucon_calc_rel4vel">
+<area shape="rect" id="node3" href="$d3/ddc/phys_8funcdeclare_8h.html#a5910aabe5e76183d341ef5b830b01bab" title="find {u}^ from u^ only fill spatial parts so can feed in 3&#45;vector" alt="" coords="251,5,315,35"/>
+<area shape="rect" id="node5" href="$d3/ddc/phys_8funcdeclare_8h.html#a20be479a3f03f3de780359d6e9290fe3" title="find u^ from {u}^ fill full 4&#45;vector OPTMARK: Before storing , this was the most expensive function o..." alt="" coords="183,59,383,88"/>
+<area shape="rect" id="node7" href="$d3/ddc/phys_8funcdeclare_8h.html#abfae38e47b0bd05a4fc38302ff948a96" title="find gamma&#45;factor wrt normal observer This function and qsq_calc() have about the same cache miss amo..." alt="" coords="432,59,603,88"/>
+</map>

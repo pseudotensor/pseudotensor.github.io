@@ -1,0 +1,7 @@
+<map id="compute_specificentropy_wmrho0" name="compute_specificentropy_wmrho0">
+<area shape="rect" id="node3" href="$d7/def/phys_8tools_8c.html#a6e43546483f8fc91354442cacd5071e0" title="wrapper this function should NOT be called by utoprim_jon.c inversion" alt="" coords="223,5,388,51"/>
+<area shape="rect" id="node11" href="$d1/dde/utoprim__jon_8c.html#aadf2276ac5d5109042cc3f32f1904183" title="SETUP ITERATIVE METHODS (good for GRMHD or entropy evolution or cold GRMHD) Doesn&#39;t use Sc since init..." alt="" coords="251,75,360,104"/>
+<area shape="rect" id="node5" href="$d7/def/phys_8tools_8c.html#ac6eb963661a1399f6a71f33e3a920a5b" title="entropy wrapper this function should NOT be called by utoprim_jon.c inversion" alt="" coords="437,13,643,43"/>
+<area shape="rect" id="node7" href="$d7/def/phys_8tools_8c.html#a9ef494ab2cecf6ba0072977dd46a3d25" title="separate function for getting thermodynamical quantities" alt="" coords="691,5,869,51"/>
+<area shape="rect" id="node9" href="$d7/def/phys_8tools_8c.html#ad46675c486138b240d9bfa27e5ca262a" title="used to check inversion, which has consistent pressure used to get things as functions of &#160;instead of..." alt="" coords="917,13,1096,43"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="pureget_stateforfluxcalc" name="pureget_stateforfluxcalc">
+<area shape="rect" id="node3" href="$d3/ddc/phys_8funcdeclare_8h.html#a92cd9cc63c782c0d94699d639aa48f69" title="wrapper for choosing to get state by computing it or from global array notice that ptrgeom&#45;&gt;p inputte..." alt="" coords="216,73,352,103"/>
+<area shape="rect" id="node5" href="$dc/d5e/fluxcompute_8c.html#ab088a2ff1d1132363446aab47e5c9c7b" title="P&#45;&gt;sate,flux,U." alt="" coords="407,20,508,49"/>
+<area shape="rect" id="node38" href="$dc/d5e/fluxcompute_8c.html#a9fdd8e08eb928fb500db9e2688f1475b" title="p2SFUevolveall" alt="" coords="400,73,515,103"/>
+<area shape="rect" id="node41" href="$d0/dde/fluxctstag_8c.html#a985ee116306b4011810334ae93900493" title="INPUTS: Nvec, pr, primface_l[dir], primface_r[dir] OUTPUTS: pbcorn[dir][side], pvcorn[dir][side][side..." alt="" coords="563,157,741,187"/>
+<area shape="rect" id="node7" href="$dc/dae/flux_8c.html#aa26f8747446e1cd5bd214ebc345aafa2" title="compute donor&#45;based flux, bypassing normal fluxcalc()." alt="" coords="833,5,940,35"/>
+<area shape="rect" id="node11" href="$d3/ddc/phys_8funcdeclare_8h.html#a0bb12b388b07610cf01d08c19f8fddb1" title="actually compute the flux and ctop for dt calculation" alt="" coords="577,59,727,88"/>
+<area shape="rect" id="node9" href="$df/d22/advance_8c.html#a38c6fa95ece38a2821c70a1524ec47ec" title="this method guarantees conservation of non&#45;sourced conserved quantities when metric is time&#45;dependent..." alt="" coords="1471,16,1625,45"/>
+<area shape="rect" id="node13" href="$dc/dae/flux_8c.html#a054658527dfb1d80226b8b2d2106aeed" title="original flux calculator that gets F in &quot;dir&quot;. At end global pleft,pright,dq also set and if STOREWAV..." alt="" coords="825,59,948,88"/>
+<area shape="rect" id="node34" href="$dc/dae/flux_8c.html#a2602a4dad9ed7adc944227d02435312e" title="standard (non&#45;field flux) calculation but setup to store results of interpolation so can be used for ..." alt="" coords="789,112,984,141"/>
+<area shape="rect" id="node15" href="$dc/dae/flux_8c.html#aaf6d832880760f80459d91477c28b519" title="wrapper for different standard 1&#45;D flux calculators 1&#45;D interpolate and get flux for that direction (..." alt="" coords="1040,72,1155,101"/>
+<area shape="rect" id="node17" href="$dc/dae/flux_8c.html#a8ffa7399bd5354fdcdec5f3e1adf0b13" title="wrapper for CENT_to_FACE1,2,3 used to compute flux at face" alt="" coords="1212,72,1305,101"/>
+<area shape="rect" id="node19" href="$d5/d2f/flux_8funcdeclare_8h.html#ab229b0f3f2caf3c0a3ef5299fba2b1c0" title="see fluxcompute.c for non&#45;computer science, real physics calculations of flux" alt="" coords="1355,72,1421,101"/>
+<area shape="rect" id="node21" href="$df/d22/advance_8c.html#a217bbc071881142282a66a317664912b" title="this method guarantees conservation of non&#45;sourced conserved quantities when metric is time&#45;dependent..." alt="" coords="1484,72,1612,101"/>
+<area shape="rect" id="node23" href="$df/d22/advance_8c.html#a22dff5dc24ff389254919e70b79be489" title="pi: initial values at t=t0 to compute Ui pb: values used to compute flux/source pf: solution using fl..." alt="" coords="1676,72,1745,101"/>
+<area shape="rect" id="node25" href="$d9/de0/step__ch_8c.html#a6ffc23f905bf9f398646f83250167dd2" title="take full step using normal MPI method This method transfers ALL boundary cells AT ONCE after updatin..." alt="" coords="1796,72,1929,101"/>
+<area shape="rect" id="node27" href="$d9/de0/step__ch_8c.html#afe241569412f22a86dea9cd91b516af8" title="take step itself" alt="" coords="1980,72,2047,101"/>
+<area shape="rect" id="node29" href="$d9/de0/step__ch_8c.html#a306fe858d9befc91e386212efe65acaf" title="take full step (called from main.c)" alt="" coords="2097,72,2188,101"/>
+<area shape="rect" id="node31" href="$d0/d29/main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main function that primarily calls init(), diag(), and step_ch_full() in loop." alt="" coords="2237,72,2288,101"/>
+<area shape="rect" id="node43" href="$d0/dde/fluxctstag_8c.html#a4e3d76c6ad125b8199948408c262e3a1" title="wrapper for: 1) interpolate FACE 2 CORN 2) loop over dimensions setting field flux dimension&#45;by&#45;dimen..." alt="" coords="1032,139,1163,168"/>
+</map>

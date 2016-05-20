@@ -1,0 +1,21 @@
+<map id="slope_lim_continuous_e2z" name="slope_lim_continuous_e2z">
+<area shape="rect" id="node3" href="$d5/d2f/flux_8funcdeclare_8h.html#a8dd1a8200cac33bfd5c4520a76285d69" title="slope_lim_linetype_c2e" alt="" coords="229,243,387,272"/>
+<area shape="rect" id="node5" href="$d5/d2f/flux_8funcdeclare_8h.html#a0d50fd876f4e61d909a1e006bac28387" title="whether primreal is p2interp can&#39;t assume this is true in general (e.g." alt="" coords="240,296,376,325"/>
+<area shape="rect" id="node35" href="$d4/dad/bounds_8funcdeclare_8h.html#addca75a18cc861326a321565a2e81aa0" title="normal bounding of non&#45;staggered primitives" alt="" coords="264,380,352,409"/>
+<area shape="rect" id="node7" href="$d8/ddd/interppoint_8c.html#ab50c96d0a8603ec34f1c7a023a4156ff" title="interpolate from a center point to a left/right interface" alt="" coords="437,139,576,168"/>
+<area shape="rect" id="node21" href="$d8/ddd/interppoint_8c.html#a7d9885f70f6b7a32637920ddf74b0f98" title="DEVELOPING RIGHT NOW interpolate from a center point to a left/right interface." alt="" coords="437,271,576,318"/>
+<area shape="rect" id="node25" href="$d8/ddd/interppoint_8c.html#af1ea622d3759b98722d11ed0a3d555e7" title="interpolate from a center point to a left/right interface" alt="" coords="436,341,577,371"/>
+<area shape="rect" id="node9" href="$df/d30/interppoint_8para_8c.html#a6f45f925dd7972198f6ef41de42374df" title="lout/rout is left and right sides of cell note how used in step_ch.c to get appropriate interface val..." alt="" coords="681,5,727,35"/>
+<area shape="rect" id="node11" href="$df/d30/interppoint_8para_8c.html#abe1b655c3bd8c6e3ac699e6cedb03c18" title="doesn&#39;t use dq" alt="" coords="677,59,731,88"/>
+<area shape="rect" id="node13" href="$d8/ddd/interppoint_8c.html#a70f54bffe6df5f410a43980f4aa83971" title="limited slopes using 3 points Gives slope that will be assumed to be located at same location as yc –..." alt="" coords="641,112,767,141"/>
+<area shape="rect" id="node15" href="$d8/ddd/interppoint_8c.html#a9a8e95c4501b23d1a80162c3b2cee142" title="http://mesa.sourceforge.net/pdfs/suresh+huynh_97.pdf http://iopscience.iop.org/0264&#45;9381/31/1/015005/..." alt="" coords="681,165,727,195"/>
+<area shape="rect" id="node19" href="$d8/ddd/interppoint_8c.html#a75bf89b2527949948883f2089374dcf9" title="Enhanced PPM The Einstein Toolkit source code says that the relevant references are: Colella &amp; Sekora..." alt="" coords="677,219,731,248"/>
+<area shape="rect" id="node17" href="$d8/ddd/interppoint_8c.html#a5677d72681462036d6c8a6e13c1c20d9" title="if yll,yl,yc,yr,yrr are really in that order, then get lout." alt="" coords="840,165,912,195"/>
+<area shape="rect" id="node23" href="$d8/ddd/interppoint_8c.html#a367af7d2f93ccc62459fbdbacd4f62f3" title="limited 2nd derivatives using 4 points see e2c_continuous.nb" alt="" coords="627,271,781,318"/>
+<area shape="rect" id="node27" href="$df/d30/interppoint_8para_8c.html#af36824cae5f3156fa6da09c3536c7785" title="used when lim=PARAFLAT" alt="" coords="676,341,732,371"/>
+<area shape="rect" id="node29" href="$df/d30/interppoint_8para_8c.html#ac3af1cc044a6058812c512179cbb090a" title="Get pressure Note this is quite inefficient since operating per&#45;point get same pressure for entire li..." alt="" coords="831,341,921,371"/>
+<area shape="rect" id="node31" href="$df/d21/global_8funcdeclare_8rad_8h.html#a5943065ab3d5b4e9f4f691db499b588f" title="calculates total opacity over dx[]" alt="" coords="972,341,1057,371"/>
+<area shape="rect" id="node33" href="$d2/d72/phys_8tools_8rad_8c.html#a795959353203e99366b456b16d0d0bab" title="calculates total opacity over dx[] for given chi or chieff" alt="" coords="1107,341,1232,371"/>
+<area shape="rect" id="node37" href="$d4/dad/bounds_8funcdeclare_8h.html#adbe0e3ba8a74f09ab928a96bd68cab6d" title="bound any prim type CALLS directly real and MPI boundary functions pstag = pstagglobal ucons = unewgl..." alt="" coords="452,395,561,424"/>
+<area shape="rect" id="node39" href="$de/d51/bounds_8c.html#a4bc7413b2cdb89e070f38bbb689ae555" title="bound_prim_user_dir" alt="" coords="633,395,775,424"/>
+</map>

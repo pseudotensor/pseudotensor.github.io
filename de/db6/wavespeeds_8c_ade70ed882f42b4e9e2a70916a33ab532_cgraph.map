@@ -1,0 +1,23 @@
+<map id="get_global_wavespeeds_full" name="get_global_wavespeeds_full">
+<area shape="rect" id="node3" href="$de/db6/wavespeeds_8c.html#a99d8d29de65565134c1d91007b0d12c6" title="store wavespeeds somewhere" alt="" coords="241,188,401,217"/>
+<area shape="rect" id="node47" href="$de/db6/wavespeeds_8c.html#a9adb8a9ad30e24a08285f6a4c28856ef" title="GODMARK: something wrong with comparing multiple velocities since grid/metric changes in space (i..." alt="" coords="275,241,368,271"/>
+<area shape="rect" id="node5" href="$de/d8c/phys_8c.html#af560087e095f9677ac65b1bc6b424fa9" title="wrapper for choosing to get state by computing it or from global array pointer assign (overrides the ..." alt="" coords="452,215,649,244"/>
+<area shape="rect" id="node15" href="$de/db6/wavespeeds_8c.html#add5696e20b7235a8f870dd0dffb8dc7d" title="vchar_each" alt="" coords="507,161,595,191"/>
+<area shape="rect" id="node7" href="$d7/def/phys_8tools_8c.html#a3ef47960a272ef981fd551582b610503" title="find ucon, ucov, bcon, bcov from primitive variables when calling get_state, users of this function e..." alt="" coords="1145,215,1367,244"/>
+<area shape="rect" id="node9" href="$d3/ddc/phys_8funcdeclare_8h.html#a12a473e24b431762af4168179e82cd08" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="1435,136,1597,165"/>
+<area shape="rect" id="node11" href="$df/d21/global_8funcdeclare_8rad_8h.html#a8a762bf6582e6f7e1199de9c43b98454" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="1417,189,1615,219"/>
+<area shape="rect" id="node13" href="$d3/ddc/phys_8funcdeclare_8h.html#a41b8eacac0a4a23d6b00b670fe49629c" title="bsq_calc_fromq" alt="" coords="1459,243,1573,272"/>
+<area shape="rect" id="node17" href="$d8/d20/vchar_8c.html#acdcca98ca82b041999cdb29fdf958a22" title="Charles believed that near polar axis one should set vmax=vmin=0, but not right since makes flux comp..." alt="" coords="712,163,765,192"/>
+<area shape="rect" id="node26" href="$df/d21/global_8funcdeclare_8rad_8h.html#a2f3df15638b9795556ef2bdf1e8c8f97" title="compute radiative characteristics as limited by opacity" alt="" coords="700,84,777,113"/>
+<area shape="rect" id="node19" href="$d8/d20/vchar_8c.html#acad033b60e7ca6404ffcd9b0fdfd13b4" title="simplefast" alt="" coords="1007,161,1089,191"/>
+<area shape="rect" id="node21" href="$d3/ddc/phys_8funcdeclare_8h.html#a11e17cd8b0594d1ad52e3594aa9f477e" title="find ucon, ucov, bcon, bcov from primitive variables when calling get_state, users of this function e..." alt="" coords="1219,161,1293,191"/>
+<area shape="rect" id="node28" href="$d2/d72/phys_8tools_8rad_8c.html#a63256be4e6a63216cb736012e36a6375" title="calc_chi" alt="" coords="855,112,924,141"/>
+<area shape="rect" id="node30" href="$d2/d72/phys_8tools_8rad_8c.html#a795959353203e99366b456b16d0d0bab" title="calculates total opacity over dx[] for given chi or chieff" alt="" coords="827,5,952,35"/>
+<area shape="rect" id="node32" href="$d2/d72/phys_8tools_8rad_8c.html#abd01208ba3c5754ea5587bcaefcaa01b" title="get lab&#45;frame 3&#45;velocity for radiative emission in radiative frame" alt="" coords="836,59,943,88"/>
+<area shape="rect" id="node35" href="$d9/de9/coord_8c.html#a0672d8c0ee4ff07c7265d0ecbc365cdc" title="normally&#45;used dxdxp[i,j,k] = dV/dX" alt="" coords="1001,59,1095,88"/>
+<area shape="rect" id="node37" href="$d9/de9/coord_8c.html#a64a4372100fc55abf546f02c8b779595" title="Jacobian for dx uniform per dx nonuniform (dx/dr / dx/dr&#39;) i.e." alt="" coords="1219,59,1293,88"/>
+<area shape="rect" id="node39" href="$d9/de9/coord_8c.html#a56c4b5c03b74a33a7d809daecfa6925e" title="numerical derivative of V w.r.t. X" alt="" coords="1456,59,1576,88"/>
+<area shape="rect" id="node41" href="$d9/de9/coord_8c.html#a65ad4ca9656d141cc995fd35ed31dc40" title="Returns boyer&#45;lindquist coordinte of point." alt="" coords="1665,59,1735,88"/>
+<area shape="rect" id="node43" href="$d8/d60/init_8c.html#a27c01fe4532cf3e10d467517403dbf70" title="blcoord_user" alt="" coords="1797,32,1893,61"/>
+<area shape="rect" id="node45" href="$d9/de9/coord_8c.html#af7a086e6042d598aea95c2360d07a99b" title="blcoord_singfixes" alt="" coords="1784,85,1907,115"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="get_df_line_gen_new" name="get_df_line_gen_new">
+<area shape="rect" id="node3" href="$d8/df4/global_8funcdeclare_8h.html#a47051981241cadc820dd2ee6a039d16e" title="functions for loop stuff" alt="" coords="212,5,332,35"/>
+<area shape="rect" id="node5" href="$d8/d29/interpline_8c.html#a9ceed0e7b335cae08eee87aed265e10a" title="real calculation. Gets derivatives of input function and passes this to various other function..." alt="" coords="213,59,331,88"/>
+<area shape="rect" id="node7" href="$d8/d29/interpline_8c.html#a86547c640e11a0b2c6666f2661ac5d6d" title="returns the improved pressure jump indicators" alt="" coords="199,112,345,141"/>
+<area shape="rect" id="node9" href="$de/d8c/phys_8c.html#a7c83a4e2d3fdf30054e2462d7b3a88f0" title="wrapper for choosing to get state by computing it or from global array pointer assign (overrides the ..." alt="" coords="396,85,537,115"/>
+<area shape="rect" id="node19" href="$df/d21/global_8funcdeclare_8rad_8h.html#a5943065ab3d5b4e9f4f691db499b588f" title="calculates total opacity over dx[]" alt="" coords="424,139,509,168"/>
+<area shape="rect" id="node11" href="$d7/def/phys_8tools_8c.html#a932c3d0ede37a07f6d380cf6ce07e0b0" title="find ucon, ucov, bcon, bcov from primitive variables when calling get_state, users of this function e..." alt="" coords="587,85,755,115"/>
+<area shape="rect" id="node13" href="$d3/ddc/phys_8funcdeclare_8h.html#a12a473e24b431762af4168179e82cd08" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="821,32,984,61"/>
+<area shape="rect" id="node15" href="$df/d21/global_8funcdeclare_8rad_8h.html#a8a762bf6582e6f7e1199de9c43b98454" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="804,85,1001,115"/>
+<area shape="rect" id="node17" href="$d3/ddc/phys_8funcdeclare_8h.html#a41b8eacac0a4a23d6b00b670fe49629c" title="bsq_calc_fromq" alt="" coords="845,139,960,168"/>
+<area shape="rect" id="node21" href="$d2/d72/phys_8tools_8rad_8c.html#a795959353203e99366b456b16d0d0bab" title="calculates total opacity over dx[] for given chi or chieff" alt="" coords="608,139,733,168"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="bl_coord_coord" name="bl_coord_coord">
+<area shape="rect" id="node3" href="$d9/de9/coord_8c.html#a041e7b005310415c97d90f4b8521ed1a" title="get X(i,j,k) CENT is default position in degenerate cases" alt="" coords="175,5,228,35"/>
+<area shape="rect" id="node5" href="$d9/de9/coord_8c.html#a65ad4ca9656d141cc995fd35ed31dc40" title="Returns boyer&#45;lindquist coordinte of point." alt="" coords="167,59,236,88"/>
+<area shape="rect" id="node7" href="$d8/d60/init_8c.html#a27c01fe4532cf3e10d467517403dbf70" title="blcoord_user" alt="" coords="299,32,395,61"/>
+<area shape="rect" id="node9" href="$d9/de9/coord_8c.html#af7a086e6042d598aea95c2360d07a99b" title="blcoord_singfixes" alt="" coords="285,85,408,115"/>
+</map>

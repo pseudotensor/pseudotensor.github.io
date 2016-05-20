@@ -1,0 +1,63 @@
+<map id="global.grmhd.h" name="global.grmhd.h">
+<area shape="rect" id="node3" href="$d3/d67/global_8general_8h.html" title="General code definitions with specific order from independent to dependent definitions." alt="" coords="1756,83,1868,112"/>
+<area shape="rect" id="node19" href="$d1/d5f/mytime_8h.html" title="Timing functions (report and diagnostics) declarations and definitions/macros." alt="" coords="677,160,752,189"/>
+<area shape="rect" id="node33" href="$d6/df4/global_8realdef_8h.html" title="macros and definitions related to variable types" alt="" coords="776,160,885,189"/>
+<area shape="rect" id="node35" href="$de/d10/global_8nondepmnemonics_8h.html" title="General code definitions of independent quantities." alt="" coords="909,160,1088,189"/>
+<area shape="rect" id="node47" href="$da/d3e/definit_8h.html" title="Default values for code choices/switches appearing in user&#39;s init.h." alt="" coords="1267,160,1333,189"/>
+<area shape="rect" id="node49" href="$d8/dc0/init_8h.html" title="init.h" alt="" coords="1357,160,1408,189"/>
+<area shape="rect" id="node51" href="$d2/ddf/global_8openmpthreadprivates_8h.html" title="All macros and definitions related to OpenMP private quantities." alt="" coords="1432,160,1629,189"/>
+<area shape="rect" id="node53" href="$d1/de6/global_8depmnemonics_8h.html" title="General code definitions of dependent quantities." alt="" coords="1653,160,1811,189"/>
+<area shape="rect" id="node61" href="$df/d1c/global_8storage_8h.html" title="macros and definitions related to storage mapping functions" alt="" coords="1835,160,1949,189"/>
+<area shape="rect" id="node63" href="$d0/d22/global_8loops_8h.html" title="Wrapper." alt="" coords="1973,160,2075,189"/>
+<area shape="rect" id="node75" href="$d9/d43/global_8variousmacros_8h.html" title="macros and definitions related to various things Various macros" alt="" coords="2099,160,2253,189"/>
+<area shape="rect" id="node77" href="$d8/d7d/global_8fieldmacros_8h.html" title="Magnetic field and divB=0 related macros." alt="" coords="2277,160,2416,189"/>
+<area shape="rect" id="node79" href="$d6/d39/global_8structs_8h.html" title="macros and definitions related to HARM structures" alt="" coords="2440,160,2549,189"/>
+<area shape="rect" id="node81" href="$d3/d0f/mympi_8h.html" title="General MPI wrapper for macros/definitions." alt="" coords="2836,160,2908,189"/>
+<area shape="rect" id="node97" href="$d1/d07/global_8gridsectioning_8h_source.html" title="Definitions and macros for grid sectioning." alt="" coords="2932,160,3081,189"/>
+<area shape="rect" id="node99" href="$df/da8/global_8comploops_8h.html" title="LOOPS (computational and not per&#45;point)" alt="" coords="3105,160,3239,189"/>
+<area shape="rect" id="node101" href="$d5/d7b/global_8openmploops_8h.html" title="All macros and definitions related to OpenMP loop wrappers." alt="" coords="3263,160,3409,189"/>
+<area shape="rect" id="node103" href="$d8/df4/global_8funcdeclare_8h.html" title="Function declarations (used globally) by entire code." alt="" coords="5539,160,5677,189"/>
+<area shape="rect" id="node153" href="$d0/d71/global_8dump_8h_source.html" title="Function declarations (used globally) for dump.c and dumpgen.c." alt="" coords="5701,160,5803,189"/>
+<area shape="rect" id="node155" href="$db/dd4/global_8bounds_8h.html" title="Function declarations (used globally) from bounds.tools.c." alt="" coords="5827,160,5939,189"/>
+<area shape="rect" id="node157" href="$d5/de1/global_8inits_8h.html" title="Function declarations (used globally) from init.tools.c." alt="" coords="5963,160,6056,189"/>
+<area shape="rect" id="node159" href="$df/d50/global_8other_8h.html" title="Other macros and definitions currently reltaed to ENO only." alt="" coords="6080,160,6179,189"/>
+<area shape="rect" id="node161" href="$d7/d5e/unconverted__by__double2longdouble_8inc.html" title="unconverted_by_double2longdouble.inc" alt="" coords="6203,160,6451,189"/>
+<area shape="rect" id="node37" href="$d2/dbf/metric_8h.html" title="Metric Definitions and some metric related macros." alt="" coords="716,247,785,276"/>
+<area shape="rect" id="node39" href="$d7/d56/coord_8h.html" title="User coordinates (defcoord) definitions." alt="" coords="809,247,873,276"/>
+<area shape="rect" id="node41" href="$d4/d96/global_8nondepmnemonics_8rad_8h.html" title="General code definitions of independent quantities for RADIATION parts of code." alt="" coords="897,247,1100,276"/>
+<area shape="rect" id="node43" href="$df/d8d/koral_8mdefs_8h.html" title="Mathematica source file C language definitions for use with Mathematica output Could add definitions ..." alt="" coords="948,333,1049,363"/>
+<area shape="rect" id="node55" href="$d6/d79/global_8stepch_8h.html" title="macros and definitions related to step_ch (RK stepping)" alt="" coords="1124,247,1233,276"/>
+<area shape="rect" id="node59" href="$da/d04/global_8depmnemonics_8rad_8h.html" title="RADIATION code definitions of dependent quantities." alt="" coords="1396,247,1577,276"/>
+<area shape="rect" id="node65" href="$d5/dd8/global_8loops_8perpoint_8h.html" title="Single&#45;point loop related definitions/macros PER&#45;POINT LOOPS." alt="" coords="1601,247,1753,276"/>
+<area shape="rect" id="node67" href="$da/db2/global_8loops_8manypoints_8h.html" title="Multi&#45;point loop related definitions/macros." alt="" coords="1777,247,1951,276"/>
+<area shape="rect" id="node69" href="$dd/d5e/global_8loops_8diagnostics_8h.html" title="Diagnostic Loops and definitions/macros DIAGNOSTIC RELATED LOOPS." alt="" coords="1975,247,2145,276"/>
+<area shape="rect" id="node71" href="$d9/da3/global_8loops_8boundaries_8h.html" title="Boundary Conditions Loop definitions/macros." alt="" coords="2169,247,2337,276"/>
+<area shape="rect" id="node73" href="$d9/d37/global_8loops_8manypoints1d_8h.html" title="Multi&#45;point 1D loop related definitions/macros." alt="" coords="2361,247,2548,276"/>
+<area shape="rect" id="node83" href="$d5/d14/mympi_8global_8nondepmnemonics_8h.html" title="MPI independent macros/definitions." alt="" coords="2572,247,2793,276"/>
+<area shape="rect" id="node85" href="$dc/dd8/mympi_8definit_8h.html" title="Default MPI definitions/macros." alt="" coords="2817,247,2927,276"/>
+<area shape="rect" id="node87" href="$d4/d86/global_8mpi__grmhd__grray__liaison_8h_source.html" title="global definitions/macros that does LIAISON to connect Broderick ray tracing code and HARM..." alt="" coords="2951,238,3111,285"/>
+<area shape="rect" id="node89" href="$de/d1a/mympi_8global_8depmnemonics_8h.html" title="MPI dependent macros/definitions." alt="" coords="3135,247,3337,276"/>
+<area shape="rect" id="node91" href="$da/db4/mympi_8global_8loops_8h.html" title="MPI loop definitions/macros." alt="" coords="3361,247,3505,276"/>
+<area shape="rect" id="node95" href="$d5/dda/mympi_8global_8funcdeclare_8h.html" title="MPI function declarations to be used globally." alt="" coords="3724,247,3905,276"/>
+<area shape="rect" id="node105" href="$d2/d34/copyandinit__functions_8funcdeclare_8h.html" title="copy/init array header" alt="" coords="3929,247,4159,276"/>
+<area shape="rect" id="node107" href="$d5/d2f/flux_8funcdeclare_8h.html" title="Function declarations for flux.c." alt="" coords="4183,247,4308,276"/>
+<area shape="rect" id="node111" href="$de/db2/initbase_8funcdeclare_8h.html" title="function declarations for initbase.c functions used globally" alt="" coords="4559,247,4708,276"/>
+<area shape="rect" id="node113" href="$d2/d22/set__grid_8funcdeclare_8h.html" title="function declarations for global use of set_grid.c functions" alt="" coords="4732,247,4881,276"/>
+<area shape="rect" id="node115" href="$d2/dfd/mpi__fprintfs_8funcdeclare_8h_source.html" title="Function declarations for global use of functions in mpi_fprintfs.c." alt="" coords="4905,247,5076,276"/>
+<area shape="rect" id="node117" href="$d4/dad/bounds_8funcdeclare_8h.html" title="Boundary conditions declarations." alt="" coords="5100,247,5247,276"/>
+<area shape="rect" id="node119" href="$dd/d91/transforms_8funcdeclare_8h.html" title="function declrations for global use of functions in transforms.c" alt="" coords="5271,247,5436,276"/>
+<area shape="rect" id="node121" href="$d6/d85/coord_8funcdeclare_8h.html" title="Coordinates stuff (both user and general)" alt="" coords="5460,247,5596,276"/>
+<area shape="rect" id="node123" href="$dd/da9/metric_8funcdeclare_8h.html" title="Function delcarations for global use of functions in metric.c." alt="" coords="5620,247,5759,276"/>
+<area shape="rect" id="node125" href="$d2/d0e/eos_8funcdeclare_8h.html" title="Equation of State function declarations." alt="" coords="5783,247,5908,276"/>
+<area shape="rect" id="node127" href="$d3/ddc/phys_8funcdeclare_8h.html" title="Function declarations for global use of things in phys.c." alt="" coords="5932,247,6063,276"/>
+<area shape="rect" id="node129" href="$d5/de3/phys_8tools_8funcdeclare_8h.html" title="Function declarations for global use of things in phys.tools.c." alt="" coords="6087,247,6249,276"/>
+<area shape="rect" id="node131" href="$db/dc8/utoprimgen_8funcdeclare_8h.html" title="function declrations for global use of functions in utoprimgen.c" alt="" coords="6273,247,6441,276"/>
+<area shape="rect" id="node133" href="$d3/dfc/tetrad_8funcdeclare_8h.html" title="function declarations for global use of tetrad.c functions" alt="" coords="6465,247,6601,276"/>
+<area shape="rect" id="node135" href="$d2/dd4/wavespeeds_8funcdeclare_8h.html" title="function declrations for global use of functions in wavespeeds.c" alt="" coords="6625,247,6801,276"/>
+<area shape="rect" id="node137" href="$d3/df4/fixup_8funcdeclare_8h_source.html" title="Function declarations for fixup.c." alt="" coords="6825,247,6956,276"/>
+<area shape="rect" id="node139" href="$d6/db2/diag_8funcdeclare_8h.html" title="diagnostics subroutine declarations" alt="" coords="6980,247,7108,276"/>
+<area shape="rect" id="node141" href="$d0/de6/fluxvpot_8funcdeclare_8h.html" title="Function declarations for fluxvpot.c." alt="" coords="7132,247,7281,276"/>
+<area shape="rect" id="node145" href="$d5/df2/metric_8tools_8funcdeclare_8h.html" title="Function declarations for global use of things in metric.tools.c." alt="" coords="7460,247,7631,276"/>
+<area shape="rect" id="node149" href="$df/d21/global_8funcdeclare_8rad_8h.html" title="Function declarations (used globally) from RADIATION parts of code." alt="" coords="7740,247,7900,276"/>
+<area shape="rect" id="node151" href="$db/d64/global_8funcdeclare_8user_8h.html" title="Function declarations (used globally) from USER parts of code." alt="" coords="7924,247,8089,276"/>
+</map>

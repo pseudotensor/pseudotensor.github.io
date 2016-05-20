@@ -1,0 +1,5 @@
+<map id="primtoflux_radonly" name="primtoflux_radonly">
+<area shape="rect" id="node3" href="$d7/def/phys_8tools_8c.html#a3c8277899afc2a48590156971490bb79" title="radiation terms (as if rho=u=p=0)" alt="" coords="181,32,285,61"/>
+<area shape="rect" id="node5" href="$d7/def/phys_8tools_8c.html#a1e1dcf1d515232206c829a33d7e1192b" title="flux associated with Y_fl variable" alt="" coords="341,5,429,35"/>
+<area shape="rect" id="node7" href="$df/d21/global_8funcdeclare_8rad_8h.html#a389bf7e41d2fd117af996e3392067cdc" title="compute radiation stres&#45;energy tensor assuming M1 closure" alt="" coords="335,59,436,88"/>
+</map>

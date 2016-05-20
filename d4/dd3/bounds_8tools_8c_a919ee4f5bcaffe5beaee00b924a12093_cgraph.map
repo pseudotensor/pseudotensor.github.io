@@ -1,0 +1,8 @@
+<map id="MACP0A1mod" name="MACP0A1mod">
+<area shape="rect" id="node3" href="$d9/de9/coord_8c.html#a0672d8c0ee4ff07c7265d0ecbc365cdc" title="normally&#45;used dxdxp[i,j,k] = dV/dX" alt="" coords="164,32,257,61"/>
+<area shape="rect" id="node5" href="$d9/de9/coord_8c.html#a64a4372100fc55abf546f02c8b779595" title="Jacobian for dx uniform per dx nonuniform (dx/dr / dx/dr&#39;) i.e." alt="" coords="307,32,381,61"/>
+<area shape="rect" id="node7" href="$d9/de9/coord_8c.html#a56c4b5c03b74a33a7d809daecfa6925e" title="numerical derivative of V w.r.t. X" alt="" coords="429,32,549,61"/>
+<area shape="rect" id="node9" href="$d9/de9/coord_8c.html#a65ad4ca9656d141cc995fd35ed31dc40" title="Returns boyer&#45;lindquist coordinte of point." alt="" coords="599,32,668,61"/>
+<area shape="rect" id="node11" href="$d8/d60/init_8c.html#a27c01fe4532cf3e10d467517403dbf70" title="blcoord_user" alt="" coords="731,5,827,35"/>
+<area shape="rect" id="node13" href="$d9/de9/coord_8c.html#af7a086e6042d598aea95c2360d07a99b" title="blcoord_singfixes" alt="" coords="717,59,840,88"/>
+</map>

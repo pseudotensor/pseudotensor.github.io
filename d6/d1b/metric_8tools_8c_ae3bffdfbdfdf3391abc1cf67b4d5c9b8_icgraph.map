@@ -1,0 +1,7 @@
+<map id="get_gcovpert" name="get_gcovpert">
+<area shape="rect" id="node3" href="$dc/dd2/newcodediff_8txt.html#ac436ae06ee28eed00b64838c83661111" title="gcov2gcovprim" alt="" coords="173,5,283,35"/>
+<area shape="rect" id="node7" href="$d5/df2/metric_8tools_8funcdeclare_8h.html#aa2133cdebf9e5b32b9b93d58e43170f3" title="transgcovgcovpertself" alt="" coords="153,59,303,88"/>
+<area shape="rect" id="node5" href="$dc/dd2/newcodediff_8txt.html#aa562d46056fd8843d70614cb816414d7" title="obtain gcov in primcoords of whichcoord type metric/coords here ptrgeom is only expected to contain i..." alt="" coords="517,59,600,88"/>
+<area shape="rect" id="node9" href="$d3/d09/transforms_8c.html#a2d666f131585fb782680a6b7f1b95680" title="transformation of metric written in V[X]&#45;type coordinates with dV differentials to one written in Vme..." alt="" coords="355,57,467,87"/>
+<area shape="rect" id="node11" href="$dd/d91/transforms_8funcdeclare_8h.html#a43ce70829331dae3f78afe5ba7489cec" title="transformation of metric written in Vmetric&#45;type coordinates with dVmetric differentials to one writt..." alt="" coords="353,111,468,140"/>
+</map>

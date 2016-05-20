@@ -1,0 +1,13 @@
+<map id="get_m1closure_urfconrel" name="get_m1closure_urfconrel">
+<area shape="rect" id="node3" href="$d2/d72/phys_8tools_8rad_8c.html#ac417e724b77704df1dc35e32071df2f2" title="get&#39;s gamma assuming fixed E rather than using original R^t_t that we assume is flawed near floor reg..." alt="" coords="220,95,428,124"/>
+<area shape="rect" id="node5" href="$df/d21/global_8funcdeclare_8rad_8h.html#ad6748b88a3ad397cb35b4d60c108508d" title="calcfull_tautot" alt="" coords="273,148,375,177"/>
+<area shape="rect" id="node19" href="$d2/d72/phys_8tools_8rad_8c.html#a4c389f16ba2ced5143cb408ea6a39459" title="interpolate between optically thick and thin limits when no u2p_rad() inversion solution" alt="" coords="255,201,393,247"/>
+<area shape="rect" id="node7" href="$d3/ddc/phys_8funcdeclare_8h.html#a11e17cd8b0594d1ad52e3594aa9f477e" title="find ucon, ucov, bcon, bcov from primitive variables when calling get_state, users of this function e..." alt="" coords="525,72,600,101"/>
+<area shape="rect" id="node15" href="$df/d21/global_8funcdeclare_8rad_8h.html#a5943065ab3d5b4e9f4f691db499b588f" title="calculates total opacity over dx[]" alt="" coords="520,152,605,181"/>
+<area shape="rect" id="node9" href="$d3/ddc/phys_8funcdeclare_8h.html#a12a473e24b431762af4168179e82cd08" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="715,5,877,35"/>
+<area shape="rect" id="node11" href="$df/d21/global_8funcdeclare_8rad_8h.html#a8a762bf6582e6f7e1199de9c43b98454" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="697,59,895,88"/>
+<area shape="rect" id="node13" href="$d3/ddc/phys_8funcdeclare_8h.html#a41b8eacac0a4a23d6b00b670fe49629c" title="bsq_calc_fromq" alt="" coords="739,112,853,141"/>
+<area shape="rect" id="node17" href="$d2/d72/phys_8tools_8rad_8c.html#a795959353203e99366b456b16d0d0bab" title="calculates total opacity over dx[] for given chi or chieff" alt="" coords="733,165,859,195"/>
+<area shape="rect" id="node21" href="$d3/ddc/phys_8funcdeclare_8h.html#abfae38e47b0bd05a4fc38302ff948a96" title="find gamma&#45;factor wrt normal observer This function and qsq_calc() have about the same cache miss amo..." alt="" coords="477,207,648,236"/>
+<area shape="rect" id="node23" href="$d2/d72/phys_8tools_8rad_8c.html#a4f76ac5680b95db932b2cf3ee309fb07" title="get Erf" alt="" coords="497,260,628,289"/>
+</map>

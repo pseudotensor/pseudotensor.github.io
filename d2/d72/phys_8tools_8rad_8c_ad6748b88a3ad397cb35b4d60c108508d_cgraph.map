@@ -1,0 +1,8 @@
+<map id="calcfull_tautot" name="calcfull_tautot">
+<area shape="rect" id="node3" href="$d3/ddc/phys_8funcdeclare_8h.html#a11e17cd8b0594d1ad52e3594aa9f477e" title="find ucon, ucov, bcon, bcov from primitive variables when calling get_state, users of this function e..." alt="" coords="164,72,239,101"/>
+<area shape="rect" id="node11" href="$df/d21/global_8funcdeclare_8rad_8h.html#a5943065ab3d5b4e9f4f691db499b588f" title="calculates total opacity over dx[]" alt="" coords="159,139,244,168"/>
+<area shape="rect" id="node5" href="$d3/ddc/phys_8funcdeclare_8h.html#a12a473e24b431762af4168179e82cd08" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="312,5,475,35"/>
+<area shape="rect" id="node7" href="$df/d21/global_8funcdeclare_8rad_8h.html#a8a762bf6582e6f7e1199de9c43b98454" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="295,59,492,88"/>
+<area shape="rect" id="node9" href="$d3/ddc/phys_8funcdeclare_8h.html#a41b8eacac0a4a23d6b00b670fe49629c" title="bsq_calc_fromq" alt="" coords="336,112,451,141"/>
+<area shape="rect" id="node13" href="$d2/d72/phys_8tools_8rad_8c.html#a795959353203e99366b456b16d0d0bab" title="calculates total opacity over dx[] for given chi or chieff" alt="" coords="331,165,456,195"/>
+</map>

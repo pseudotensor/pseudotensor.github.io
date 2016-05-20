@@ -1,0 +1,4 @@
+<map id="mhd_calc_ma" name="mhd_calc_ma">
+<area shape="rect" id="node3" href="$d7/def/phys_8tools_8c.html#ab3fd971df8ad09cce2462e78d7735f33" title="MHD stress tensor, with first index up, second index down." alt="" coords="188,5,305,35"/>
+<area shape="rect" id="node5" href="$d7/def/phys_8tools_8c.html#a44930b5d598885afcb717a270f42749f" title="MHD stress tensor, with first index up, second index down avoids catastrophic cancellation with rest&#45;..." alt="" coords="157,59,336,88"/>
+</map>

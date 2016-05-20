@@ -1,0 +1,19 @@
+<map id="calc_Tandopacityandemission" name="calc_Tandopacityandemission">
+<area shape="rect" id="node3" href="$d2/d72/phys_8tools_8rad_8c.html#ab62b07a8cbcc04f20c05a468ad6de636" title="compute G^ 4&#45;force" alt="" coords="252,32,321,61"/>
+<area shape="rect" id="node5" href="$d2/d72/phys_8tools_8rad_8c.html#aaa32f967773a287ecb6647732157606f" title="get G_" alt="" coords="372,32,441,61"/>
+<area shape="rect" id="node7" href="$d2/d72/phys_8tools_8rad_8c.html#a2a80e3b7ea37b9536f0e49cc740425c9" title="get 4&#45;force for all pl&#39;s" alt="" coords="491,32,643,61"/>
+<area shape="rect" id="node9" href="$d2/d72/phys_8tools_8rad_8c.html#af46d2b1cf89a70a7e2ef503146c649a9" title="uu0 &#45; original cons." alt="" coords="691,32,765,61"/>
+<area shape="rect" id="node11" href="$d2/d72/phys_8tools_8rad_8c.html#a17aede36203a236390363af78d3a86f0" title="compute changes to U (both T and R) using implicit method KORALTODO: If doing implicit, should also add geometry source term that can sometimes be stiff." alt="" coords="968,32,1176,61"/>
+<area shape="rect" id="node35" href="$d2/d72/phys_8tools_8rad_8c.html#afa73a2caa3209e565a64f92447058507" title="calculating approximate Jacobian: dUresid(dUrad,G(Urad))/dUrad = dy(x)/dx then compute inverse Jacobi..." alt="" coords="815,57,919,87"/>
+<area shape="rect" id="node13" href="$d2/d72/phys_8tools_8rad_8c.html#a675bb3f12a77c62cf2540bc42c4867f8" title="wrapper for mode method" alt="" coords="1225,32,1393,61"/>
+<area shape="rect" id="node15" href="$d2/d72/phys_8tools_8rad_8c.html#aa8c5c0d5de580899948f9f22e10aff23" title="General radiation source term calculation (EXTERNALLY called) NOTE: source_explicit() takes as first ..." alt="" coords="1444,32,1564,61"/>
+<area shape="rect" id="node17" href="$d2/d1d/sources_8c.html#a504ce383765ca3d2ff0b1ee653aff854" title="Ugeomfree and dUother are in UNOTHING form (or UEVOLVE without geometry) pf might be modified so bett..." alt="" coords="1613,32,1720,61"/>
+<area shape="rect" id="node19" href="$d7/def/phys_8tools_8c.html#a12ce5092c3a1a566cb7a560a7440acc1" title="add in source terms to equations of motion ui and dUriemann in UEVOLVE form assume q(pr) so consisten..." alt="" coords="1768,32,1829,61"/>
+<area shape="rect" id="node21" href="$df/d22/advance_8c.html#a217bbc071881142282a66a317664912b" title="this method guarantees conservation of non&#45;sourced conserved quantities when metric is time&#45;dependent..." alt="" coords="1892,5,2020,35"/>
+<area shape="rect" id="node33" href="$df/d22/advance_8c.html#a38c6fa95ece38a2821c70a1524ec47ec" title="this method guarantees conservation of non&#45;sourced conserved quantities when metric is time&#45;dependent..." alt="" coords="1879,59,2033,88"/>
+<area shape="rect" id="node23" href="$df/d22/advance_8c.html#a22dff5dc24ff389254919e70b79be489" title="pi: initial values at t=t0 to compute Ui pb: values used to compute flux/source pf: solution using fl..." alt="" coords="2084,5,2153,35"/>
+<area shape="rect" id="node25" href="$d9/de0/step__ch_8c.html#a6ffc23f905bf9f398646f83250167dd2" title="take full step using normal MPI method This method transfers ALL boundary cells AT ONCE after updatin..." alt="" coords="2204,5,2337,35"/>
+<area shape="rect" id="node27" href="$d9/de0/step__ch_8c.html#afe241569412f22a86dea9cd91b516af8" title="take step itself" alt="" coords="2388,5,2455,35"/>
+<area shape="rect" id="node29" href="$d9/de0/step__ch_8c.html#a306fe858d9befc91e386212efe65acaf" title="take full step (called from main.c)" alt="" coords="2505,5,2596,35"/>
+<area shape="rect" id="node31" href="$d0/d29/main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main function that primarily calls init(), diag(), and step_ch_full() in loop." alt="" coords="2645,5,2696,35"/>
+</map>

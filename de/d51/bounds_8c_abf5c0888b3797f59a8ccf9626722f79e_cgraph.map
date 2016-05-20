@@ -1,0 +1,9 @@
+<map id="bound_x2dn_radcyljet" name="bound_x2dn_radcyljet">
+<area shape="rect" id="node3" href="$d8/d60/init_8c.html#afea1cedfcfd7a2363ba469b1561eb034" title="jetbound" alt="" coords="204,59,273,88"/>
+<area shape="rect" id="node5" href="$d9/de9/coord_8c.html#a96290375e27d5d0aa4d843b07e228e14" title="normally&#45;used bl_coord[i,j,k] {i,j,k} &#45;&gt; V only" alt="" coords="341,32,432,61"/>
+<area shape="rect" id="node15" href="$df/d21/global_8funcdeclare_8rad_8h.html#a0fb687f68b97453843fc3c085f05f1b4" title="E=urad=arad T^4 (this is LTE only if put in T was gas T)" alt="" coords="324,85,449,115"/>
+<area shape="rect" id="node7" href="$d9/de9/coord_8c.html#a041e7b005310415c97d90f4b8521ed1a" title="get X(i,j,k) CENT is default position in degenerate cases" alt="" coords="508,5,561,35"/>
+<area shape="rect" id="node9" href="$d9/de9/coord_8c.html#a65ad4ca9656d141cc995fd35ed31dc40" title="Returns boyer&#45;lindquist coordinte of point." alt="" coords="500,59,569,88"/>
+<area shape="rect" id="node11" href="$d8/d60/init_8c.html#a27c01fe4532cf3e10d467517403dbf70" title="blcoord_user" alt="" coords="632,32,728,61"/>
+<area shape="rect" id="node13" href="$d9/de9/coord_8c.html#af7a086e6042d598aea95c2360d07a99b" title="blcoord_singfixes" alt="" coords="619,85,741,115"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="pressure_rho0_u" name="pressure_rho0_u">
+<area shape="rect" id="node3" href="$df/d15/init_8tools_8c.html#a77551ab2581efdbaf170dfca073ff9ab" title="user1_init_primitives" alt="" coords="184,5,325,35"/>
+<area shape="rect" id="node11" href="$d7/def/phys_8tools_8c.html#a1a12a4567087d4cb4b4f7279027b8827" title="wrapper [assumed not called by utoprim_jon.c that could change EOS type] used for inversion check..." alt="" coords="173,58,336,105"/>
+<area shape="rect" id="node17" href="$d1/dde/utoprim__jon_8c.html#a00b6371d7c42afef750bef8c14b22258" title="compute Wp from primitives also get normalizations wglobal" alt="" coords="205,128,304,157"/>
+<area shape="rect" id="node5" href="$de/db2/initbase_8funcdeclare_8h.html#a0afa200a5f947b1c9f6e554519f28fc4" title="init_primitives" alt="" coords="423,5,524,35"/>
+<area shape="rect" id="node7" href="$de/df8/initbase_8c.html#ac4110398e386c9888d9565630357dbbe" title="General&#45;Primary init() routine Uses globals inside init() because sets memory and sets physics..." alt="" coords="681,5,719,35"/>
+<area shape="rect" id="node9" href="$d0/d29/main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main function that primarily calls init(), diag(), and step_ch_full() in loop." alt="" coords="837,5,888,35"/>
+<area shape="rect" id="node13" href="$d7/def/phys_8tools_8c.html#a9ef494ab2cecf6ba0072977dd46a3d25" title="separate function for getting thermodynamical quantities" alt="" coords="384,58,563,105"/>
+<area shape="rect" id="node15" href="$d7/def/phys_8tools_8c.html#ad46675c486138b240d9bfa27e5ca262a" title="used to check inversion, which has consistent pressure used to get things as functions of &#160;instead of..." alt="" coords="611,67,789,96"/>
+<area shape="rect" id="node19" href="$d1/dde/utoprim__jon_8c.html#aadf2276ac5d5109042cc3f32f1904183" title="SETUP ITERATIVE METHODS (good for GRMHD or entropy evolution or cold GRMHD) Doesn&#39;t use Sc since init..." alt="" coords="419,128,528,157"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="compute_dt" name="compute_dt">
+<area shape="rect" id="node3" href="$d2/d72/phys_8tools_8rad_8c.html#a17aede36203a236390363af78d3a86f0" title="compute changes to U (both T and R) using implicit method KORALTODO: If doing implicit, should also add geometry source term that can sometimes be stiff." alt="" coords="144,32,352,61"/>
+<area shape="rect" id="node5" href="$d2/d72/phys_8tools_8rad_8c.html#a675bb3f12a77c62cf2540bc42c4867f8" title="wrapper for mode method" alt="" coords="401,32,569,61"/>
+<area shape="rect" id="node7" href="$d2/d72/phys_8tools_8rad_8c.html#aa8c5c0d5de580899948f9f22e10aff23" title="General radiation source term calculation (EXTERNALLY called) NOTE: source_explicit() takes as first ..." alt="" coords="620,32,740,61"/>
+<area shape="rect" id="node9" href="$d2/d1d/sources_8c.html#a504ce383765ca3d2ff0b1ee653aff854" title="Ugeomfree and dUother are in UNOTHING form (or UEVOLVE without geometry) pf might be modified so bett..." alt="" coords="789,32,896,61"/>
+<area shape="rect" id="node11" href="$d7/def/phys_8tools_8c.html#a12ce5092c3a1a566cb7a560a7440acc1" title="add in source terms to equations of motion ui and dUriemann in UEVOLVE form assume q(pr) so consisten..." alt="" coords="944,32,1005,61"/>
+<area shape="rect" id="node13" href="$df/d22/advance_8c.html#a217bbc071881142282a66a317664912b" title="this method guarantees conservation of non&#45;sourced conserved quantities when metric is time&#45;dependent..." alt="" coords="1068,5,1196,35"/>
+<area shape="rect" id="node25" href="$df/d22/advance_8c.html#a38c6fa95ece38a2821c70a1524ec47ec" title="this method guarantees conservation of non&#45;sourced conserved quantities when metric is time&#45;dependent..." alt="" coords="1055,59,1209,88"/>
+<area shape="rect" id="node15" href="$df/d22/advance_8c.html#a22dff5dc24ff389254919e70b79be489" title="pi: initial values at t=t0 to compute Ui pb: values used to compute flux/source pf: solution using fl..." alt="" coords="1260,5,1329,35"/>
+<area shape="rect" id="node17" href="$d9/de0/step__ch_8c.html#a6ffc23f905bf9f398646f83250167dd2" title="take full step using normal MPI method This method transfers ALL boundary cells AT ONCE after updatin..." alt="" coords="1380,5,1513,35"/>
+<area shape="rect" id="node19" href="$d9/de0/step__ch_8c.html#afe241569412f22a86dea9cd91b516af8" title="take step itself" alt="" coords="1564,5,1631,35"/>
+<area shape="rect" id="node21" href="$d9/de0/step__ch_8c.html#a306fe858d9befc91e386212efe65acaf" title="take full step (called from main.c)" alt="" coords="1681,5,1772,35"/>
+<area shape="rect" id="node23" href="$d0/d29/main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main function that primarily calls init(), diag(), and step_ch_full() in loop." alt="" coords="1821,5,1872,35"/>
+</map>

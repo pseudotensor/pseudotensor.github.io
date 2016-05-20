@@ -1,0 +1,12 @@
+<map id="slope_lim_face2corn" name="slope_lim_face2corn">
+<area shape="rect" id="node3" href="$d0/dde/fluxctstag_8c.html#a985ee116306b4011810334ae93900493" title="INPUTS: Nvec, pr, primface_l[dir], primface_r[dir] OUTPUTS: pbcorn[dir][side], pvcorn[dir][side][side..." alt="" coords="195,32,373,61"/>
+<area shape="rect" id="node5" href="$d0/dde/fluxctstag_8c.html#a4e3d76c6ad125b8199948408c262e3a1" title="wrapper for: 1) interpolate FACE 2 CORN 2) loop over dimensions setting field flux dimension&#45;by&#45;dimen..." alt="" coords="421,32,552,61"/>
+<area shape="rect" id="node7" href="$d5/d2f/flux_8funcdeclare_8h.html#ab229b0f3f2caf3c0a3ef5299fba2b1c0" title="see fluxcompute.c for non&#45;computer science, real physics calculations of flux" alt="" coords="600,32,667,61"/>
+<area shape="rect" id="node9" href="$df/d22/advance_8c.html#a217bbc071881142282a66a317664912b" title="this method guarantees conservation of non&#45;sourced conserved quantities when metric is time&#45;dependent..." alt="" coords="729,5,857,35"/>
+<area shape="rect" id="node21" href="$df/d22/advance_8c.html#a38c6fa95ece38a2821c70a1524ec47ec" title="this method guarantees conservation of non&#45;sourced conserved quantities when metric is time&#45;dependent..." alt="" coords="716,59,871,88"/>
+<area shape="rect" id="node11" href="$df/d22/advance_8c.html#a22dff5dc24ff389254919e70b79be489" title="pi: initial values at t=t0 to compute Ui pb: values used to compute flux/source pf: solution using fl..." alt="" coords="921,5,991,35"/>
+<area shape="rect" id="node13" href="$d9/de0/step__ch_8c.html#a6ffc23f905bf9f398646f83250167dd2" title="take full step using normal MPI method This method transfers ALL boundary cells AT ONCE after updatin..." alt="" coords="1041,5,1175,35"/>
+<area shape="rect" id="node15" href="$d9/de0/step__ch_8c.html#afe241569412f22a86dea9cd91b516af8" title="take step itself" alt="" coords="1225,5,1292,35"/>
+<area shape="rect" id="node17" href="$d9/de0/step__ch_8c.html#a306fe858d9befc91e386212efe65acaf" title="take full step (called from main.c)" alt="" coords="1343,5,1433,35"/>
+<area shape="rect" id="node19" href="$d0/d29/main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main function that primarily calls init(), diag(), and step_ch_full() in loop." alt="" coords="1483,5,1533,35"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="write_coord_parms_user" name="write_coord_parms_user">
+<area shape="rect" id="node3" href="$d6/d85/coord_8funcdeclare_8h.html#a3a0b85792ff4269484f48bb95a0f0a3e" title="write coordinate parameters" alt="" coords="220,5,351,35"/>
+<area shape="rect" id="node5" href="$de/df8/initbase_8c.html#ac4110398e386c9888d9565630357dbbe" title="General&#45;Primary init() routine Uses globals inside init() because sets memory and sets physics..." alt="" coords="401,5,439,35"/>
+<area shape="rect" id="node7" href="$d0/d29/main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main function that primarily calls init(), diag(), and step_ch_full() in loop." alt="" coords="488,5,539,35"/>
+</map>

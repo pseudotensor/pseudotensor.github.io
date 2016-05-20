@@ -1,0 +1,17 @@
+<map id="calc_Gu" name="calc_Gu">
+<area shape="rect" id="node3" href="$df/d21/global_8funcdeclare_8rad_8h.html#aba8efc1e2ea7a31f67bb6c06ce3c164a" title="mhdfull_calc_rad" alt="" coords="164,32,284,61"/>
+<area shape="rect" id="node7" href="$df/d21/global_8funcdeclare_8rad_8h.html#af8e0b77aba8b494909392ceca6f551a0" title="get {abs} and {es} in /mass * rho = 1/cm form." alt="" coords="125,137,323,167"/>
+<area shape="rect" id="node33" href="$d8/d60/init_8c.html#a9118b79d84fe3dccfed3b28ee0fd84b5" title="Gcompt" alt="" coords="191,191,257,220"/>
+<area shape="rect" id="node5" href="$df/d21/global_8funcdeclare_8rad_8h.html#a389bf7e41d2fd117af996e3392067cdc" title="compute radiation stres&#45;energy tensor assuming M1 closure" alt="" coords="420,5,521,35"/>
+<area shape="rect" id="node9" href="$d2/d72/phys_8tools_8rad_8c.html#a864793af319e70c0d099679fa81dd398" title="compute Trad (also computed directly in calc_Gu() above) using only primitives (not using conserved q..." alt="" coords="371,59,571,88"/>
+<area shape="rect" id="node16" href="$df/d21/global_8funcdeclare_8rad_8h.html#a7dc2e853cec9b6f9a5e83ce23c468d03" title="nrad(T) = nrad=arad T^3/2.70118 (this is LTE only if put in T was gas T)" alt="" coords="797,85,925,115"/>
+<area shape="rect" id="node18" href="$d9/de9/coord_8c.html#a96290375e27d5d0aa4d843b07e228e14" title="normally&#45;used bl_coord[i,j,k] {i,j,k} &#45;&gt; V only" alt="" coords="425,163,516,192"/>
+<area shape="rect" id="node28" href="$df/d21/global_8funcdeclare_8rad_8h.html#ab4537b80f4788d1a81759b595c8441a9" title="kappa_func_fits_all" alt="" coords="404,216,537,245"/>
+<area shape="rect" id="node30" href="$df/d21/global_8funcdeclare_8rad_8h.html#a0fb687f68b97453843fc3c085f05f1b4" title="E=urad=arad T^4 (this is LTE only if put in T was gas T)" alt="" coords="408,269,533,299"/>
+<area shape="rect" id="node11" href="$df/d21/global_8funcdeclare_8rad_8h.html#af07558357c906b4dfa61cd34656d9f02" title="E=urad=arad T^4 and just solve for T (this is LTE only if assume resulting T is gas T)..." alt="" coords="799,20,924,49"/>
+<area shape="rect" id="node13" href="$df/d21/global_8funcdeclare_8rad_8h.html#a3e47afcfc5c42719999d851395fd032d" title="nrad(E)" alt="" coords="620,59,748,88"/>
+<area shape="rect" id="node20" href="$d9/de9/coord_8c.html#a041e7b005310415c97d90f4b8521ed1a" title="get X(i,j,k) CENT is default position in degenerate cases" alt="" coords="657,163,711,192"/>
+<area shape="rect" id="node22" href="$d9/de9/coord_8c.html#a65ad4ca9656d141cc995fd35ed31dc40" title="Returns boyer&#45;lindquist coordinte of point." alt="" coords="649,216,719,245"/>
+<area shape="rect" id="node24" href="$d8/d60/init_8c.html#a27c01fe4532cf3e10d467517403dbf70" title="blcoord_user" alt="" coords="813,163,909,192"/>
+<area shape="rect" id="node26" href="$d9/de9/coord_8c.html#af7a086e6042d598aea95c2360d07a99b" title="blcoord_singfixes" alt="" coords="800,216,923,245"/>
+</map>

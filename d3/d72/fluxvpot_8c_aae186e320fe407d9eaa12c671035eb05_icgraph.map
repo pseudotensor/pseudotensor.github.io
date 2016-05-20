@@ -1,0 +1,9 @@
+<map id="normalize_field_withnorm" name="normalize_field_withnorm">
+<area shape="rect" id="node3" href="$df/d15/init_8tools_8c.html#af422330f01b143bf1de8b2e2413fe28d" title="user1_normalize_field" alt="" coords="225,5,372,35"/>
+<area shape="rect" id="node15" href="$df/d15/init_8tools_8c.html#a2b021bfb1a7f7c64def1a19133cc3c27" title="user1_normalize_field\l_sigma" alt="" coords="225,58,372,105"/>
+<area shape="rect" id="node5" href="$d8/d60/init_8c.html#a5622ff1892053efcbc8cb4f0d3b179f7" title="normalize_field" alt="" coords="421,5,531,35"/>
+<area shape="rect" id="node7" href="$df/d15/init_8tools_8c.html#a77551ab2581efdbaf170dfca073ff9ab" title="user1_init_primitives" alt="" coords="579,5,720,35"/>
+<area shape="rect" id="node9" href="$de/db2/initbase_8funcdeclare_8h.html#a0afa200a5f947b1c9f6e554519f28fc4" title="init_primitives" alt="" coords="769,5,871,35"/>
+<area shape="rect" id="node11" href="$de/df8/initbase_8c.html#ac4110398e386c9888d9565630357dbbe" title="General&#45;Primary init() routine Uses globals inside init() because sets memory and sets physics..." alt="" coords="921,5,959,35"/>
+<area shape="rect" id="node13" href="$d0/d29/main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main function that primarily calls init(), diag(), and step_ch_full() in loop." alt="" coords="1008,5,1059,35"/>
+</map>

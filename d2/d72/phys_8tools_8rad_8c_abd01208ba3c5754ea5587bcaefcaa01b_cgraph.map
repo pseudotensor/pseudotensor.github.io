@@ -1,0 +1,13 @@
+<map id="simplefast_rad" name="simplefast_rad">
+<area shape="rect" id="node3" href="$d8/d20/vchar_8c.html#acad033b60e7ca6404ffcd9b0fdfd13b4" title="simplefast" alt="" coords="167,79,249,108"/>
+<area shape="rect" id="node13" href="$d9/de9/coord_8c.html#a0672d8c0ee4ff07c7265d0ecbc365cdc" title="normally&#45;used dxdxp[i,j,k] = dV/dX" alt="" coords="161,139,255,168"/>
+<area shape="rect" id="node5" href="$d3/ddc/phys_8funcdeclare_8h.html#a11e17cd8b0594d1ad52e3594aa9f477e" title="find ucon, ucov, bcon, bcov from primitive variables when calling get_state, users of this function e..." alt="" coords="305,72,380,101"/>
+<area shape="rect" id="node7" href="$d3/ddc/phys_8funcdeclare_8h.html#a12a473e24b431762af4168179e82cd08" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="448,5,611,35"/>
+<area shape="rect" id="node9" href="$df/d21/global_8funcdeclare_8rad_8h.html#a8a762bf6582e6f7e1199de9c43b98454" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="431,59,628,88"/>
+<area shape="rect" id="node11" href="$d3/ddc/phys_8funcdeclare_8h.html#a41b8eacac0a4a23d6b00b670fe49629c" title="bsq_calc_fromq" alt="" coords="472,112,587,141"/>
+<area shape="rect" id="node15" href="$d9/de9/coord_8c.html#a64a4372100fc55abf546f02c8b779595" title="Jacobian for dx uniform per dx nonuniform (dx/dr / dx/dr&#39;) i.e." alt="" coords="305,152,380,181"/>
+<area shape="rect" id="node17" href="$d9/de9/coord_8c.html#a56c4b5c03b74a33a7d809daecfa6925e" title="numerical derivative of V w.r.t. X" alt="" coords="469,165,589,195"/>
+<area shape="rect" id="node19" href="$d9/de9/coord_8c.html#a65ad4ca9656d141cc995fd35ed31dc40" title="Returns boyer&#45;lindquist coordinte of point." alt="" coords="679,165,748,195"/>
+<area shape="rect" id="node21" href="$d8/d60/init_8c.html#a27c01fe4532cf3e10d467517403dbf70" title="blcoord_user" alt="" coords="811,139,907,168"/>
+<area shape="rect" id="node23" href="$d9/de9/coord_8c.html#af7a086e6042d598aea95c2360d07a99b" title="blcoord_singfixes" alt="" coords="797,192,920,221"/>
+</map>

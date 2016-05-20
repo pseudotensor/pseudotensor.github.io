@@ -1,0 +1,14 @@
+<map id="Jcon_numerical" name="Jcon_numerical">
+<area shape="rect" id="node3" href="$d8/d60/init_8c.html#a60b19eb6e1a48a0352db0ed61e3a66ad" title="Fcon_func_mcoord" alt="" coords="168,85,301,115"/>
+<area shape="rect" id="node11" href="$d9/de9/coord_8c.html#a65ad4ca9656d141cc995fd35ed31dc40" title="Returns boyer&#45;lindquist coordinte of point." alt="" coords="551,137,620,167"/>
+<area shape="rect" id="node20" href="$d9/de9/coord_8c.html#a64a4372100fc55abf546f02c8b779595" title="Jacobian for dx uniform per dx nonuniform (dx/dr / dx/dr&#39;) i.e." alt="" coords="197,189,272,219"/>
+<area shape="rect" id="node25" href="$d9/de9/coord_8c.html#a8a51ec95e21441bc2c561af70a1037de" title="Get (dV/dX)^{&#45;1}." alt="" coords="196,243,273,272"/>
+<area shape="rect" id="node5" href="$d8/d60/init_8c.html#a59b39a63d64daf646e66c90a80094911" title="Fcov_numerical" alt="" coords="352,32,467,61"/>
+<area shape="rect" id="node17" href="$d7/def/phys_8tools_8c.html#aa85b8a0d4d26d931c4319cb166bc8dcc" title="raise_A" alt="" coords="376,85,443,115"/>
+<area shape="rect" id="node7" href="$d8/d60/init_8c.html#a81e862220a763157f2f7b5eeac4f19ad" title="mcov_func_mcoord" alt="" coords="517,5,653,35"/>
+<area shape="rect" id="node9" href="$d8/d60/init_8c.html#a64342ba317b8f02ae94de4d5537b2ed5" title="kcov_func_mcoord" alt="" coords="520,59,651,88"/>
+<area shape="rect" id="node13" href="$d8/d60/init_8c.html#a27c01fe4532cf3e10d467517403dbf70" title="blcoord_user" alt="" coords="715,111,811,140"/>
+<area shape="rect" id="node15" href="$d9/de9/coord_8c.html#af7a086e6042d598aea95c2360d07a99b" title="blcoord_singfixes" alt="" coords="701,164,824,193"/>
+<area shape="rect" id="node22" href="$d9/de9/coord_8c.html#a56c4b5c03b74a33a7d809daecfa6925e" title="numerical derivative of V w.r.t. X" alt="" coords="349,189,469,219"/>
+<area shape="rect" id="node27" href="$d6/d1b/metric_8tools_8c.html#af5438dd54272eb585ff5acb06d7195d4" title="matrix_inverse" alt="" coords="356,243,463,272"/>
+</map>

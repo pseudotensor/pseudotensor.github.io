@@ -1,0 +1,44 @@
+<map id="mhd_calc_0_em" name="mhd_calc_0_em">
+<area shape="rect" id="node3" href="$d5/de3/phys_8tools_8funcdeclare_8h.html#a3552b97ec9f1982094fbc3e3f9af7f05" title="MHD stress tensor, with first index up, second index down mhd^dir_j." alt="" coords="172,765,273,795"/>
+<area shape="rect" id="node5" href="$d8/d60/init_8c.html#af3b64278d50c2ff0fee80291fbd38dab" title="fieldprim" alt="" coords="1053,740,1123,769"/>
+<area shape="rect" id="node20" href="$d7/def/phys_8tools_8c.html#a664550c21e363870d26e73f3ab5b3d3c" title="electromagnetic terms (as if rho=u=p=0)" alt="" coords="348,535,452,564"/>
+<area shape="rect" id="node104" href="$d7/def/phys_8tools_8c.html#adeb9f0f94ef0d4f02ddd49a3de4de7e3" title="MHD stress tensor, with first index up, second index down avoids catastrophic cancellation with rest&#45;..." alt="" coords="324,765,476,795"/>
+<area shape="rect" id="node7" href="$df/d15/init_8tools_8c.html#acefd26944dbbb1c289886f520f6befac" title="init_dsandvels" alt="" coords="1241,740,1345,769"/>
+<area shape="rect" id="node17" href="$de/db2/initbase_8funcdeclare_8h.html#a4e121b9448ac1adaa7608206369f9ea5" title="init_postvpot" alt="" coords="1245,687,1341,716"/>
+<area shape="rect" id="node9" href="$df/d15/init_8tools_8c.html#a77551ab2581efdbaf170dfca073ff9ab" title="user1_init_primitives" alt="" coords="1472,687,1613,716"/>
+<area shape="rect" id="node11" href="$de/db2/initbase_8funcdeclare_8h.html#a0afa200a5f947b1c9f6e554519f28fc4" title="init_primitives" alt="" coords="1699,663,1800,692"/>
+<area shape="rect" id="node13" href="$de/df8/initbase_8c.html#ac4110398e386c9888d9565630357dbbe" title="General&#45;Primary init() routine Uses globals inside init() because sets memory and sets physics..." alt="" coords="2351,541,2388,571"/>
+<area shape="rect" id="node15" href="$d0/d29/main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main function that primarily calls init(), diag(), and step_ch_full() in loop." alt="" coords="2896,488,2947,517"/>
+<area shape="rect" id="node22" href="$d7/def/phys_8tools_8c.html#a341c2b0cf913f82a3aa04f9c9e0f5149" title="Calculate fluxes in direction dir and conserved variable U returntype==0 : flux with geometric factor..." alt="" coords="561,475,639,504"/>
+<area shape="rect" id="node97" href="$d7/def/phys_8tools_8c.html#ad54ad99ee062beaf43518d6e9afae0a7" title="primtoflux_nonradonly" alt="" coords="525,535,675,564"/>
+<area shape="rect" id="node24" href="$dc/d5e/fluxcompute_8c.html#ab088a2ff1d1132363446aab47e5c9c7b" title="P&#45;&gt;sate,flux,U." alt="" coords="1037,20,1139,49"/>
+<area shape="rect" id="node56" href="$dc/d5e/fluxcompute_8c.html#a9fdd8e08eb928fb500db9e2688f1475b" title="p2SFUevolveall" alt="" coords="725,161,840,191"/>
+<area shape="rect" id="node60" href="$d7/def/phys_8tools_8c.html#a12238eba5936209a397a23dd34724ec9" title="returns entire space&#45;time(NDIM in size) / EOM(NPR in size) matrix" alt="" coords="735,477,831,507"/>
+<area shape="rect" id="node68" href="$d7/def/phys_8tools_8c.html#a06fa54aa3b2f9f3f125f6c53e5ee29e9" title="calculate &quot;conserved&quot; quantities" alt="" coords="749,303,816,332"/>
+<area shape="rect" id="node26" href="$dc/dae/flux_8c.html#aa26f8747446e1cd5bd214ebc345aafa2" title="compute donor&#45;based flux, bypassing normal fluxcalc()." alt="" coords="1489,5,1596,35"/>
+<area shape="rect" id="node30" href="$d3/ddc/phys_8funcdeclare_8h.html#a0bb12b388b07610cf01d08c19f8fddb1" title="actually compute the flux and ctop for dt calculation" alt="" coords="1219,59,1368,88"/>
+<area shape="rect" id="node28" href="$df/d22/advance_8c.html#a38c6fa95ece38a2821c70a1524ec47ec" title="this method guarantees conservation of non&#45;sourced conserved quantities when metric is time&#45;dependent..." alt="" coords="2129,164,2284,193"/>
+<area shape="rect" id="node32" href="$dc/dae/flux_8c.html#a054658527dfb1d80226b8b2d2106aeed" title="original flux calculator that gets F in &quot;dir&quot;. At end global pleft,pright,dq also set and if STOREWAV..." alt="" coords="1481,59,1604,88"/>
+<area shape="rect" id="node52" href="$dc/dae/flux_8c.html#a2602a4dad9ed7adc944227d02435312e" title="standard (non&#45;field flux) calculation but setup to store results of interpolation so can be used for ..." alt="" coords="1445,112,1640,141"/>
+<area shape="rect" id="node34" href="$dc/dae/flux_8c.html#aaf6d832880760f80459d91477c28b519" title="wrapper for different standard 1&#45;D flux calculators 1&#45;D interpolate and get flux for that direction (..." alt="" coords="1692,112,1807,141"/>
+<area shape="rect" id="node36" href="$dc/dae/flux_8c.html#a8ffa7399bd5354fdcdec5f3e1adf0b13" title="wrapper for CENT_to_FACE1,2,3 used to compute flux at face" alt="" coords="1865,112,1959,141"/>
+<area shape="rect" id="node38" href="$d5/d2f/flux_8funcdeclare_8h.html#ab229b0f3f2caf3c0a3ef5299fba2b1c0" title="see fluxcompute.c for non&#45;computer science, real physics calculations of flux" alt="" coords="2013,112,2080,141"/>
+<area shape="rect" id="node40" href="$df/d22/advance_8c.html#a217bbc071881142282a66a317664912b" title="this method guarantees conservation of non&#45;sourced conserved quantities when metric is time&#45;dependent..." alt="" coords="2143,380,2271,409"/>
+<area shape="rect" id="node42" href="$df/d22/advance_8c.html#a22dff5dc24ff389254919e70b79be489" title="pi: initial values at t=t0 to compute Ui pb: values used to compute flux/source pf: solution using fl..." alt="" coords="2335,435,2404,464"/>
+<area shape="rect" id="node44" href="$d9/de0/step__ch_8c.html#a6ffc23f905bf9f398646f83250167dd2" title="take full step using normal MPI method This method transfers ALL boundary cells AT ONCE after updatin..." alt="" coords="2455,443,2588,472"/>
+<area shape="rect" id="node46" href="$d9/de0/step__ch_8c.html#afe241569412f22a86dea9cd91b516af8" title="take step itself" alt="" coords="2639,456,2705,485"/>
+<area shape="rect" id="node48" href="$d9/de0/step__ch_8c.html#a306fe858d9befc91e386212efe65acaf" title="take full step (called from main.c)" alt="" coords="2756,460,2847,489"/>
+<area shape="rect" id="node62" href="$de/d8c/phys_8c.html#a44693eac289e90fab8a6792e6e9fb02c" title="source_conn" alt="" coords="891,663,987,692"/>
+<area shape="rect" id="node64" href="$d7/def/phys_8tools_8c.html#a12ce5092c3a1a566cb7a560a7440acc1" title="add in source terms to equations of motion ui and dUriemann in UEVOLVE form assume q(pr) so consisten..." alt="" coords="2016,380,2077,409"/>
+<area shape="rect" id="node72" href="$d2/d72/phys_8tools_8rad_8c.html#af46d2b1cf89a70a7e2ef503146c649a9" title="uu0 &#45; original cons." alt="" coords="901,389,976,419"/>
+<area shape="rect" id="node74" href="$d2/d72/phys_8tools_8rad_8c.html#a17aede36203a236390363af78d3a86f0" title="compute changes to U (both T and R) using implicit method KORALTODO: If doing implicit, should also add geometry source term that can sometimes be stiff." alt="" coords="1189,380,1397,409"/>
+<area shape="rect" id="node76" href="$d2/d72/phys_8tools_8rad_8c.html#a675bb3f12a77c62cf2540bc42c4867f8" title="wrapper for mode method" alt="" coords="1459,380,1627,409"/>
+<area shape="rect" id="node88" href="$db/dc8/utoprimgen_8funcdeclare_8h.html#a7e078cc9a354495bc85554d875a705d9" title="General explicit inversion of U[MHD]&#45;&gt;P[MHD] and also inverts scalars. Inverts radiation if(EOMRADTYP..." alt="" coords="895,535,983,564"/>
+<area shape="rect" id="node95" href="$db/dc8/utoprimgen_8funcdeclare_8h.html#a58011440113d7e9adf2b0af40e531f25" title="loop for P&#45;&gt;U" alt="" coords="893,175,984,204"/>
+<area shape="rect" id="node83" href="$d2/d72/phys_8tools_8rad_8c.html#afa73a2caa3209e565a64f92447058507" title="calculating approximate Jacobian: dUresid(dUrad,G(Urad))/dUrad = dy(x)/dx then compute inverse Jacobi..." alt="" coords="1036,380,1140,409"/>
+<area shape="rect" id="node78" href="$d2/d72/phys_8tools_8rad_8c.html#aa8c5c0d5de580899948f9f22e10aff23" title="General radiation source term calculation (EXTERNALLY called) NOTE: source_explicit() takes as first ..." alt="" coords="1689,380,1809,409"/>
+<area shape="rect" id="node80" href="$d2/d1d/sources_8c.html#a504ce383765ca3d2ff0b1ee653aff854" title="Ugeomfree and dUother are in UNOTHING form (or UEVOLVE without geometry) pf might be modified so bett..." alt="" coords="1859,380,1965,409"/>
+<area shape="rect" id="node93" href="$db/dc8/utoprimgen_8funcdeclare_8h.html#a8db9dc7c7f52d6fcb405a74e519db5cf" title="there may be something wrong with this function – didn&#39;t work in TIMEORDER==4, had to do standard met..." alt="" coords="1043,535,1133,564"/>
+<area shape="rect" id="node101" href="$d1/d3e/utoprimgen_8c.html#a0a83e9e7fdd3cc595c5b8d0df88ec684" title="just picks the algorithm to invert" alt="" coords="723,535,843,564"/>
+<area shape="rect" id="node106" href="$d5/de3/phys_8tools_8funcdeclare_8h.html#acee98fab974682bc6838e2040bed0d45" title="MHD stress tensor, with first index up, second index down mhd^dir_j." alt="" coords="744,765,821,795"/>
+</map>

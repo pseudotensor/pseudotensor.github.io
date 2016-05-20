@@ -1,0 +1,6 @@
+<map id="slope_lim_point_allpl" name="slope_lim_point_allpl">
+<area shape="rect" id="node3" href="$df/d30/interppoint_8para_8c.html#af36824cae5f3156fa6da09c3536c7785" title="used when lim=PARAFLAT" alt="" coords="199,5,255,35"/>
+<area shape="rect" id="node5" href="$df/d30/interppoint_8para_8c.html#ac3af1cc044a6058812c512179cbb090a" title="Get pressure Note this is quite inefficient since operating per&#45;point get same pressure for entire li..." alt="" coords="305,5,396,35"/>
+<area shape="rect" id="node7" href="$df/d21/global_8funcdeclare_8rad_8h.html#a5943065ab3d5b4e9f4f691db499b588f" title="calculates total opacity over dx[]" alt="" coords="447,5,532,35"/>
+<area shape="rect" id="node9" href="$d2/d72/phys_8tools_8rad_8c.html#a795959353203e99366b456b16d0d0bab" title="calculates total opacity over dx[] for given chi or chieff" alt="" coords="581,5,707,35"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="p2SFUevolveall" name="p2SFUevolveall">
+<area shape="rect" id="node3" href="$de/d8c/phys_8c.html#a92cd9cc63c782c0d94699d639aa48f69" title="wrapper for choosing to get state by computing it or from global array notice that ptrgeom&#45;&gt;p inputte..." alt="" coords="168,257,304,287"/>
+<area shape="rect" id="node17" href="$d3/ddc/phys_8funcdeclare_8h.html#a19e08c0d7e5a7c9fb9d97ff5ffab053c" title="Calculate fluxes in direction dir and conserved variable U returntype==0 : flux with geometric factor..." alt="" coords="197,483,275,512"/>
+<area shape="rect" id="node5" href="$d7/def/phys_8tools_8c.html#adf1cf36a7c564b77dca08d26ce233df7" title="find ucon, ucov, bcon, bcov from primitive variables when calling get_state, users of this function e..." alt="" coords="353,139,513,168"/>
+<area shape="rect" id="node7" href="$d3/ddc/phys_8funcdeclare_8h.html#a12a473e24b431762af4168179e82cd08" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="581,5,744,35"/>
+<area shape="rect" id="node9" href="$df/d21/global_8funcdeclare_8rad_8h.html#a8a762bf6582e6f7e1199de9c43b98454" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="564,59,761,88"/>
+<area shape="rect" id="node11" href="$d3/ddc/phys_8funcdeclare_8h.html#a41b8eacac0a4a23d6b00b670fe49629c" title="bsq_calc_fromq" alt="" coords="605,112,720,141"/>
+<area shape="rect" id="node13" href="$d7/def/phys_8tools_8c.html#a8db4cb0eaaedfc1b0f3d5791d5052068" title="separate function for getting primitives" alt="" coords="605,165,720,195"/>
+<area shape="rect" id="node15" href="$d7/def/phys_8tools_8c.html#ab23ee4012c46b45e96ebffcf5766b0bb" title="separate function for getting geometry" alt="" coords="605,219,720,248"/>
+<area shape="rect" id="node19" href="$d7/def/phys_8tools_8c.html#ace478826bef11e98daed7dd2ab026c93" title="matter only terms (as if B=0)" alt="" coords="381,429,485,459"/>
+<area shape="rect" id="node39" href="$d7/def/phys_8tools_8c.html#a3c8277899afc2a48590156971490bb79" title="radiation terms (as if rho=u=p=0)" alt="" coords="381,536,485,565"/>
+<area shape="rect" id="node44" href="$d7/def/phys_8tools_8c.html#a664550c21e363870d26e73f3ab5b3d3c" title="electromagnetic terms (as if rho=u=p=0)" alt="" coords="381,643,485,672"/>
+<area shape="rect" id="node21" href="$d7/def/phys_8tools_8c.html#a133cabc36f68eda16f9245f749c3cc38" title="flux asociated with Ynu variable" alt="" coords="616,272,709,301"/>
+<area shape="rect" id="node23" href="$d7/def/phys_8tools_8c.html#a787551c0e83438fe9e63ecd3d996f61a" title="massflux_calc" alt="" coords="847,324,953,353"/>
+<area shape="rect" id="node25" href="$d7/def/phys_8tools_8c.html#a2ef51d65728fe59168e5b705165af6d4" title="flux associated with Y_L variable" alt="" coords="621,376,704,405"/>
+<area shape="rect" id="node28" href="$d7/def/phys_8tools_8c.html#a1e1dcf1d515232206c829a33d7e1192b" title="flux associated with Y_fl variable" alt="" coords="619,536,707,565"/>
+<area shape="rect" id="node31" href="$d7/def/phys_8tools_8c.html#a5717fa95303172fb697892a9232f0546" title="flux of specific entropy" alt="" coords="604,429,721,459"/>
+<area shape="rect" id="node33" href="$d7/def/phys_8tools_8c.html#a4886704a6724ea65ccaae2277b6ded74" title="MHD stress tensor, with first index up, second index down mhd^dir_j understood that mhddiagpress only..." alt="" coords="612,483,713,512"/>
+<area shape="rect" id="node35" href="$d7/def/phys_8tools_8c.html#ab3fd971df8ad09cce2462e78d7735f33" title="MHD stress tensor, with first index up, second index down." alt="" coords="841,456,959,485"/>
+<area shape="rect" id="node37" href="$d7/def/phys_8tools_8c.html#a44930b5d598885afcb717a270f42749f" title="MHD stress tensor, with first index up, second index down avoids catastrophic cancellation with rest&#45;..." alt="" coords="811,509,989,539"/>
+<area shape="rect" id="node42" href="$df/d21/global_8funcdeclare_8rad_8h.html#a389bf7e41d2fd117af996e3392067cdc" title="compute radiation stres&#45;energy tensor assuming M1 closure" alt="" coords="612,589,713,619"/>
+<area shape="rect" id="node46" href="$d7/def/phys_8tools_8c.html#a3552b97ec9f1982094fbc3e3f9af7f05" title="MHD stress tensor, with first index up, second index down mhd^dir_j." alt="" coords="612,643,713,672"/>
+<area shape="rect" id="node52" href="$d7/def/phys_8tools_8c.html#a12b4ca77ffbef030f608b079327b4eb7" title="spatial part of dualfaraday" alt="" coords="584,696,741,725"/>
+<area shape="rect" id="node48" href="$d7/def/phys_8tools_8c.html#a3f6e052b84282b8db7b05a0acc435622" title="EM part of stress&#45;energy tensor." alt="" coords="841,589,959,619"/>
+<area shape="rect" id="node50" href="$d7/def/phys_8tools_8c.html#a864ca09eade159d4c4b545593c1095de" title="MHD stress tensor, with first index up, second index down avoids catastrophic cancellation with rest&#45;..." alt="" coords="821,643,979,672"/>
+<area shape="rect" id="node54" href="$d7/def/phys_8tools_8c.html#abc846df49f33c007310b52240e099e3b" title="Notation for HARM paper and JCM&#39;s GRFFE paper is that: B^ = &#160;*F^{} and for lab&#45;frame we chose ={&#45;1..." alt="" coords="832,696,968,725"/>
+</map>

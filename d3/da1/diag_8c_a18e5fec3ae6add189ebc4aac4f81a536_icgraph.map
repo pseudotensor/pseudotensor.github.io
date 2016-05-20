@@ -1,0 +1,9 @@
+<map id="post_dump" name="post_dump">
+<area shape="rect" id="node3" href="$d6/db2/diag_8funcdeclare_8h.html#ac0efe363ff7411385b5c6ab3b1f146aa" title="main diag() call for diagnostics OPENMPNOTE: Assume diag() not called by multiple threads..." alt="" coords="143,43,188,72"/>
+<area shape="rect" id="node5" href="$d0/d29/main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main function that primarily calls init(), diag(), and step_ch_full() in loop." alt="" coords="832,17,883,47"/>
+<area shape="rect" id="node7" href="$d9/de0/step__ch_8c.html#a4c42d9adb1cef442b95fd62f99ee087a" title="things to do before taking a full timestep assume not called when dt==0.0" alt="" coords="415,43,500,72"/>
+<area shape="rect" id="node12" href="$d9/de0/step__ch_8c.html#ad36a0f9f915547477e3bb2405f8166b9" title="things to do after advance()" alt="" coords="239,95,340,124"/>
+<area shape="rect" id="node9" href="$d9/de0/step__ch_8c.html#a306fe858d9befc91e386212efe65acaf" title="take full step (called from main.c)" alt="" coords="692,43,783,72"/>
+<area shape="rect" id="node14" href="$d9/de0/step__ch_8c.html#a6ffc23f905bf9f398646f83250167dd2" title="take full step using normal MPI method This method transfers ALL boundary cells AT ONCE after updatin..." alt="" coords="391,96,524,125"/>
+<area shape="rect" id="node16" href="$d9/de0/step__ch_8c.html#afe241569412f22a86dea9cd91b516af8" title="take step itself" alt="" coords="575,95,641,124"/>
+</map>

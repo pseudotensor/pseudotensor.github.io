@@ -1,0 +1,5 @@
+<map id="mins" name="mins">
+<area shape="rect" id="node3" href="$d9/de9/coord_8c.html#a88f9330b4045c924440d283f835c23c3" title="maxs" alt="" coords="105,5,159,35"/>
+<area shape="rect" id="node5" href="$d9/de9/coord_8c.html#a423b0068484133016645a61602c58287" title="=mins if dir &lt; 0 =maxs if dir &gt;= 0" alt="" coords="208,32,283,61"/>
+<area shape="rect" id="node7" href="$d9/de9/coord_8c.html#a903c2af253a5f2cac063d020db8f640d" title="for sjet coords" alt="" coords="332,32,385,61"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="set_grid_metrics_others" name="set_grid_metrics_others">
+<area shape="rect" id="node3" href="$d9/d53/metric_8c.html#a4aab5a2c66b9a78bbdf4b802602aea1c" title="obtain gcov in primcoords of whichcoord type metric/coords here ptrgeom is only expected to contain i..." alt="" coords="248,5,331,35"/>
+<area shape="rect" id="node5" href="$d9/d53/metric_8c.html#a9aa4d60510a1e0ce7ccf8c6548533559" title="obtain prim gcon in primcoords of whichcoord type metric/coords" alt="" coords="248,59,331,88"/>
+<area shape="rect" id="node17" href="$d6/d1b/metric_8tools_8c.html#af202c80e27da736cefdcfb32b58f2d50" title="alphalapse_func" alt="" coords="232,112,347,141"/>
+<area shape="rect" id="node19" href="$d6/d1b/metric_8tools_8c.html#ae1e83b3070698bfd965333b1de3c316f" title="betasqoalphasq_func" alt="" coords="217,165,361,195"/>
+<area shape="rect" id="node21" href="$d6/d1b/metric_8tools_8c.html#a2a46942b789b8a05a90cfc89bf71d678" title="beta_func" alt="" coords="251,219,328,248"/>
+<area shape="rect" id="node23" href="$d9/d53/metric_8c.html#a5abb16fde142db59624fe7c0d165eef5" title="geometry only contains i,j,k,p only for spherical polar coordinates with negligible relativistic effe..." alt="" coords="241,272,337,301"/>
+<area shape="rect" id="node40" href="$dd/da9/metric_8funcdeclare_8h.html#a3b36886edac65bf2cec66526e2fa6839" title="metric_checks" alt="" coords="236,325,343,355"/>
+<area shape="rect" id="node7" href="$d9/d53/metric_8c.html#a86ce117fe6ff82eba345abc60228f026" title="g^{} (analytic or numerical)" alt="" coords="412,32,543,61"/>
+<area shape="rect" id="node9" href="$d6/d1b/metric_8tools_8c.html#ac6cbb75d520b0e66c6b083229a2225ee" title="gcon2gconprim" alt="" coords="423,85,532,115"/>
+<area shape="rect" id="node11" href="$d9/de9/coord_8c.html#a65ad4ca9656d141cc995fd35ed31dc40" title="Returns boyer&#45;lindquist coordinte of point." alt="" coords="884,259,953,288"/>
+<area shape="rect" id="node13" href="$d8/d60/init_8c.html#a27c01fe4532cf3e10d467517403dbf70" title="blcoord_user" alt="" coords="1016,232,1112,261"/>
+<area shape="rect" id="node15" href="$d9/de9/coord_8c.html#af7a086e6042d598aea95c2360d07a99b" title="blcoord_singfixes" alt="" coords="1003,285,1125,315"/>
+<area shape="rect" id="node25" href="$d9/de9/coord_8c.html#a1e1d4fd69f1234cb8751c4ea66297995" title="normally&#45;used bl_coord[i,j,k] {i,j,k} &#45;&gt; X only" alt="" coords="440,205,515,235"/>
+<area shape="rect" id="node29" href="$d9/de9/coord_8c.html#a96290375e27d5d0aa4d843b07e228e14" title="normally&#45;used bl_coord[i,j,k] {i,j,k} &#45;&gt; V only" alt="" coords="432,259,523,288"/>
+<area shape="rect" id="node33" href="$d9/de9/coord_8c.html#a0672d8c0ee4ff07c7265d0ecbc365cdc" title="normally&#45;used dxdxp[i,j,k] = dV/dX" alt="" coords="431,312,524,341"/>
+<area shape="rect" id="node27" href="$d9/de9/coord_8c.html#a041e7b005310415c97d90f4b8521ed1a" title="get X(i,j,k) CENT is default position in degenerate cases" alt="" coords="603,205,656,235"/>
+<area shape="rect" id="node35" href="$d9/de9/coord_8c.html#a64a4372100fc55abf546f02c8b779595" title="Jacobian for dx uniform per dx nonuniform (dx/dr / dx/dr&#39;) i.e." alt="" coords="592,312,667,341"/>
+<area shape="rect" id="node37" href="$d9/de9/coord_8c.html#a56c4b5c03b74a33a7d809daecfa6925e" title="numerical derivative of V w.r.t. X" alt="" coords="715,311,835,340"/>
+</map>

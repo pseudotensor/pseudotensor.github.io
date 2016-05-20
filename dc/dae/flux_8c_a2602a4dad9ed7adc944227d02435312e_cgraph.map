@@ -1,0 +1,72 @@
+<map id="fluxcalc_standard_4fluxctstag" name="fluxcalc_standard_4fluxctstag">
+<area shape="rect" id="node3" href="$dc/dae/flux_8c.html#aef355ccd1ca2295b84ad2fe1fc011d35" title="normal interpolation of CENT quantities to FACE quantities sets global variables pl_ct and pr_ct to p..." alt="" coords="252,388,431,417"/>
+<area shape="rect" id="node45" href="$de/db6/wavespeeds_8c.html#ade70ed882f42b4e9e2a70916a33ab532" title="complete storage of wave speeds per dimension only called for STOREWAVESPEEDS==1" alt="" coords="249,492,433,521"/>
+<area shape="rect" id="node92" href="$dc/d5e/fluxcompute_8c.html#aa195df0bf8c8fb0a14d8e27a1d3b89ff" title="actually compute the flux and ctop for dt calculation" alt="" coords="267,648,416,677"/>
+<area shape="rect" id="node5" href="$dc/dae/flux_8c.html#a26e710fdb46e850254a41503d339720d" title="slope_lim_cent2face() is provided p2interp and returns pleft/pright gets interpolations in expanded r..." alt="" coords="493,304,635,333"/>
+<area shape="rect" id="node39" href="$d4/dad/bounds_8funcdeclare_8h.html#addca75a18cc861326a321565a2e81aa0" title="normal bounding of non&#45;staggered primitives" alt="" coords="520,388,608,417"/>
+<area shape="rect" id="node7" href="$d5/d2f/flux_8funcdeclare_8h.html#a8dd1a8200cac33bfd5c4520a76285d69" title="slope_lim_linetype_c2e" alt="" coords="715,251,872,280"/>
+<area shape="rect" id="node9" href="$d5/d2f/flux_8funcdeclare_8h.html#a0d50fd876f4e61d909a1e006bac28387" title="whether primreal is p2interp can&#39;t assume this is true in general (e.g." alt="" coords="725,304,861,333"/>
+<area shape="rect" id="node11" href="$d8/ddd/interppoint_8c.html#ab50c96d0a8603ec34f1c7a023a4156ff" title="interpolate from a center point to a left/right interface" alt="" coords="944,139,1083,168"/>
+<area shape="rect" id="node25" href="$d8/ddd/interppoint_8c.html#a7d9885f70f6b7a32637920ddf74b0f98" title="DEVELOPING RIGHT NOW interpolate from a center point to a left/right interface." alt="" coords="944,265,1083,311"/>
+<area shape="rect" id="node29" href="$d8/ddd/interppoint_8c.html#af1ea622d3759b98722d11ed0a3d555e7" title="interpolate from a center point to a left/right interface" alt="" coords="943,335,1084,364"/>
+<area shape="rect" id="node13" href="$df/d30/interppoint_8para_8c.html#a6f45f925dd7972198f6ef41de42374df" title="lout/rout is left and right sides of cell note how used in step_ch.c to get appropriate interface val..." alt="" coords="1191,219,1236,248"/>
+<area shape="rect" id="node15" href="$df/d30/interppoint_8para_8c.html#abe1b655c3bd8c6e3ac699e6cedb03c18" title="doesn&#39;t use dq" alt="" coords="1187,5,1240,35"/>
+<area shape="rect" id="node17" href="$d8/ddd/interppoint_8c.html#a70f54bffe6df5f410a43980f4aa83971" title="limited slopes using 3 points Gives slope that will be assumed to be located at same location as yc –..." alt="" coords="1151,59,1276,88"/>
+<area shape="rect" id="node19" href="$d8/ddd/interppoint_8c.html#a9a8e95c4501b23d1a80162c3b2cee142" title="http://mesa.sourceforge.net/pdfs/suresh+huynh_97.pdf http://iopscience.iop.org/0264&#45;9381/31/1/015005/..." alt="" coords="1191,112,1236,141"/>
+<area shape="rect" id="node23" href="$d8/ddd/interppoint_8c.html#a75bf89b2527949948883f2089374dcf9" title="Enhanced PPM The Einstein Toolkit source code says that the relevant references are: Colella &amp; Sekora..." alt="" coords="1187,165,1240,195"/>
+<area shape="rect" id="node21" href="$d8/ddd/interppoint_8c.html#a5677d72681462036d6c8a6e13c1c20d9" title="if yll,yl,yc,yr,yrr are really in that order, then get lout." alt="" coords="1395,112,1467,141"/>
+<area shape="rect" id="node27" href="$d8/ddd/interppoint_8c.html#a367af7d2f93ccc62459fbdbacd4f62f3" title="limited 2nd derivatives using 4 points see e2c_continuous.nb" alt="" coords="1136,271,1291,318"/>
+<area shape="rect" id="node31" href="$df/d30/interppoint_8para_8c.html#af36824cae5f3156fa6da09c3536c7785" title="used when lim=PARAFLAT" alt="" coords="1185,368,1241,397"/>
+<area shape="rect" id="node33" href="$df/d30/interppoint_8para_8c.html#ac3af1cc044a6058812c512179cbb090a" title="Get pressure Note this is quite inefficient since operating per&#45;point get same pressure for entire li..." alt="" coords="1385,375,1476,404"/>
+<area shape="rect" id="node35" href="$df/d21/global_8funcdeclare_8rad_8h.html#a5943065ab3d5b4e9f4f691db499b588f" title="calculates total opacity over dx[]" alt="" coords="1637,407,1723,436"/>
+<area shape="rect" id="node37" href="$d2/d72/phys_8tools_8rad_8c.html#a795959353203e99366b456b16d0d0bab" title="calculates total opacity over dx[] for given chi or chieff" alt="" coords="1877,465,2003,495"/>
+<area shape="rect" id="node41" href="$d4/dad/bounds_8funcdeclare_8h.html#adbe0e3ba8a74f09ab928a96bd68cab6d" title="bound any prim type CALLS directly real and MPI boundary functions pstag = pstagglobal ucons = unewgl..." alt="" coords="739,388,848,417"/>
+<area shape="rect" id="node43" href="$de/d51/bounds_8c.html#a4bc7413b2cdb89e070f38bbb689ae555" title="bound_prim_user_dir" alt="" coords="943,388,1084,417"/>
+<area shape="rect" id="node47" href="$de/db6/wavespeeds_8c.html#a99d8d29de65565134c1d91007b0d12c6" title="store wavespeeds somewhere" alt="" coords="484,465,644,495"/>
+<area shape="rect" id="node90" href="$de/db6/wavespeeds_8c.html#a9adb8a9ad30e24a08285f6a4c28856ef" title="GODMARK: something wrong with comparing multiple velocities since grid/metric changes in space (i..." alt="" coords="517,519,611,548"/>
+<area shape="rect" id="node49" href="$de/d8c/phys_8c.html#af560087e095f9677ac65b1bc6b424fa9" title="wrapper for choosing to get state by computing it or from global array pointer assign (overrides the ..." alt="" coords="695,453,892,483"/>
+<area shape="rect" id="node59" href="$de/db6/wavespeeds_8c.html#add5696e20b7235a8f870dd0dffb8dc7d" title="vchar_each" alt="" coords="749,543,837,572"/>
+<area shape="rect" id="node51" href="$d7/def/phys_8tools_8c.html#a3ef47960a272ef981fd551582b610503" title="find ucon, ucov, bcon, bcov from primitive variables when calling get_state, users of this function e..." alt="" coords="1569,645,1791,675"/>
+<area shape="rect" id="node53" href="$d3/ddc/phys_8funcdeclare_8h.html#a12a473e24b431762af4168179e82cd08" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="1859,699,2021,728"/>
+<area shape="rect" id="node55" href="$df/d21/global_8funcdeclare_8rad_8h.html#a8a762bf6582e6f7e1199de9c43b98454" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="1841,752,2039,781"/>
+<area shape="rect" id="node57" href="$d3/ddc/phys_8funcdeclare_8h.html#a41b8eacac0a4a23d6b00b670fe49629c" title="bsq_calc_fromq" alt="" coords="1883,645,1997,675"/>
+<area shape="rect" id="node61" href="$d8/d20/vchar_8c.html#acdcca98ca82b041999cdb29fdf958a22" title="Charles believed that near polar axis one should set vmax=vmin=0, but not right since makes flux comp..." alt="" coords="987,647,1040,676"/>
+<area shape="rect" id="node70" href="$df/d21/global_8funcdeclare_8rad_8h.html#a2f3df15638b9795556ef2bdf1e8c8f97" title="compute radiative characteristics as limited by opacity" alt="" coords="975,543,1052,572"/>
+<area shape="rect" id="node63" href="$d8/d20/vchar_8c.html#acad033b60e7ca6404ffcd9b0fdfd13b4" title="simplefast" alt="" coords="1389,647,1472,676"/>
+<area shape="rect" id="node65" href="$d3/ddc/phys_8funcdeclare_8h.html#a11e17cd8b0594d1ad52e3594aa9f477e" title="find ucon, ucov, bcon, bcov from primitive variables when calling get_state, users of this function e..." alt="" coords="1643,699,1717,728"/>
+<area shape="rect" id="node72" href="$d2/d72/phys_8tools_8rad_8c.html#a63256be4e6a63216cb736012e36a6375" title="calc_chi" alt="" coords="1179,543,1248,572"/>
+<area shape="rect" id="node75" href="$d2/d72/phys_8tools_8rad_8c.html#abd01208ba3c5754ea5587bcaefcaa01b" title="get lab&#45;frame 3&#45;velocity for radiative emission in radiative frame" alt="" coords="1160,596,1267,625"/>
+<area shape="rect" id="node78" href="$d9/de9/coord_8c.html#a0672d8c0ee4ff07c7265d0ecbc365cdc" title="normally&#45;used dxdxp[i,j,k] = dV/dX" alt="" coords="1384,592,1477,621"/>
+<area shape="rect" id="node80" href="$d9/de9/coord_8c.html#a64a4372100fc55abf546f02c8b779595" title="Jacobian for dx uniform per dx nonuniform (dx/dr / dx/dr&#39;) i.e." alt="" coords="1643,592,1717,621"/>
+<area shape="rect" id="node82" href="$d9/de9/coord_8c.html#a56c4b5c03b74a33a7d809daecfa6925e" title="numerical derivative of V w.r.t. X" alt="" coords="1880,592,2000,621"/>
+<area shape="rect" id="node84" href="$d9/de9/coord_8c.html#a65ad4ca9656d141cc995fd35ed31dc40" title="Returns boyer&#45;lindquist coordinte of point." alt="" coords="2089,592,2159,621"/>
+<area shape="rect" id="node86" href="$d8/d60/init_8c.html#a27c01fe4532cf3e10d467517403dbf70" title="blcoord_user" alt="" coords="2221,565,2317,595"/>
+<area shape="rect" id="node88" href="$d9/de9/coord_8c.html#af7a086e6042d598aea95c2360d07a99b" title="blcoord_singfixes" alt="" coords="2208,619,2331,648"/>
+<area shape="rect" id="node94" href="$dc/d5e/fluxcompute_8c.html#a922e55dc88348166e53d2615941564d8" title="actually compute flux from given data GODMARK: right now if splitmaem==1 assumes F is linear in FMA a..." alt="" coords="515,595,613,624"/>
+<area shape="rect" id="node98" href="$dc/d5e/fluxcompute_8c.html#ab088a2ff1d1132363446aab47e5c9c7b" title="P&#45;&gt;sate,flux,U." alt="" coords="513,804,615,833"/>
+<area shape="rect" id="node150" href="$dc/d5e/fluxcompute_8c.html#a9fdd8e08eb928fb500db9e2688f1475b" title="p2SFUevolveall" alt="" coords="507,857,621,887"/>
+<area shape="rect" id="node154" href="$de/db6/wavespeeds_8c.html#a269fca52bf4745f3742456843cd0c4ca" title="get wave speeds for flux calculation" alt="" coords="504,648,624,677"/>
+<area shape="rect" id="node96" href="$de/db6/wavespeeds_8c.html#a7fa9b1c8202eb413cf4a926eebec66dc" title="really HARM is currently using VERY local lax Friedrich." alt="" coords="740,596,847,625"/>
+<area shape="rect" id="node100" href="$de/d8c/phys_8c.html#a92cd9cc63c782c0d94699d639aa48f69" title="wrapper for choosing to get state by computing it or from global array notice that ptrgeom&#45;&gt;p inputte..." alt="" coords="725,884,861,913"/>
+<area shape="rect" id="node111" href="$d3/ddc/phys_8funcdeclare_8h.html#a19e08c0d7e5a7c9fb9d97ff5ffab053c" title="Calculate fluxes in direction dir and conserved variable U returntype==0 : flux with geometric factor..." alt="" coords="755,831,832,860"/>
+<area shape="rect" id="node102" href="$d7/def/phys_8tools_8c.html#adf1cf36a7c564b77dca08d26ce233df7" title="find ucon, ucov, bcon, bcov from primitive variables when calling get_state, users of this function e..." alt="" coords="1600,779,1760,808"/>
+<area shape="rect" id="node107" href="$d7/def/phys_8tools_8c.html#a8db4cb0eaaedfc1b0f3d5791d5052068" title="separate function for getting primitives" alt="" coords="1883,859,1997,888"/>
+<area shape="rect" id="node109" href="$d7/def/phys_8tools_8c.html#ab23ee4012c46b45e96ebffcf5766b0bb" title="separate function for getting geometry" alt="" coords="1883,805,1997,835"/>
+<area shape="rect" id="node113" href="$d7/def/phys_8tools_8c.html#ace478826bef11e98daed7dd2ab026c93" title="matter only terms (as if B=0)" alt="" coords="961,1017,1065,1047"/>
+<area shape="rect" id="node133" href="$d7/def/phys_8tools_8c.html#a3c8277899afc2a48590156971490bb79" title="radiation terms (as if rho=u=p=0)" alt="" coords="961,857,1065,887"/>
+<area shape="rect" id="node138" href="$d7/def/phys_8tools_8c.html#a664550c21e363870d26e73f3ab5b3d3c" title="electromagnetic terms (as if rho=u=p=0)" alt="" coords="961,804,1065,833"/>
+<area shape="rect" id="node115" href="$d7/def/phys_8tools_8c.html#a133cabc36f68eda16f9245f749c3cc38" title="flux asociated with Ynu variable" alt="" coords="1167,1175,1260,1204"/>
+<area shape="rect" id="node117" href="$d7/def/phys_8tools_8c.html#a787551c0e83438fe9e63ecd3d996f61a" title="massflux_calc" alt="" coords="1377,1123,1484,1152"/>
+<area shape="rect" id="node119" href="$d7/def/phys_8tools_8c.html#a2ef51d65728fe59168e5b705165af6d4" title="flux associated with Y_L variable" alt="" coords="1172,1017,1255,1047"/>
+<area shape="rect" id="node122" href="$d7/def/phys_8tools_8c.html#a1e1dcf1d515232206c829a33d7e1192b" title="flux associated with Y_fl variable" alt="" coords="1169,911,1257,940"/>
+<area shape="rect" id="node125" href="$d7/def/phys_8tools_8c.html#a5717fa95303172fb697892a9232f0546" title="flux of specific entropy" alt="" coords="1155,1071,1272,1100"/>
+<area shape="rect" id="node127" href="$d7/def/phys_8tools_8c.html#a4886704a6724ea65ccaae2277b6ded74" title="MHD stress tensor, with first index up, second index down mhd^dir_j understood that mhddiagpress only..." alt="" coords="1163,964,1264,993"/>
+<area shape="rect" id="node129" href="$d7/def/phys_8tools_8c.html#ab3fd971df8ad09cce2462e78d7735f33" title="MHD stress tensor, with first index up, second index down." alt="" coords="1372,991,1489,1020"/>
+<area shape="rect" id="node131" href="$d7/def/phys_8tools_8c.html#a44930b5d598885afcb717a270f42749f" title="MHD stress tensor, with first index up, second index down avoids catastrophic cancellation with rest&#45;..." alt="" coords="1341,937,1520,967"/>
+<area shape="rect" id="node136" href="$df/d21/global_8funcdeclare_8rad_8h.html#a389bf7e41d2fd117af996e3392067cdc" title="compute radiation stres&#45;energy tensor assuming M1 closure" alt="" coords="1163,857,1264,887"/>
+<area shape="rect" id="node140" href="$d7/def/phys_8tools_8c.html#a3552b97ec9f1982094fbc3e3f9af7f05" title="MHD stress tensor, with first index up, second index down mhd^dir_j." alt="" coords="1163,804,1264,833"/>
+<area shape="rect" id="node146" href="$d7/def/phys_8tools_8c.html#a12b4ca77ffbef030f608b079327b4eb7" title="spatial part of dualfaraday" alt="" coords="1135,751,1292,780"/>
+<area shape="rect" id="node142" href="$d7/def/phys_8tools_8c.html#a3f6e052b84282b8db7b05a0acc435622" title="EM part of stress&#45;energy tensor." alt="" coords="1372,857,1489,887"/>
+<area shape="rect" id="node144" href="$d7/def/phys_8tools_8c.html#a864ca09eade159d4c4b545593c1095de" title="MHD stress tensor, with first index up, second index down avoids catastrophic cancellation with rest&#45;..." alt="" coords="1352,804,1509,833"/>
+<area shape="rect" id="node148" href="$d7/def/phys_8tools_8c.html#abc846df49f33c007310b52240e099e3b" title="Notation for HARM paper and JCM&#39;s GRFFE paper is that: B^ = &#160;*F^{} and for lab&#45;frame we chose ={&#45;1..." alt="" coords="1363,751,1499,780"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="simplefast_rad" name="simplefast_rad">
+<area shape="rect" id="node3" href="$d2/d72/phys_8tools_8rad_8c.html#a56f468401f08e66966f0318198ca6e85" title="compute radiative characteristics as limited by opacity" alt="" coords="161,95,239,124"/>
+<area shape="rect" id="node5" href="$d2/dd4/wavespeeds_8funcdeclare_8h.html#abb81988bde678c59afc5d006cf76b835" title="vchar_each" alt="" coords="289,95,377,124"/>
+<area shape="rect" id="node7" href="$d2/dd4/wavespeeds_8funcdeclare_8h.html#a119027341f97d571212ad74c5ddc94b4" title="get wave speeds for flux calculation and for dt calculation" alt="" coords="1136,43,1211,72"/>
+<area shape="rect" id="node32" href="$d2/dd4/wavespeeds_8funcdeclare_8h.html#a2afa5dfde87c74476341a69d555f91e6" title="get wave speeds for flux calculation" alt="" coords="448,148,568,177"/>
+<area shape="rect" id="node57" href="$d2/dd4/wavespeeds_8funcdeclare_8h.html#a75426b1b9bf1a293c60d108c63b0322d" title="store wavespeeds somewhere" alt="" coords="428,95,588,124"/>
+<area shape="rect" id="node9" href="$d5/de3/phys_8tools_8funcdeclare_8h.html#ac9512f95a18d4a189ac642d138f95051" title="2D only for now since really only useful for 2D imaging map out region around failure point OPENMPNOT..." alt="" coords="1437,15,1515,44"/>
+<area shape="rect" id="node27" href="$d6/db2/diag_8funcdeclare_8h.html#a53324e6dbf9729772e70f0a053468ae6" title="set var to be averaged in time" alt="" coords="1281,68,1377,97"/>
+<area shape="rect" id="node11" href="$d6/db2/diag_8funcdeclare_8h.html#ac0efe363ff7411385b5c6ab3b1f146aa" title="main diag() call for diagnostics OPENMPNOTE: Assume diag() not called by multiple threads..." alt="" coords="1629,41,1675,71"/>
+<area shape="rect" id="node13" href="$d0/d29/main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main function that primarily calls init(), diag(), and step_ch_full() in loop." alt="" coords="2373,17,2424,47"/>
+<area shape="rect" id="node15" href="$d9/de0/step__ch_8c.html#a4c42d9adb1cef442b95fd62f99ee087a" title="things to do before taking a full timestep assume not called when dt==0.0" alt="" coords="1956,43,2041,72"/>
+<area shape="rect" id="node20" href="$d9/de0/step__ch_8c.html#ad36a0f9f915547477e3bb2405f8166b9" title="things to do after advance()" alt="" coords="1780,93,1881,123"/>
+<area shape="rect" id="node17" href="$d9/de0/step__ch_8c.html#a306fe858d9befc91e386212efe65acaf" title="take full step (called from main.c)" alt="" coords="2233,43,2324,72"/>
+<area shape="rect" id="node22" href="$d9/de0/step__ch_8c.html#a6ffc23f905bf9f398646f83250167dd2" title="take full step using normal MPI method This method transfers ALL boundary cells AT ONCE after updatin..." alt="" coords="1932,96,2065,125"/>
+<area shape="rect" id="node24" href="$d9/de0/step__ch_8c.html#afe241569412f22a86dea9cd91b516af8" title="take step itself" alt="" coords="2116,95,2183,124"/>
+<area shape="rect" id="node29" href="$d6/db2/diag_8funcdeclare_8h.html#a6bd89f9169256368191c508d23b0b453" title="if doavg==1, then assume this is call before dumping" alt="" coords="1427,68,1525,97"/>
+<area shape="rect" id="node34" href="$d3/ddc/phys_8funcdeclare_8h.html#a0bb12b388b07610cf01d08c19f8fddb1" title="actually compute the flux and ctop for dt calculation" alt="" coords="656,148,805,177"/>
+<area shape="rect" id="node36" href="$dc/dae/flux_8c.html#a054658527dfb1d80226b8b2d2106aeed" title="original flux calculator that gets F in &quot;dir&quot;. At end global pleft,pright,dq also set and if STOREWAV..." alt="" coords="908,95,1031,124"/>
+<area shape="rect" id="node51" href="$dc/dae/flux_8c.html#a2602a4dad9ed7adc944227d02435312e" title="standard (non&#45;field flux) calculation but setup to store results of interpolation so can be used for ..." alt="" coords="872,148,1067,177"/>
+<area shape="rect" id="node54" href="$dc/dae/flux_8c.html#aa26f8747446e1cd5bd214ebc345aafa2" title="compute donor&#45;based flux, bypassing normal fluxcalc()." alt="" coords="1120,200,1227,229"/>
+<area shape="rect" id="node38" href="$dc/dae/flux_8c.html#aaf6d832880760f80459d91477c28b519" title="wrapper for different standard 1&#45;D flux calculators 1&#45;D interpolate and get flux for that direction (..." alt="" coords="1116,147,1231,176"/>
+<area shape="rect" id="node40" href="$dc/dae/flux_8c.html#a8ffa7399bd5354fdcdec5f3e1adf0b13" title="wrapper for CENT_to_FACE1,2,3 used to compute flux at face" alt="" coords="1283,147,1376,176"/>
+<area shape="rect" id="node42" href="$d5/d2f/flux_8funcdeclare_8h.html#ab229b0f3f2caf3c0a3ef5299fba2b1c0" title="see fluxcompute.c for non&#45;computer science, real physics calculations of flux" alt="" coords="1443,147,1509,176"/>
+<area shape="rect" id="node44" href="$df/d22/advance_8c.html#a217bbc071881142282a66a317664912b" title="this method guarantees conservation of non&#45;sourced conserved quantities when metric is time&#45;dependent..." alt="" coords="1588,147,1716,176"/>
+<area shape="rect" id="node49" href="$df/d22/advance_8c.html#a38c6fa95ece38a2821c70a1524ec47ec" title="this method guarantees conservation of non&#45;sourced conserved quantities when metric is time&#45;dependent..." alt="" coords="1575,200,1729,229"/>
+<area shape="rect" id="node46" href="$df/d22/advance_8c.html#a22dff5dc24ff389254919e70b79be489" title="pi: initial values at t=t0 to compute Ui pb: values used to compute flux/source pf: solution using fl..." alt="" coords="1796,147,1865,176"/>
+<area shape="rect" id="node59" href="$d2/dd4/wavespeeds_8funcdeclare_8h.html#acb4a2a3be68517862cdcf097ff51af37" title="complete storage of wave speeds per dimension only called for STOREWAVESPEEDS==1" alt="" coords="639,95,823,124"/>
+</map>

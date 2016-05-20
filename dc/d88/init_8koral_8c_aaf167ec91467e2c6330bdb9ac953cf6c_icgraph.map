@@ -1,0 +1,7 @@
+<map id="nz_func" name="nz_func">
+<area shape="rect" id="node3" href="$dc/d88/init_8koral_8c.html#ab0bfdee8d9b31f16dbadd2a5108ad29b" title="donut_analytical_solution" alt="" coords="123,36,291,65"/>
+<area shape="rect" id="node5" href="$dc/d88/init_8koral_8c.html#a83e7f10ffd348c4d18b3245dd4bab585" title="make_nonrt2rt_solution" alt="" coords="339,36,496,65"/>
+<area shape="rect" id="node7" href="$dc/d88/init_8koral_8c.html#a73009fd6280963c265e2cf5d1c353e8d" title="get_full_rtsolution" alt="" coords="545,36,668,65"/>
+<area shape="rect" id="node9" href="$dc/d88/init_8koral_8c.html#af94364e17d67cddfbb7bb3bf39c05ee6" title="init_dsandvels_koral" alt="" coords="723,5,861,35"/>
+<area shape="rect" id="node11" href="$dc/d88/init_8koral_8c.html#a448cd3fd9a1d862485e7b6e67b965172" title="process_restart_toget\l_radiation" alt="" coords="719,58,865,105"/>
+</map>

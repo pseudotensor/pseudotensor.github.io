@@ -1,0 +1,11 @@
+<map id="Fcov_numerical" name="Fcov_numerical">
+<area shape="rect" id="node3" href="$d8/d60/init_8c.html#af3b64278d50c2ff0fee80291fbd38dab" title="fieldprim" alt="" coords="513,32,583,61"/>
+<area shape="rect" id="node18" href="$d8/d60/init_8c.html#a60b19eb6e1a48a0352db0ed61e3a66ad" title="Fcon_func_mcoord" alt="" coords="168,57,301,87"/>
+<area shape="rect" id="node5" href="$df/d15/init_8tools_8c.html#acefd26944dbbb1c289886f520f6befac" title="init_dsandvels" alt="" coords="633,5,737,35"/>
+<area shape="rect" id="node15" href="$de/db2/initbase_8funcdeclare_8h.html#a4e121b9448ac1adaa7608206369f9ea5" title="init_postvpot" alt="" coords="637,59,733,88"/>
+<area shape="rect" id="node7" href="$df/d15/init_8tools_8c.html#a77551ab2581efdbaf170dfca073ff9ab" title="user1_init_primitives" alt="" coords="787,32,928,61"/>
+<area shape="rect" id="node9" href="$de/db2/initbase_8funcdeclare_8h.html#a0afa200a5f947b1c9f6e554519f28fc4" title="init_primitives" alt="" coords="977,32,1079,61"/>
+<area shape="rect" id="node11" href="$de/df8/initbase_8c.html#ac4110398e386c9888d9565630357dbbe" title="General&#45;Primary init() routine Uses globals inside init() because sets memory and sets physics..." alt="" coords="1129,32,1167,61"/>
+<area shape="rect" id="node13" href="$d0/d29/main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main function that primarily calls init(), diag(), and step_ch_full() in loop." alt="" coords="1216,32,1267,61"/>
+<area shape="rect" id="node20" href="$d8/d60/init_8c.html#a1feb8bcb4d09610b1c57d32c8c76e446" title="Jcon_numerical" alt="" coords="351,57,463,87"/>
+</map>

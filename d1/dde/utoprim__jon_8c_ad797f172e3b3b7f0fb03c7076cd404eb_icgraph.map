@@ -1,0 +1,4 @@
+<map id="func_Sc_opt" name="func_Sc_opt">
+<area shape="rect" id="node3" href="$d1/dde/utoprim__jon_8c.html#acba495fe9b21b19b393a2e532c4880dc" title="optimized version of res_sq_Sc() just calls func_Sc_opt() for now since more optimized than original ..." alt="" coords="149,5,259,35"/>
+<area shape="rect" id="node5" href="$d1/dde/utoprim__jon_8c.html#a8fb6d0d8cc633b31a9b2e2e7746df656" title="find_root_1D_gen_Sc" alt="" coords="307,32,453,61"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="area_map" name="area_map">
+<area shape="rect" id="node3" href="$d9/de9/coord_8c.html#a041e7b005310415c97d90f4b8521ed1a" title="get X(i,j,k) CENT is default position in degenerate cases" alt="" coords="144,5,197,35"/>
+<area shape="rect" id="node5" href="$d3/ddc/phys_8funcdeclare_8h.html#a11e17cd8b0594d1ad52e3594aa9f477e" title="find ucon, ucov, bcon, bcov from primitive variables when calling get_state, users of this function e..." alt="" coords="841,84,916,113"/>
+<area shape="rect" id="node13" href="$de/db6/wavespeeds_8c.html#a89ebfcafdd16ff4aafb94363ca6da464" title="get wave speeds for flux calculation and for dt calculation" alt="" coords="133,109,208,139"/>
+<area shape="rect" id="node43" href="$d3/d72/fluxvpot_8c.html#a7277508d423fdc259aa198871f944927" title="find divb if higher order method, then must use conserved value U[] assumed to then exist and be used..." alt="" coords="137,163,204,192"/>
+<area shape="rect" id="node7" href="$d3/ddc/phys_8funcdeclare_8h.html#a12a473e24b431762af4168179e82cd08" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="984,31,1147,60"/>
+<area shape="rect" id="node9" href="$df/d21/global_8funcdeclare_8rad_8h.html#a8a762bf6582e6f7e1199de9c43b98454" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="967,84,1164,113"/>
+<area shape="rect" id="node11" href="$d3/ddc/phys_8funcdeclare_8h.html#a41b8eacac0a4a23d6b00b670fe49629c" title="bsq_calc_fromq" alt="" coords="1008,137,1123,167"/>
+<area shape="rect" id="node15" href="$de/db6/wavespeeds_8c.html#add5696e20b7235a8f870dd0dffb8dc7d" title="vchar_each" alt="" coords="257,109,345,139"/>
+<area shape="rect" id="node17" href="$d8/d20/vchar_8c.html#acdcca98ca82b041999cdb29fdf958a22" title="Charles believed that near polar axis one should set vmax=vmin=0, but not right since makes flux comp..." alt="" coords="408,109,461,139"/>
+<area shape="rect" id="node22" href="$df/d21/global_8funcdeclare_8rad_8h.html#a2f3df15638b9795556ef2bdf1e8c8f97" title="compute radiative characteristics as limited by opacity" alt="" coords="396,188,473,217"/>
+<area shape="rect" id="node19" href="$d8/d20/vchar_8c.html#acad033b60e7ca6404ffcd9b0fdfd13b4" title="simplefast" alt="" coords="703,109,785,139"/>
+<area shape="rect" id="node24" href="$d2/d72/phys_8tools_8rad_8c.html#a63256be4e6a63216cb736012e36a6375" title="calc_chi" alt="" coords="551,160,620,189"/>
+<area shape="rect" id="node26" href="$d2/d72/phys_8tools_8rad_8c.html#a795959353203e99366b456b16d0d0bab" title="calculates total opacity over dx[] for given chi or chieff" alt="" coords="523,213,648,243"/>
+<area shape="rect" id="node28" href="$d2/d72/phys_8tools_8rad_8c.html#abd01208ba3c5754ea5587bcaefcaa01b" title="get lab&#45;frame 3&#45;velocity for radiative emission in radiative frame" alt="" coords="532,267,639,296"/>
+<area shape="rect" id="node31" href="$d9/de9/coord_8c.html#a0672d8c0ee4ff07c7265d0ecbc365cdc" title="normally&#45;used dxdxp[i,j,k] = dV/dX" alt="" coords="697,267,791,296"/>
+<area shape="rect" id="node33" href="$d9/de9/coord_8c.html#a64a4372100fc55abf546f02c8b779595" title="Jacobian for dx uniform per dx nonuniform (dx/dr / dx/dr&#39;) i.e." alt="" coords="841,267,916,296"/>
+<area shape="rect" id="node35" href="$d9/de9/coord_8c.html#a56c4b5c03b74a33a7d809daecfa6925e" title="numerical derivative of V w.r.t. X" alt="" coords="1005,267,1125,296"/>
+<area shape="rect" id="node37" href="$d9/de9/coord_8c.html#a65ad4ca9656d141cc995fd35ed31dc40" title="Returns boyer&#45;lindquist coordinte of point." alt="" coords="1215,267,1284,296"/>
+<area shape="rect" id="node39" href="$d8/d60/init_8c.html#a27c01fe4532cf3e10d467517403dbf70" title="blcoord_user" alt="" coords="1347,240,1443,269"/>
+<area shape="rect" id="node41" href="$d9/de9/coord_8c.html#af7a086e6042d598aea95c2360d07a99b" title="blcoord_singfixes" alt="" coords="1333,293,1456,323"/>
+</map>

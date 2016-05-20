@@ -1,0 +1,6 @@
+<map id="find_root_3D_gen_Palpha" name="find_root_3D_gen_Palpha">
+<area shape="rect" id="node3" href="$d1/dde/utoprim__jon_8c.html#ab5dd7587116d2d7073062c2d17f5d17a" title="not that this is well&#45;optimized. Psq_Wp() and dPsqdWp_Wp() don&#39;t use subfunctions like &quot;_unopt&quot; versi..." alt="" coords="231,59,308,88"/>
+<area shape="rect" id="node9" href="$d1/dde/utoprim__jon_8c.html#a1780c31c73839c379dcd3b6e514ad57b" title="res_sq_Psq" alt="" coords="224,5,315,35"/>
+<area shape="rect" id="node5" href="$d1/dde/utoprim__jon_8c.html#afe17864b47716e97813efc16988f8184" title="new version without poles returns actually W^2 P^2 Note that this does NOT use Qdotn or Qdotnp (from ..." alt="" coords="380,5,452,35"/>
+<area shape="rect" id="node7" href="$d1/dde/utoprim__jon_8c.html#adb5a3bde8a0f684bc7a2c2810b5871ec" title="new version without poles result = d(W^2 P^2)/dWp = Note that this does NOT use Qdotn or Qdotnp (from..." alt="" coords="363,59,469,88"/>
+</map>

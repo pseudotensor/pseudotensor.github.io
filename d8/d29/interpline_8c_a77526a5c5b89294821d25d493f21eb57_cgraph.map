@@ -1,0 +1,10 @@
+<map id="get_V_and_P" name="get_V_and_P">
+<area shape="rect" id="node3" href="$d8/df4/global_8funcdeclare_8h.html#a47051981241cadc820dd2ee6a039d16e" title="functions for loop stuff" alt="" coords="167,5,287,35"/>
+<area shape="rect" id="node5" href="$de/d8c/phys_8c.html#a7c83a4e2d3fdf30054e2462d7b3a88f0" title="wrapper for choosing to get state by computing it or from global array pointer assign (overrides the ..." alt="" coords="156,59,297,88"/>
+<area shape="rect" id="node15" href="$df/d21/global_8funcdeclare_8rad_8h.html#a5943065ab3d5b4e9f4f691db499b588f" title="calculates total opacity over dx[]" alt="" coords="184,112,269,141"/>
+<area shape="rect" id="node7" href="$d7/def/phys_8tools_8c.html#a932c3d0ede37a07f6d380cf6ce07e0b0" title="find ucon, ucov, bcon, bcov from primitive variables when calling get_state, users of this function e..." alt="" coords="347,59,515,88"/>
+<area shape="rect" id="node9" href="$d3/ddc/phys_8funcdeclare_8h.html#a12a473e24b431762af4168179e82cd08" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="581,5,744,35"/>
+<area shape="rect" id="node11" href="$df/d21/global_8funcdeclare_8rad_8h.html#a8a762bf6582e6f7e1199de9c43b98454" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="564,59,761,88"/>
+<area shape="rect" id="node13" href="$d3/ddc/phys_8funcdeclare_8h.html#a41b8eacac0a4a23d6b00b670fe49629c" title="bsq_calc_fromq" alt="" coords="605,112,720,141"/>
+<area shape="rect" id="node17" href="$d2/d72/phys_8tools_8rad_8c.html#a795959353203e99366b456b16d0d0bab" title="calculates total opacity over dx[] for given chi or chieff" alt="" coords="368,112,493,141"/>
+</map>

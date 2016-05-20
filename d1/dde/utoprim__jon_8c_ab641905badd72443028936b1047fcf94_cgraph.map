@@ -1,0 +1,5 @@
+<map id="res_sq_Eprime_opt" name="res_sq_Eprime_opt">
+<area shape="rect" id="node3" href="$d1/dde/utoprim__jon_8c.html#a8dc5a20ee912aa167614e979cfc4d5b6" title="optimized version of func_Eprime() optimized in sense that minimizes extra kinetic calculations AND E..." alt="" coords="189,32,309,61"/>
+<area shape="rect" id="node5" href="$d1/dde/utoprim__jon_8c.html#a7aa8084194414e0db6af909356a94f74" title="get first part of kinetic stuff for func() or resid_sq() for optimized version of func()..." alt="" coords="357,5,485,35"/>
+<area shape="rect" id="node7" href="$d1/dde/utoprim__jon_8c.html#adc1ab10f4ac3ae07f8f8b8e4b00f3858" title="get kinetic stuff for func() or resid_sq() for optimized version of func()" alt="" coords="357,59,485,88"/>
+</map>

@@ -1,0 +1,40 @@
+<map id="set_grid" name="set_grid">
+<area shape="rect" id="node3" href="$dd/d50/set__grid_8c.html#af3223e2ae9a1a4c3bac0aeb957fcbb9e" title="set positional stores" alt="" coords="491,197,624,227"/>
+<area shape="rect" id="node20" href="$dd/d50/set__grid_8c.html#aaa7945715830e5c62a0ea015481ab25e" title="Grid functions that only exist at many locations and are assigned values on all points INCLUDING anot..." alt="" coords="124,409,241,439"/>
+<area shape="rect" id="node53" href="$dd/d50/set__grid_8c.html#a06dfefaa7728d6874c6a7ac641760b79" title="Grid functions that only exist at one location for all grid points." alt="" coords="128,463,237,492"/>
+<area shape="rect" id="node72" href="$dd/d50/set__grid_8c.html#af216153a9a9b3c70ef58fa6a9d3e9e22" title="Get tetrads that convert between X&#45;lab frame basis to V&#45;orthonormal basis." alt="" coords="131,145,235,175"/>
+<area shape="rect" id="node5" href="$d9/de9/coord_8c.html#a64a4372100fc55abf546f02c8b779595" title="Jacobian for dx uniform per dx nonuniform (dx/dr / dx/dr&#39;) i.e." alt="" coords="716,252,791,281"/>
+<area shape="rect" id="node9" href="$d9/de9/coord_8c.html#a65ad4ca9656d141cc995fd35ed31dc40" title="Returns boyer&#45;lindquist coordinte of point." alt="" coords="1175,277,1244,307"/>
+<area shape="rect" id="node15" href="$d9/de9/coord_8c.html#a041e7b005310415c97d90f4b8521ed1a" title="get X(i,j,k) CENT is default position in degenerate cases" alt="" coords="727,356,780,385"/>
+<area shape="rect" id="node18" href="$d6/d1b/metric_8tools_8c.html#af5438dd54272eb585ff5acb06d7195d4" title="matrix_inverse" alt="" coords="919,136,1025,165"/>
+<area shape="rect" id="node7" href="$d9/de9/coord_8c.html#a56c4b5c03b74a33a7d809daecfa6925e" title="numerical derivative of V w.r.t. X" alt="" coords="912,252,1032,281"/>
+<area shape="rect" id="node11" href="$d8/d60/init_8c.html#a27c01fe4532cf3e10d467517403dbf70" title="blcoord_user" alt="" coords="1365,304,1461,333"/>
+<area shape="rect" id="node13" href="$d9/de9/coord_8c.html#af7a086e6042d598aea95c2360d07a99b" title="blcoord_singfixes" alt="" coords="1352,251,1475,280"/>
+<area shape="rect" id="node22" href="$d9/d53/metric_8c.html#a4aab5a2c66b9a78bbdf4b802602aea1c" title="obtain gcov in primcoords of whichcoord type metric/coords here ptrgeom is only expected to contain i..." alt="" coords="1168,721,1251,751"/>
+<area shape="rect" id="node24" href="$d9/d53/metric_8c.html#a9aa4d60510a1e0ce7ccf8c6548533559" title="obtain prim gcon in primcoords of whichcoord type metric/coords" alt="" coords="323,513,405,543"/>
+<area shape="rect" id="node31" href="$d6/d1b/metric_8tools_8c.html#ae5dbb2bc88f07e392d2a9e6b911c5c48" title="gdet_func_metric" alt="" coords="1148,593,1271,623"/>
+<area shape="rect" id="node33" href="$d6/d1b/metric_8tools_8c.html#af202c80e27da736cefdcfb32b58f2d50" title="alphalapse_func" alt="" coords="307,249,421,279"/>
+<area shape="rect" id="node35" href="$d6/d1b/metric_8tools_8c.html#ae1e83b3070698bfd965333b1de3c316f" title="betasqoalphasq_func" alt="" coords="292,303,436,332"/>
+<area shape="rect" id="node37" href="$d6/d1b/metric_8tools_8c.html#a2a46942b789b8a05a90cfc89bf71d678" title="beta_func" alt="" coords="325,409,403,439"/>
+<area shape="rect" id="node39" href="$d9/d53/metric_8c.html#a5abb16fde142db59624fe7c0d165eef5" title="geometry only contains i,j,k,p only for spherical polar coordinates with negligible relativistic effe..." alt="" coords="316,356,412,385"/>
+<area shape="rect" id="node51" href="$dd/da9/metric_8funcdeclare_8h.html#a3b36886edac65bf2cec66526e2fa6839" title="metric_checks" alt="" coords="311,619,417,648"/>
+<area shape="rect" id="node26" href="$d9/d53/metric_8c.html#a86ce117fe6ff82eba345abc60228f026" title="g^{} (analytic or numerical)" alt="" coords="492,515,623,544"/>
+<area shape="rect" id="node28" href="$d6/d1b/metric_8tools_8c.html#ac6cbb75d520b0e66c6b083229a2225ee" title="gcon2gconprim" alt="" coords="503,461,612,491"/>
+<area shape="rect" id="node41" href="$d9/de9/coord_8c.html#a1e1d4fd69f1234cb8751c4ea66297995" title="normally&#45;used bl_coord[i,j,k] {i,j,k} &#45;&gt; X only" alt="" coords="520,357,595,387"/>
+<area shape="rect" id="node44" href="$d9/de9/coord_8c.html#a96290375e27d5d0aa4d843b07e228e14" title="normally&#45;used bl_coord[i,j,k] {i,j,k} &#45;&gt; V only" alt="" coords="512,304,603,333"/>
+<area shape="rect" id="node48" href="$d9/de9/coord_8c.html#a0672d8c0ee4ff07c7265d0ecbc365cdc" title="normally&#45;used dxdxp[i,j,k] = dV/dX" alt="" coords="511,251,604,280"/>
+<area shape="rect" id="node56" href="$d9/d53/metric_8c.html#adfc6a9822ce8e370187881cb166bfe3d" title="connection not simply transformed – so compute directly from final metric (primcoords)" alt="" coords="323,723,405,752"/>
+<area shape="rect" id="node58" href="$d9/d53/metric_8c.html#ad9016364674fada47dae513901633886" title="CONNECTIONS (numerical or analytic)" alt="" coords="496,723,619,752"/>
+<area shape="rect" id="node69" href="$d9/d53/metric_8c.html#a1e45f3c9253aee772c162ae63ea83717" title="set_conn_ksmetric" alt="" coords="492,776,623,805"/>
+<area shape="rect" id="node60" href="$d6/d1b/metric_8tools_8c.html#ae69349da832b43c5e199da1b2526b2da" title="conn_func_numerical1" alt="" coords="677,723,829,752"/>
+<area shape="rect" id="node63" href="$d6/d1b/metric_8tools_8c.html#a16590e2fa012fcb4003a079c3d990854" title="gcov_func_mcoord" alt="" coords="907,773,1037,803"/>
+<area shape="rect" id="node66" href="$d6/d1b/metric_8tools_8c.html#a8f34363ac1d1e0d1100611f9ff540074" title="gdet_func_mcoord_usegcov" alt="" coords="880,619,1064,648"/>
+<area shape="rect" id="node74" href="$d5/d0a/tetrad_8c.html#a1a0f6fda274fc7e16bdd8fcdfb4450ed" title="Notes:" alt="" coords="307,145,421,175"/>
+<area shape="rect" id="node77" href="$d9/de9/coord_8c.html#a8a51ec95e21441bc2c561af70a1037de" title="Get (dV/dX)^{&#45;1}." alt="" coords="715,97,792,127"/>
+<area shape="rect" id="node80" href="$d5/d0a/tetrad_8c.html#ad5d2935e2a3bac988149aa7b02c8feca" title="find suitable orthonormal tetrad wrapper for tetr_func()." alt="" coords="487,93,628,123"/>
+<area shape="rect" id="node83" href="$d5/d0a/tetrad_8c.html#a0ca3db13e43c41bb7271db7bac10dc2a" title="input gcov and get out orthonormal tetrad in covariant and contravariant forms if metrictype..." alt="" coords="717,44,789,73"/>
+<area shape="rect" id="node85" href="$d5/d0a/tetrad_8c.html#a2ed15e40ab71ecd986b28510b0d8b8d4" title="compute_tetrcon_frommetric" alt="" coords="879,57,1065,87"/>
+<area shape="rect" id="node87" href="$d5/d0a/tetrad_8c.html#a7daace7a466d45cd01436b89193102c0" title="pre&#45;setup tetrad use of lapack function" alt="" coords="1140,5,1279,35"/>
+<area shape="rect" id="node91" href="$d5/d0a/tetrad_8c.html#acc8b9e9ae9e03624e53b0a45e881a367" title="compute orthonormal tetrad [ortho]^[lab] for converting u_[lab] or u^[ortho] Notes: For full rotating..." alt="" coords="1116,58,1303,105"/>
+<area shape="rect" id="node89" href="$d4/dfc/tetlapack__func__doubleonly_8c.html#a6493f604b00b9a2337263d17b6230a02" title="native doubles for inside variables find tetrad" alt="" coords="1360,5,1467,35"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="get_kinetics_part1" name="get_kinetics_part1">
+<area shape="rect" id="node3" href="$d1/dde/utoprim__jon_8c.html#a8dc5a20ee912aa167614e979cfc4d5b6" title="optimized version of func_Eprime() optimized in sense that minimizes extra kinetic calculations AND E..." alt="" coords="181,57,301,87"/>
+<area shape="rect" id="node10" href="$d1/dde/utoprim__jon_8c.html#ad797f172e3b3b7f0fb03c7076cd404eb" title="optimized version of func_Sc() very similar to optimized version of func_Eprime() but different &quot;geta..." alt="" coords="195,111,288,140"/>
+<area shape="rect" id="node5" href="$d1/dde/utoprim__jon_8c.html#ab641905badd72443028936b1047fcf94" title="res_sq_Eprime() (or any pure residual function) is only called by line searching method" alt="" coords="351,5,484,35"/>
+<area shape="rect" id="node7" href="$d1/dde/utoprim__jon_8c.html#a2c3695a6bccd8e5de8daa9c35c442b96" title="find_root_1D_gen_Eprime" alt="" coords="535,44,705,73"/>
+<area shape="rect" id="node12" href="$d1/dde/utoprim__jon_8c.html#acba495fe9b21b19b393a2e532c4880dc" title="optimized version of res_sq_Sc() just calls func_Sc_opt() for now since more optimized than original ..." alt="" coords="363,109,472,139"/>
+<area shape="rect" id="node14" href="$d1/dde/utoprim__jon_8c.html#a8fb6d0d8cc633b31a9b2e2e7746df656" title="find_root_1D_gen_Sc" alt="" coords="547,123,693,152"/>
+</map>

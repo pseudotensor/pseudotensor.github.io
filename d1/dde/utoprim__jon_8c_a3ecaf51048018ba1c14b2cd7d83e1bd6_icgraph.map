@@ -1,0 +1,7 @@
+<map id="coldgrhd" name="coldgrhd">
+<area shape="rect" id="node3" href="$d1/dde/utoprim__jon_8c.html#aadf2276ac5d5109042cc3f32f1904183" title="SETUP ITERATIVE METHODS (good for GRMHD or entropy evolution or cold GRMHD) Doesn&#39;t use Sc since init..." alt="" coords="125,5,235,35"/>
+<area shape="rect" id="node5" href="$d1/dde/utoprim__jon_8c.html#ab0bc808b2bebcc0555091f4fb9105772" title="validate solution:" alt="" coords="133,59,227,88"/>
+<area shape="rect" id="node7" href="$d1/dde/utoprim__jon_8c.html#a0442f8e961abb0552e7254e87f5a2cbb" title="validate functions here change where Newton is, so ok to change arbitrarily since next Newton step wi..." alt="" coords="284,32,385,61"/>
+<area shape="rect" id="node11" href="$d1/dde/utoprim__jon_8c.html#ae776e6e31381814b4dd1aafd336bb69d" title="1D methods using W&#39;" alt="" coords="284,85,385,115"/>
+<area shape="rect" id="node9" href="$d1/dde/utoprim__jon_8c.html#ac5113207ae627a2049037851190aecfd" title="set pointer to the correct validate_x function" alt="" coords="435,59,547,88"/>
+</map>

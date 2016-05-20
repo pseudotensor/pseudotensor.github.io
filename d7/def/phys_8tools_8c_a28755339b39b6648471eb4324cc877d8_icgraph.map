@@ -1,0 +1,9 @@
+<map id="MtoF" name="MtoF">
+<area shape="rect" id="node3" href="$d8/d60/init_8c.html#af3b64278d50c2ff0fee80291fbd38dab" title="fieldprim" alt="" coords="108,32,177,61"/>
+<area shape="rect" id="node5" href="$df/d15/init_8tools_8c.html#acefd26944dbbb1c289886f520f6befac" title="init_dsandvels" alt="" coords="228,5,332,35"/>
+<area shape="rect" id="node15" href="$de/db2/initbase_8funcdeclare_8h.html#a4e121b9448ac1adaa7608206369f9ea5" title="init_postvpot" alt="" coords="232,59,328,88"/>
+<area shape="rect" id="node7" href="$df/d15/init_8tools_8c.html#a77551ab2581efdbaf170dfca073ff9ab" title="user1_init_primitives" alt="" coords="381,32,523,61"/>
+<area shape="rect" id="node9" href="$de/db2/initbase_8funcdeclare_8h.html#a0afa200a5f947b1c9f6e554519f28fc4" title="init_primitives" alt="" coords="572,32,673,61"/>
+<area shape="rect" id="node11" href="$de/df8/initbase_8c.html#ac4110398e386c9888d9565630357dbbe" title="General&#45;Primary init() routine Uses globals inside init() because sets memory and sets physics..." alt="" coords="724,32,761,61"/>
+<area shape="rect" id="node13" href="$d0/d29/main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main function that primarily calls init(), diag(), and step_ch_full() in loop." alt="" coords="811,32,861,61"/>
+</map>

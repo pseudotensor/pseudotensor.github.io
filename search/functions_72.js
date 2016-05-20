@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['raise_5fa',['raise_A',['../d7/def/phys_8tools_8c.html#aa85b8a0d4d26d931c4319cb166bc8dcc',1,'phys.tools.c']]],
+  ['read_5fcoord_5fparms',['read_coord_parms',['../d9/de9/coord_8c.html#a78425dc3bae629a1a4f7f9926de1aba3',1,'read_coord_parms(int defcoordlocal):&#160;coord.c'],['../d6/d85/coord_8funcdeclare_8h.html#a78425dc3bae629a1a4f7f9926de1aba3',1,'read_coord_parms(int defcoordlocal):&#160;coord.c']]],
+  ['read_5fcoord_5fparms_5fuser',['read_coord_parms_user',['../d8/d60/init_8c.html#a096639e4541e9201ce3e4d4688d401c2',1,'read_coord_parms_user(int defcoordlocal, FILE *in):&#160;init.c'],['../d7/daf/jon__interp__coorduser_8c.html#a096639e4541e9201ce3e4d4688d401c2',1,'read_coord_parms_user(int defcoordlocal, FILE *in):&#160;jon_interp_coorduser.c'],['../dc/d88/init_8koral_8c.html#a096639e4541e9201ce3e4d4688d401c2',1,'read_coord_parms_user(int defcoordlocal, FILE *in):&#160;init.koral.c']]],
+  ['read_5fgdumpline',['read_gdumpline',['../dc/dd2/newcodediff_8txt.html#a65102260f30f9e36938aa6740c73f952',1,'read_gdumpline(FILE *in, int ti[], FTYPE X[], FTYPE V[], FTYPE(*conn)[NDIM][NDIM], FTYPE *gcon, FTYPE *gcov, FTYPE *gdet, FTYPE ck[], FTYPE(*dxdxp)[NDIM]):&#160;newcodediff.txt'],['../dc/dd2/newcodediff_8txt.html#a9faec6868da96d6ad791a208c3e2aeb5',1,'read_gdumpline(FILE *in, int ti[], FTYPE X[], FTYPE V[], FTYPE(*conn)[NDIM][NDIM], FTYPE(*gcon)[NDIM], FTYPE(*gcov)[NDIM], FTYPE *gdet, FTYPE ck[], FTYPE(*dxdxp)[NDIM]):&#160;newcodediff.txt']]],
+  ['read_5frestart_5fheader',['read_restart_header',['../d0/d71/global_8dump_8h.html#a0f9a9310f27a78c898e5c0a31a888e96',1,'global.dump.h']]],
+  ['recvonly_5fint',['recvonly_int',['../d5/d31/boundmpiint_8c.html#a09582c9824be5941a3bd369ef1998c6d',1,'recvonly_int(int dir, int boundvartype, PFTYPE(*workbc_int)[COMPDIM *2][NUMPFLAGSBOUND *NBIGBND *NBIGSM], MPI_Request *requests):&#160;boundmpiint.c'],['../d5/dda/mympi_8global_8funcdeclare_8h.html#ad670f2c0b803a975c9119f214bb83923',1,'recvonly_int(int dir, int boundtype, PFTYPE(*workbc_int)[COMPDIM *2][NUMPFLAGSBOUND *NBIGBND *NBIGSM], MPI_Request *requests):&#160;boundmpiint.c']]],
+  ['res_5fsq_5f1d_5forig_5fscn',['res_sq_1d_orig_scn',['../d1/dde/utoprim__jon_8c.html#acdb87aa4479559a25be8b8209b2cf64e',1,'utoprim_jon.c']]],
+  ['res_5fsq_5feprime_5fopt',['res_sq_Eprime_opt',['../d1/dde/utoprim__jon_8c.html#ab641905badd72443028936b1047fcf94',1,'utoprim_jon.c']]],
+  ['res_5fsq_5feprime_5funopt',['res_sq_Eprime_unopt',['../d1/dde/utoprim__jon_8c.html#ae45a10654916147c0bd6eb16ebd4cdf0',1,'utoprim_jon.c']]],
+  ['res_5fsq_5fpsq',['res_sq_Psq',['../d1/dde/utoprim__jon_8c.html#a1780c31c73839c379dcd3b6e514ad57b',1,'utoprim_jon.c']]],
+  ['res_5fsq_5fsc_5fopt',['res_sq_Sc_opt',['../d1/dde/utoprim__jon_8c.html#acba495fe9b21b19b393a2e532c4880dc',1,'utoprim_jon.c']]],
+  ['res_5fsq_5fsc_5funopt',['res_sq_Sc_unopt',['../d1/dde/utoprim__jon_8c.html#adbaf5c40586f6e85803ade2f3a6bed1a',1,'utoprim_jon.c']]],
+  ['root',['Root',['../d5/d0a/tetrad_8c.html#ad28d4f9a890cdb922ac0852380d73d70',1,'tetrad.c']]],
+  ['rotate_5fvmetrictov',['rotate_VmetrictoV',['../d9/d53/metric_8c.html#ae34dfab6cbf55f52d95d3b222dde77df',1,'rotate_VmetrictoV(int whichcoord, FTYPE ROTANGLE, FTYPE *Vmetric, FTYPE *V):&#160;metric.c'],['../dd/da9/metric_8funcdeclare_8h.html#ae34dfab6cbf55f52d95d3b222dde77df',1,'rotate_VmetrictoV(int whichcoord, FTYPE ROTANGLE, FTYPE *Vmetric, FTYPE *V):&#160;metric.c']]],
+  ['rotate_5fvtovmetric',['rotate_VtoVmetric',['../d9/d53/metric_8c.html#aef2f683bb74005b3a6cebac0ea0a059b',1,'rotate_VtoVmetric(int whichcoord, FTYPE ROTANGLE, FTYPE *V, FTYPE *Vmetric):&#160;metric.c'],['../dd/da9/metric_8funcdeclare_8h.html#aef2f683bb74005b3a6cebac0ea0a059b',1,'rotate_VtoVmetric(int whichcoord, FTYPE ROTANGLE, FTYPE *V, FTYPE *Vmetric):&#160;metric.c']]],
+  ['round',['round',['../d9/de9/coord_8c.html#a577f8f0b00b59615104419c160e78dcf',1,'coord.c']]],
+  ['roundprecision',['roundprecision',['../d0/dfc/math_8tools_8c.html#a5d1e207bdae674a8b3f5a31082c26d73',1,'math.tools.c']]]
+];

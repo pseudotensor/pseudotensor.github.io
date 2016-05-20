@@ -1,0 +1,12 @@
+<map id="user1_normalize_field" name="user1_normalize_field">
+<area shape="rect" id="node3" href="$d8/d60/init_8c.html#ad10623d5c2fc6a304322571f638ef538" title="get_maxes" alt="" coords="245,32,331,61"/>
+<area shape="rect" id="node21" href="$d3/d72/fluxvpot_8c.html#aae186e320fe407d9eaa12c671035eb05" title="renormalize field using user norm GODMARK: in reality should renormalize A_i and then recompute and c..." alt="" coords="204,85,372,115"/>
+<area shape="rect" id="node5" href="$d5/de1/global_8inits_8h.html#abbd4925df619affe5614041fab6c2ff0" title="user1_get_maxes" alt="" coords="421,32,547,61"/>
+<area shape="rect" id="node7" href="$d3/ddc/phys_8funcdeclare_8h.html#a837cc5e285c9e98d2b74a324352b0117" title="bsq_calc" alt="" coords="605,5,680,35"/>
+<area shape="rect" id="node9" href="$d9/de9/coord_8c.html#a0672d8c0ee4ff07c7265d0ecbc365cdc" title="normally&#45;used dxdxp[i,j,k] = dV/dX" alt="" coords="596,59,689,88"/>
+<area shape="rect" id="node11" href="$d9/de9/coord_8c.html#a64a4372100fc55abf546f02c8b779595" title="Jacobian for dx uniform per dx nonuniform (dx/dr / dx/dr&#39;) i.e." alt="" coords="739,59,813,88"/>
+<area shape="rect" id="node13" href="$d9/de9/coord_8c.html#a56c4b5c03b74a33a7d809daecfa6925e" title="numerical derivative of V w.r.t. X" alt="" coords="861,59,981,88"/>
+<area shape="rect" id="node15" href="$d9/de9/coord_8c.html#a65ad4ca9656d141cc995fd35ed31dc40" title="Returns boyer&#45;lindquist coordinte of point." alt="" coords="1031,59,1100,88"/>
+<area shape="rect" id="node17" href="$d8/d60/init_8c.html#a27c01fe4532cf3e10d467517403dbf70" title="blcoord_user" alt="" coords="1163,32,1259,61"/>
+<area shape="rect" id="node19" href="$d9/de9/coord_8c.html#af7a086e6042d598aea95c2360d07a99b" title="blcoord_singfixes" alt="" coords="1149,85,1272,115"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="get_state_norad_part1" name="get_state_norad_part1">
+<area shape="rect" id="node3" href="$d3/ddc/phys_8funcdeclare_8h.html#a12a473e24b431762af4168179e82cd08" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="205,5,368,35"/>
+<area shape="rect" id="node5" href="$d3/ddc/phys_8funcdeclare_8h.html#a41b8eacac0a4a23d6b00b670fe49629c" title="bsq_calc_fromq" alt="" coords="229,59,344,88"/>
+</map>

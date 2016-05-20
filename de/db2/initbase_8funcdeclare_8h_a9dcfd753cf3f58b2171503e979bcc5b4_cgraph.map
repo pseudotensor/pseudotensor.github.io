@@ -1,0 +1,14 @@
+<map id="init_vpot_user" name="init_vpot_user">
+<area shape="rect" id="node3" href="$d8/d60/init_8c.html#af3744239bdceedf9788aa30cafd90ed9" title="setblandfordfield" alt="" coords="175,5,292,35"/>
+<area shape="rect" id="node7" href="$d9/d53/metric_8c.html#aef2f683bb74005b3a6cebac0ea0a059b" title="Rotate V[X] (r,thnew,phnew as in bl_coord) to Vmetric (r,th,ph as in set_gcov) That is..." alt="" coords="171,59,296,88"/>
+<area shape="rect" id="node9" href="$d3/d09/transforms_8c.html#a2120bc9ae4fb2c0564735f5cf7983505" title="bltoks_ucov" alt="" coords="188,112,279,141"/>
+<area shape="rect" id="node23" href="$d3/d09/transforms_8c.html#a4ddd680d1965e9ec9508aa80c2956751" title="Transform u_ from Vmetric form (where z&#45;axis is BH spin axis) to V form [tilted BH spin axis]..." alt="" coords="159,165,308,195"/>
+<area shape="rect" id="node5" href="$d8/d60/init_8c.html#a3d4e5c89ec101de22c44b145aa031f9a" title="setgpara" alt="" coords="397,5,469,35"/>
+<area shape="rect" id="node11" href="$d3/d09/transforms_8c.html#aeba8434ef96cb68e3557349ee8e24378" title="kstobl_trans" alt="" coords="387,112,480,141"/>
+<area shape="rect" id="node13" href="$d9/de9/coord_8c.html#a96290375e27d5d0aa4d843b07e228e14" title="normally&#45;used bl_coord[i,j,k] {i,j,k} &#45;&gt; V only" alt="" coords="557,112,648,141"/>
+<area shape="rect" id="node15" href="$d9/de9/coord_8c.html#a041e7b005310415c97d90f4b8521ed1a" title="get X(i,j,k) CENT is default position in degenerate cases" alt="" coords="705,85,759,115"/>
+<area shape="rect" id="node17" href="$d9/de9/coord_8c.html#a65ad4ca9656d141cc995fd35ed31dc40" title="Returns boyer&#45;lindquist coordinte of point." alt="" coords="697,139,767,168"/>
+<area shape="rect" id="node19" href="$d8/d60/init_8c.html#a27c01fe4532cf3e10d467517403dbf70" title="blcoord_user" alt="" coords="829,112,925,141"/>
+<area shape="rect" id="node21" href="$d9/de9/coord_8c.html#af7a086e6042d598aea95c2360d07a99b" title="blcoord_singfixes" alt="" coords="816,165,939,195"/>
+<area shape="rect" id="node25" href="$d3/d09/transforms_8c.html#a65de7185fdbf577c5d0c7474e0a5d0ce" title="transformation of metric written in Vmetric&#45;type coordinates with dVmetric differentials to one writt..." alt="" coords="357,165,509,195"/>
+</map>

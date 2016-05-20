@@ -1,0 +1,7 @@
+<map id="pick_validate_x" name="pick_validate_x">
+<area shape="rect" id="node3" href="$d1/dde/utoprim__jon_8c.html#ae776e6e31381814b4dd1aafd336bb69d" title="1D methods using W&#39;" alt="" coords="167,5,268,35"/>
+<area shape="rect" id="node9" href="$d1/dde/utoprim__jon_8c.html#a0442f8e961abb0552e7254e87f5a2cbb" title="validate functions here change where Newton is, so ok to change arbitrarily since next Newton step wi..." alt="" coords="167,59,268,88"/>
+<area shape="rect" id="node5" href="$d1/dde/utoprim__jon_8c.html#ab0bc808b2bebcc0555091f4fb9105772" title="validate solution:" alt="" coords="319,5,412,35"/>
+<area shape="rect" id="node7" href="$d1/dde/utoprim__jon_8c.html#a3ecaf51048018ba1c14b2cd7d83e1bd6" title="re&#45;look at this GODMARK Solution to the cold GRHD equation P^2 = ...[Wp]" alt="" coords="463,5,532,35"/>
+<area shape="rect" id="node12" href="$d1/dde/utoprim__jon_8c.html#a25cafb40786423e350c5948fb681dce0" title="retvsq=0 : no problem retvsq=1 : &gt;=1.0 retvsq=2 : &lt; too negative retvsq=3 : &gt;VSQ_TOO_BIG (forced fail..." alt="" coords="319,59,412,88"/>
+</map>

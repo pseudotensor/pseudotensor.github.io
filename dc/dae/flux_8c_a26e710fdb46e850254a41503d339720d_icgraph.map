@@ -1,0 +1,14 @@
+<map id="slope_lim_cent2face" name="slope_lim_cent2face">
+<area shape="rect" id="node3" href="$dc/dae/flux_8c.html#aef355ccd1ca2295b84ad2fe1fc011d35" title="normal interpolation of CENT quantities to FACE quantities sets global variables pl_ct and pr_ct to p..." alt="" coords="195,32,373,61"/>
+<area shape="rect" id="node5" href="$dc/dae/flux_8c.html#a2602a4dad9ed7adc944227d02435312e" title="standard (non&#45;field flux) calculation but setup to store results of interpolation so can be used for ..." alt="" coords="421,32,616,61"/>
+<area shape="rect" id="node7" href="$dc/dae/flux_8c.html#aaf6d832880760f80459d91477c28b519" title="wrapper for different standard 1&#45;D flux calculators 1&#45;D interpolate and get flux for that direction (..." alt="" coords="665,32,780,61"/>
+<area shape="rect" id="node9" href="$dc/dae/flux_8c.html#a8ffa7399bd5354fdcdec5f3e1adf0b13" title="wrapper for CENT_to_FACE1,2,3 used to compute flux at face" alt="" coords="831,32,924,61"/>
+<area shape="rect" id="node11" href="$d5/d2f/flux_8funcdeclare_8h.html#ab229b0f3f2caf3c0a3ef5299fba2b1c0" title="see fluxcompute.c for non&#45;computer science, real physics calculations of flux" alt="" coords="973,32,1040,61"/>
+<area shape="rect" id="node13" href="$df/d22/advance_8c.html#a217bbc071881142282a66a317664912b" title="this method guarantees conservation of non&#45;sourced conserved quantities when metric is time&#45;dependent..." alt="" coords="1103,5,1231,35"/>
+<area shape="rect" id="node25" href="$df/d22/advance_8c.html#a38c6fa95ece38a2821c70a1524ec47ec" title="this method guarantees conservation of non&#45;sourced conserved quantities when metric is time&#45;dependent..." alt="" coords="1089,59,1244,88"/>
+<area shape="rect" id="node15" href="$df/d22/advance_8c.html#a22dff5dc24ff389254919e70b79be489" title="pi: initial values at t=t0 to compute Ui pb: values used to compute flux/source pf: solution using fl..." alt="" coords="1295,5,1364,35"/>
+<area shape="rect" id="node17" href="$d9/de0/step__ch_8c.html#a6ffc23f905bf9f398646f83250167dd2" title="take full step using normal MPI method This method transfers ALL boundary cells AT ONCE after updatin..." alt="" coords="1415,5,1548,35"/>
+<area shape="rect" id="node19" href="$d9/de0/step__ch_8c.html#afe241569412f22a86dea9cd91b516af8" title="take step itself" alt="" coords="1599,5,1665,35"/>
+<area shape="rect" id="node21" href="$d9/de0/step__ch_8c.html#a306fe858d9befc91e386212efe65acaf" title="take full step (called from main.c)" alt="" coords="1716,5,1807,35"/>
+<area shape="rect" id="node23" href="$d0/d29/main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main function that primarily calls init(), diag(), and step_ch_full() in loop." alt="" coords="1856,5,1907,35"/>
+</map>

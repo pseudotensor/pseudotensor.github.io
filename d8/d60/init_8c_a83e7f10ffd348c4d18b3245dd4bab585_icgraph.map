@@ -1,0 +1,10 @@
+<map id="make_nonrt2rt_solution" name="make_nonrt2rt_solution">
+<area shape="rect" id="node3" href="$d8/d60/init_8c.html#a73009fd6280963c265e2cf5d1c353e8d" title="get_full_rtsolution" alt="" coords="212,36,335,65"/>
+<area shape="rect" id="node5" href="$d8/d60/init_8c.html#af94364e17d67cddfbb7bb3bf39c05ee6" title="init_dsandvels_koral" alt="" coords="389,5,528,35"/>
+<area shape="rect" id="node17" href="$d8/d60/init_8c.html#a448cd3fd9a1d862485e7b6e67b965172" title="process_restart_toget\l_radiation" alt="" coords="385,58,532,105"/>
+<area shape="rect" id="node7" href="$df/d15/init_8tools_8c.html#acefd26944dbbb1c289886f520f6befac" title="init_dsandvels" alt="" coords="583,5,687,35"/>
+<area shape="rect" id="node9" href="$df/d15/init_8tools_8c.html#a77551ab2581efdbaf170dfca073ff9ab" title="user1_init_primitives" alt="" coords="736,5,877,35"/>
+<area shape="rect" id="node11" href="$de/db2/initbase_8funcdeclare_8h.html#a0afa200a5f947b1c9f6e554519f28fc4" title="init_primitives" alt="" coords="927,5,1028,35"/>
+<area shape="rect" id="node13" href="$de/df8/initbase_8c.html#ac4110398e386c9888d9565630357dbbe" title="General&#45;Primary init() routine Uses globals inside init() because sets memory and sets physics..." alt="" coords="1079,5,1116,35"/>
+<area shape="rect" id="node15" href="$d0/d29/main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main function that primarily calls init(), diag(), and step_ch_full() in loop." alt="" coords="1165,5,1216,35"/>
+</map>

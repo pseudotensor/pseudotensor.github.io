@@ -1,0 +1,17 @@
+<map id="Utoprimgen_pick" name="Utoprimgen_pick">
+<area shape="rect" id="node3" href="$db/dc8/utoprimgen_8funcdeclare_8h.html#a7e078cc9a354495bc85554d875a705d9" title="General explicit inversion of U[MHD]&#45;&gt;P[MHD] and also inverts scalars. Inverts radiation if(EOMRADTYP..." alt="" coords="175,85,263,115"/>
+<area shape="rect" id="node5" href="$df/d22/advance_8c.html#a217bbc071881142282a66a317664912b" title="this method guarantees conservation of non&#45;sourced conserved quantities when metric is time&#45;dependent..." alt="" coords="327,5,455,35"/>
+<area shape="rect" id="node17" href="$df/d22/advance_8c.html#a38c6fa95ece38a2821c70a1524ec47ec" title="this method guarantees conservation of non&#45;sourced conserved quantities when metric is time&#45;dependent..." alt="" coords="313,59,468,88"/>
+<area shape="rect" id="node19" href="$d8/d60/init_8c.html#af3b64278d50c2ff0fee80291fbd38dab" title="fieldprim" alt="" coords="356,112,425,141"/>
+<area shape="rect" id="node33" href="$db/dc8/utoprimgen_8funcdeclare_8h.html#a8db9dc7c7f52d6fcb405a74e519db5cf" title="there may be something wrong with this function – didn&#39;t work in TIMEORDER==4, had to do standard met..." alt="" coords="345,165,436,195"/>
+<area shape="rect" id="node7" href="$df/d22/advance_8c.html#a22dff5dc24ff389254919e70b79be489" title="pi: initial values at t=t0 to compute Ui pb: values used to compute flux/source pf: solution using fl..." alt="" coords="536,5,605,35"/>
+<area shape="rect" id="node9" href="$d9/de0/step__ch_8c.html#a6ffc23f905bf9f398646f83250167dd2" title="take full step using normal MPI method This method transfers ALL boundary cells AT ONCE after updatin..." alt="" coords="676,5,809,35"/>
+<area shape="rect" id="node11" href="$d9/de0/step__ch_8c.html#afe241569412f22a86dea9cd91b516af8" title="take step itself" alt="" coords="880,5,947,35"/>
+<area shape="rect" id="node13" href="$d9/de0/step__ch_8c.html#a306fe858d9befc91e386212efe65acaf" title="take full step (called from main.c)" alt="" coords="1015,5,1105,35"/>
+<area shape="rect" id="node15" href="$d0/d29/main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main function that primarily calls init(), diag(), and step_ch_full() in loop." alt="" coords="1155,32,1205,61"/>
+<area shape="rect" id="node21" href="$df/d15/init_8tools_8c.html#acefd26944dbbb1c289886f520f6befac" title="init_dsandvels" alt="" coords="519,59,623,88"/>
+<area shape="rect" id="node30" href="$de/db2/initbase_8funcdeclare_8h.html#a4e121b9448ac1adaa7608206369f9ea5" title="init_postvpot" alt="" coords="523,112,619,141"/>
+<area shape="rect" id="node23" href="$df/d15/init_8tools_8c.html#a77551ab2581efdbaf170dfca073ff9ab" title="user1_init_primitives" alt="" coords="672,59,813,88"/>
+<area shape="rect" id="node25" href="$de/db2/initbase_8funcdeclare_8h.html#a0afa200a5f947b1c9f6e554519f28fc4" title="init_primitives" alt="" coords="863,59,964,88"/>
+<area shape="rect" id="node27" href="$de/df8/initbase_8c.html#ac4110398e386c9888d9565630357dbbe" title="General&#45;Primary init() routine Uses globals inside init() because sets memory and sets physics..." alt="" coords="1041,59,1079,88"/>
+</map>

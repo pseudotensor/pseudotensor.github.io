@@ -1,0 +1,6 @@
+<map id="mhd_calc_norestmass" name="mhd_calc_norestmass">
+<area shape="rect" id="node3" href="$d7/def/phys_8tools_8c.html#a44930b5d598885afcb717a270f42749f" title="MHD stress tensor, with first index up, second index down avoids catastrophic cancellation with rest&#45;..." alt="" coords="208,5,387,35"/>
+<area shape="rect" id="node5" href="$d7/def/phys_8tools_8c.html#a3552b97ec9f1982094fbc3e3f9af7f05" title="MHD stress tensor, with first index up, second index down mhd^dir_j." alt="" coords="247,59,348,88"/>
+<area shape="rect" id="node7" href="$d7/def/phys_8tools_8c.html#a3f6e052b84282b8db7b05a0acc435622" title="EM part of stress&#45;energy tensor." alt="" coords="456,32,573,61"/>
+<area shape="rect" id="node9" href="$d7/def/phys_8tools_8c.html#a864ca09eade159d4c4b545593c1095de" title="MHD stress tensor, with first index up, second index down avoids catastrophic cancellation with rest&#45;..." alt="" coords="436,85,593,115"/>
+</map>

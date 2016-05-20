@@ -1,0 +1,7 @@
+<map id="bound_beforeevolveprim" name="bound_beforeevolveprim">
+<area shape="rect" id="node3" href="$d9/de0/step__ch_8c.html#ad36a0f9f915547477e3bb2405f8166b9" title="things to do after advance()" alt="" coords="217,5,319,35"/>
+<area shape="rect" id="node5" href="$d9/de0/step__ch_8c.html#a6ffc23f905bf9f398646f83250167dd2" title="take full step using normal MPI method This method transfers ALL boundary cells AT ONCE after updatin..." alt="" coords="369,5,503,35"/>
+<area shape="rect" id="node7" href="$d9/de0/step__ch_8c.html#afe241569412f22a86dea9cd91b516af8" title="take step itself" alt="" coords="553,5,620,35"/>
+<area shape="rect" id="node9" href="$d9/de0/step__ch_8c.html#a306fe858d9befc91e386212efe65acaf" title="take full step (called from main.c)" alt="" coords="671,5,761,35"/>
+<area shape="rect" id="node11" href="$d0/d29/main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main function that primarily calls init(), diag(), and step_ch_full() in loop." alt="" coords="811,5,861,35"/>
+</map>

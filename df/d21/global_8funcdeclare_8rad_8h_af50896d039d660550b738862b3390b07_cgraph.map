@@ -1,0 +1,46 @@
+<map id="prad_fforlab" name="prad_fforlab">
+<area shape="rect" id="node3" href="$df/d21/global_8funcdeclare_8rad_8h.html#a2ec6ee79c76351868a725b22dac62135" title="like prad_fforlab() but for only whichdir=FF2LAB used for IC" alt="" coords="144,269,235,299"/>
+<area shape="rect" id="node77" href="$df/d21/global_8funcdeclare_8rad_8h.html#ad1313c275fb108d10f866373d9bb227a" title="like prad_fforlab() but for only whichdir=LAB2FF used for dumps or diags" alt="" coords="144,401,235,431"/>
+<area shape="rect" id="node5" href="$d2/d72/phys_8tools_8rad_8c.html#a949a0736746df92cb2600c6c015976e1" title="compute fluid frame orthonormal basis radiation stress&#45;energy tensor assuming M1 closure" alt="" coords="339,216,421,245"/>
+<area shape="rect" id="node7" href="$d3/ddc/phys_8funcdeclare_8h.html#a35c4399eb86e3fa77e2221000e077572" title="ucon_calc_whichvel" alt="" coords="311,269,449,299"/>
+<area shape="rect" id="node23" href="$d5/d0a/tetrad_8c.html#a6999a0ba04240d0dcbe3ae46adba0510" title="convert lab frame 4&#45;tensor to fluid frame orthonormal 4&#45;tensor" alt="" coords="289,348,471,377"/>
+<area shape="rect" id="node64" href="$df/d21/global_8funcdeclare_8rad_8h.html#a9fe58e7f372421d18633c8fc5007b815" title="u2p_rad" alt="" coords="347,124,413,153"/>
+<area shape="rect" id="node9" href="$d3/ddc/phys_8funcdeclare_8h.html#ad141359a7901a82a0c26241b432183c3" title="find contravariant time component of four&#45;velocity from the 4velocity (3 terms)" alt="" coords="569,296,681,325"/>
+<area shape="rect" id="node13" href="$d3/ddc/phys_8funcdeclare_8h.html#afc1e1232a2f457b71cfd9210f2b5240a" title="find contravariant four&#45;velocity int ucon_calc(FTYPE *pr, struct of_geom *geom, FTYPE *ucon..." alt="" coords="569,243,681,272"/>
+<area shape="rect" id="node15" href="$d3/ddc/phys_8funcdeclare_8h.html#a7aadb359813194586356c2c325322a45" title="find contravariant four&#45;velocity from the relative 4 velocity" alt="" coords="563,189,688,219"/>
+<area shape="rect" id="node11" href="$d9/de9/coord_8c.html#a041e7b005310415c97d90f4b8521ed1a" title="get X(i,j,k) CENT is default position in degenerate cases" alt="" coords="848,296,901,325"/>
+<area shape="rect" id="node17" href="$d3/ddc/phys_8funcdeclare_8h.html#a5910aabe5e76183d341ef5b830b01bab" title="find {u}^ from u^ only fill spatial parts so can feed in 3&#45;vector" alt="" coords="843,243,907,272"/>
+<area shape="rect" id="node19" href="$d3/ddc/phys_8funcdeclare_8h.html#a20be479a3f03f3de780359d6e9290fe3" title="find u^ from {u}^ fill full 4&#45;vector OPTMARK: Before storing , this was the most expensive function o..." alt="" coords="775,189,975,219"/>
+<area shape="rect" id="node21" href="$d3/ddc/phys_8funcdeclare_8h.html#abfae38e47b0bd05a4fc38302ff948a96" title="find gamma&#45;factor wrt normal observer This function and qsq_calc() have about the same cache miss amo..." alt="" coords="1024,164,1195,193"/>
+<area shape="rect" id="node25" href="$d5/d0a/tetrad_8c.html#a69bb4f4bdcfeeddc2f94c291e3c4a887" title="use lab frame contravariant 4&#45;velocity (uconlab) and get transformation matrix for going to orthonorm..." alt="" coords="805,375,944,404"/>
+<area shape="rect" id="node27" href="$d5/d0a/tetrad_8c.html#a529e9fcba9169e956453fa28b0ec5b29" title="get stored or compute tetrcov and tetrcon primcoord: whether PRIMCOORDS type, so will use dxdxp to si..." alt="" coords="1056,375,1163,404"/>
+<area shape="rect" id="node45" href="$d6/d1b/metric_8tools_8c.html#af5438dd54272eb585ff5acb06d7195d4" title="matrix_inverse" alt="" coords="1767,452,1873,481"/>
+<area shape="rect" id="node61" href="$d5/d0a/tetrad_8c.html#aecffb2ef6ac562816636daf704607915" title="calculate boost assuming in orthonormal basis where g_{}={} = diag(&#45;1,0,0,0) NOTEMARK: Orthonormal do..." alt="" coords="1039,321,1180,351"/>
+<area shape="rect" id="node29" href="$d5/d0a/tetrad_8c.html#a1a0f6fda274fc7e16bdd8fcdfb4450ed" title="Notes:" alt="" coords="1243,375,1357,404"/>
+<area shape="rect" id="node31" href="$d9/de9/coord_8c.html#a0672d8c0ee4ff07c7265d0ecbc365cdc" title="normally&#45;used dxdxp[i,j,k] = dV/dX" alt="" coords="1431,295,1524,324"/>
+<area shape="rect" id="node43" href="$d9/de9/coord_8c.html#a8a51ec95e21441bc2c561af70a1037de" title="Get (dV/dX)^{&#45;1}." alt="" coords="1599,400,1676,429"/>
+<area shape="rect" id="node47" href="$d5/d0a/tetrad_8c.html#ad5d2935e2a3bac988149aa7b02c8feca" title="find suitable orthonormal tetrad wrapper for tetr_func()." alt="" coords="1407,348,1548,377"/>
+<area shape="rect" id="node33" href="$d9/de9/coord_8c.html#a64a4372100fc55abf546f02c8b779595" title="Jacobian for dx uniform per dx nonuniform (dx/dr / dx/dr&#39;) i.e." alt="" coords="1600,293,1675,323"/>
+<area shape="rect" id="node35" href="$d9/de9/coord_8c.html#a56c4b5c03b74a33a7d809daecfa6925e" title="numerical derivative of V w.r.t. X" alt="" coords="1760,293,1880,323"/>
+<area shape="rect" id="node37" href="$d9/de9/coord_8c.html#a65ad4ca9656d141cc995fd35ed31dc40" title="Returns boyer&#45;lindquist coordinte of point." alt="" coords="2023,293,2092,323"/>
+<area shape="rect" id="node39" href="$d8/d60/init_8c.html#a27c01fe4532cf3e10d467517403dbf70" title="blcoord_user" alt="" coords="2213,240,2309,269"/>
+<area shape="rect" id="node41" href="$d9/de9/coord_8c.html#af7a086e6042d598aea95c2360d07a99b" title="blcoord_singfixes" alt="" coords="2200,293,2323,323"/>
+<area shape="rect" id="node50" href="$d5/d0a/tetrad_8c.html#a0ca3db13e43c41bb7271db7bac10dc2a" title="input gcov and get out orthonormal tetrad in covariant and contravariant forms if metrictype..." alt="" coords="1601,347,1673,376"/>
+<area shape="rect" id="node52" href="$d5/d0a/tetrad_8c.html#a2ed15e40ab71ecd986b28510b0d8b8d4" title="compute_tetrcon_frommetric" alt="" coords="1727,399,1913,428"/>
+<area shape="rect" id="node54" href="$d5/d0a/tetrad_8c.html#a7daace7a466d45cd01436b89193102c0" title="pre&#45;setup tetrad use of lapack function" alt="" coords="1988,347,2127,376"/>
+<area shape="rect" id="node58" href="$d5/d0a/tetrad_8c.html#acc8b9e9ae9e03624e53b0a45e881a367" title="compute orthonormal tetrad [ortho]^[lab] for converting u_[lab] or u^[ortho] Notes: For full rotating..." alt="" coords="1964,399,2151,446"/>
+<area shape="rect" id="node56" href="$d4/dfc/tetlapack__func__doubleonly_8c.html#a6493f604b00b9a2337263d17b6230a02" title="native doubles for inside variables find tetrad" alt="" coords="2208,347,2315,376"/>
+<area shape="rect" id="node66" href="$d2/d72/phys_8tools_8rad_8c.html#a67b370af2fa58283bc590ff4e895fb90" title="Like u2p_rad_orig(), but uses Jon&#39;s paper draft ZAMO RAD version." alt="" coords="576,104,675,133"/>
+<area shape="rect" id="node68" href="$d2/d72/phys_8tools_8rad_8c.html#a77c546a7fb064266fef5a9e796dc63dc" title="compute ZAMO version of radiation quantities as in paper draft" alt="" coords="801,85,948,115"/>
+<area shape="rect" id="node71" href="$df/d21/global_8funcdeclare_8rad_8h.html#a3e47afcfc5c42719999d851395fd032d" title="nrad(E)" alt="" coords="811,32,939,61"/>
+<area shape="rect" id="node73" href="$df/d21/global_8funcdeclare_8rad_8h.html#af07558357c906b4dfa61cd34656d9f02" title="E=urad=arad T^4 and just solve for T (this is LTE only if assume resulting T is gas T)..." alt="" coords="1047,5,1172,35"/>
+<area shape="rect" id="node75" href="$df/d21/global_8funcdeclare_8rad_8h.html#a7dc2e853cec9b6f9a5e83ce23c468d03" title="nrad(T) = nrad=arad T^3/2.70118 (this is LTE only if put in T was gas T)" alt="" coords="1045,59,1173,88"/>
+<area shape="rect" id="node79" href="$d3/ddc/phys_8funcdeclare_8h.html#a11e17cd8b0594d1ad52e3594aa9f477e" title="find ucon, ucov, bcon, bcov from primitive variables when calling get_state, users of this function e..." alt="" coords="343,480,417,509"/>
+<area shape="rect" id="node87" href="$df/d21/global_8funcdeclare_8rad_8h.html#aba8efc1e2ea7a31f67bb6c06ce3c164a" title="mhdfull_calc_rad" alt="" coords="320,585,440,615"/>
+<area shape="rect" id="node91" href="$d5/d0a/tetrad_8c.html#ae8d70957690f267632e5db4f4b06a490" title="Wrapper for vector_lab2orthofluidorback()" alt="" coords="284,401,476,431"/>
+<area shape="rect" id="node81" href="$d3/ddc/phys_8funcdeclare_8h.html#a12a473e24b431762af4168179e82cd08" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="544,453,707,483"/>
+<area shape="rect" id="node83" href="$df/d21/global_8funcdeclare_8rad_8h.html#a8a762bf6582e6f7e1199de9c43b98454" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="527,507,724,536"/>
+<area shape="rect" id="node85" href="$d3/ddc/phys_8funcdeclare_8h.html#a41b8eacac0a4a23d6b00b670fe49629c" title="bsq_calc_fromq" alt="" coords="568,560,683,589"/>
+<area shape="rect" id="node89" href="$df/d21/global_8funcdeclare_8rad_8h.html#a389bf7e41d2fd117af996e3392067cdc" title="compute radiation stres&#45;energy tensor assuming M1 closure" alt="" coords="575,613,676,643"/>
+<area shape="rect" id="node93" href="$d5/d0a/tetrad_8c.html#af9cffa9c2f215c3446c8dced2a326b42" title="convert 4&#45;vector to/from lab&#45;frame coordinate basis to fluid frame orthonormal basis" alt="" coords="535,400,716,429"/>
+</map>

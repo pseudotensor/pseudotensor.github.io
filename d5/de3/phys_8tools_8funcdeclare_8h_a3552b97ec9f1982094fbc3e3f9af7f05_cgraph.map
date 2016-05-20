@@ -1,0 +1,4 @@
+<map id="mhd_calc_em" name="mhd_calc_em">
+<area shape="rect" id="node3" href="$d7/def/phys_8tools_8c.html#a3f6e052b84282b8db7b05a0acc435622" title="EM part of stress&#45;energy tensor." alt="" coords="179,5,296,35"/>
+<area shape="rect" id="node5" href="$d7/def/phys_8tools_8c.html#a864ca09eade159d4c4b545593c1095de" title="MHD stress tensor, with first index up, second index down avoids catastrophic cancellation with rest&#45;..." alt="" coords="159,59,316,88"/>
+</map>

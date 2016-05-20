@@ -1,0 +1,15 @@
+<map id="bound_x2up_polaraxis_full3d" name="bound_x2up_polaraxis_full3d">
+<area shape="rect" id="node3" href="$d4/dd3/bounds_8tools_8c.html#a5bc91fa94289e7828d62831b8e3ff032" title="interpolate across pole to remove numerical errors there Note that this function is done over all zon..." alt="" coords="212,139,289,168"/>
+<area shape="rect" id="node30" href="$d4/dd3/bounds_8tools_8c.html#adcb079f1dfc68f72d58f8826f62bb78d" title="Average quasi&#45;Cartesian components around the polar axis Note that if special3dspc==1, then bound_x2dn/x2up_polaraxis_full3d() [that calls poledeath() and/or polesmooth()] is called after MPI call in bound_prim_user_after_mpi_dir() If special3dspc==0, then not accurately handling polar axis so can&#39;t expect polesmooth() to be as effective." alt="" coords="207,216,295,245"/>
+<area shape="rect" id="node5" href="$d9/de9/coord_8c.html#a96290375e27d5d0aa4d843b07e228e14" title="normally&#45;used bl_coord[i,j,k] {i,j,k} &#45;&gt; V only" alt="" coords="353,59,444,88"/>
+<area shape="rect" id="node15" href="$d9/de9/coord_8c.html#a1e1d4fd69f1234cb8751c4ea66297995" title="normally&#45;used bl_coord[i,j,k] {i,j,k} &#45;&gt; X only" alt="" coords="361,5,436,35"/>
+<area shape="rect" id="node18" href="$d3/ddc/phys_8funcdeclare_8h.html#a837cc5e285c9e98d2b74a324352b0117" title="bsq_calc" alt="" coords="361,112,436,141"/>
+<area shape="rect" id="node20" href="$d4/dd3/bounds_8tools_8c.html#a919ee4f5bcaffe5beaee00b924a12093" title="average u^=u^2*dxdxp22 as opposed to u^2" alt="" coords="344,165,453,195"/>
+<area shape="rect" id="node22" href="$d9/de9/coord_8c.html#a0672d8c0ee4ff07c7265d0ecbc365cdc" title="normally&#45;used dxdxp[i,j,k] = dV/dX" alt="" coords="503,207,596,236"/>
+<area shape="rect" id="node7" href="$d9/de9/coord_8c.html#a041e7b005310415c97d90f4b8521ed1a" title="get X(i,j,k) CENT is default position in degenerate cases" alt="" coords="523,32,576,61"/>
+<area shape="rect" id="node9" href="$d9/de9/coord_8c.html#a65ad4ca9656d141cc995fd35ed31dc40" title="Returns boyer&#45;lindquist coordinte of point." alt="" coords="937,131,1007,160"/>
+<area shape="rect" id="node11" href="$d8/d60/init_8c.html#a27c01fe4532cf3e10d467517403dbf70" title="blcoord_user" alt="" coords="1069,104,1165,133"/>
+<area shape="rect" id="node13" href="$d9/de9/coord_8c.html#af7a086e6042d598aea95c2360d07a99b" title="blcoord_singfixes" alt="" coords="1056,157,1179,187"/>
+<area shape="rect" id="node24" href="$d9/de9/coord_8c.html#a64a4372100fc55abf546f02c8b779595" title="Jacobian for dx uniform per dx nonuniform (dx/dr / dx/dr&#39;) i.e." alt="" coords="645,187,720,216"/>
+<area shape="rect" id="node26" href="$d9/de9/coord_8c.html#a56c4b5c03b74a33a7d809daecfa6925e" title="numerical derivative of V w.r.t. X" alt="" coords="768,167,888,196"/>
+</map>

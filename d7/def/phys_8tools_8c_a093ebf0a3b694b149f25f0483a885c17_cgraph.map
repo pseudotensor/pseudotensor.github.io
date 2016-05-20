@@ -1,0 +1,4 @@
+<map id="bsq_calc_rel4vel" name="bsq_calc_rel4vel">
+<area shape="rect" id="node3" href="$d3/ddc/phys_8funcdeclare_8h.html#a12a473e24b431762af4168179e82cd08" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="173,5,336,35"/>
+<area shape="rect" id="node5" href="$d7/def/phys_8tools_8c.html#a22ab3768255be74c94a1a93f4d378eeb" title="bsq_calc_fromq_rel4vel" alt="" coords="176,59,333,88"/>
+</map>

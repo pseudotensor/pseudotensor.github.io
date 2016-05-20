@@ -1,0 +1,12 @@
+<map id="set_connection" name="set_connection">
+<area shape="rect" id="node3" href="$d9/de9/coord_8c.html#a1e1d4fd69f1234cb8751c4ea66297995" title="normally&#45;used bl_coord[i,j,k] {i,j,k} &#45;&gt; X only" alt="" coords="169,5,244,35"/>
+<area shape="rect" id="node7" href="$d9/d53/metric_8c.html#adfc6a9822ce8e370187881cb166bfe3d" title="connection not simply transformed – so compute directly from final metric (primcoords)" alt="" coords="165,59,248,88"/>
+<area shape="rect" id="node5" href="$d9/de9/coord_8c.html#a041e7b005310415c97d90f4b8521ed1a" title="get X(i,j,k) CENT is default position in degenerate cases" alt="" coords="336,5,389,35"/>
+<area shape="rect" id="node9" href="$d9/d53/metric_8c.html#ad9016364674fada47dae513901633886" title="CONNECTIONS (numerical or analytic)" alt="" coords="301,59,424,88"/>
+<area shape="rect" id="node22" href="$d9/d53/metric_8c.html#a1e45f3c9253aee772c162ae63ea83717" title="set_conn_ksmetric" alt="" coords="297,112,428,141"/>
+<area shape="rect" id="node11" href="$d6/d1b/metric_8tools_8c.html#ae69349da832b43c5e199da1b2526b2da" title="conn_func_numerical1" alt="" coords="477,85,629,115"/>
+<area shape="rect" id="node13" href="$d9/d53/metric_8c.html#a4aab5a2c66b9a78bbdf4b802602aea1c" title="obtain gcov in primcoords of whichcoord type metric/coords here ptrgeom is only expected to contain i..." alt="" coords="932,60,1015,89"/>
+<area shape="rect" id="node15" href="$d6/d1b/metric_8tools_8c.html#a16590e2fa012fcb4003a079c3d990854" title="gcov_func_mcoord" alt="" coords="705,85,836,115"/>
+<area shape="rect" id="node18" href="$d6/d1b/metric_8tools_8c.html#a8f34363ac1d1e0d1100611f9ff540074" title="gdet_func_mcoord_usegcov" alt="" coords="679,139,863,168"/>
+<area shape="rect" id="node20" href="$d6/d1b/metric_8tools_8c.html#ae5dbb2bc88f07e392d2a9e6b911c5c48" title="gdet_func_metric" alt="" coords="912,139,1035,168"/>
+</map>

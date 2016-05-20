@@ -1,0 +1,9 @@
+<map id="set_gcon_ksmetric" name="set_gcon_ksmetric">
+<area shape="rect" id="node3" href="$dd/da9/metric_8funcdeclare_8h.html#a9aa4d60510a1e0ce7ccf8c6548533559" title="obtain prim gcon in primcoords of whichcoord type metric/coords" alt="" coords="187,32,269,61"/>
+<area shape="rect" id="node5" href="$dd/d50/set__grid_8c.html#aaa7945715830e5c62a0ea015481ab25e" title="Grid functions that only exist at many locations and are assigned values on all points INCLUDING anot..." alt="" coords="340,5,457,35"/>
+<area shape="rect" id="node15" href="$dd/d50/set__grid_8c.html#aabbf5123d64295a3cb462c92aa9c5629" title="set_grid_metrics_others" alt="" coords="319,59,479,88"/>
+<area shape="rect" id="node7" href="$d2/d22/set__grid_8funcdeclare_8h.html#a9ac78f6d937c36a5541eb64e9983c289" title="GODMARK: may want to make grid functions explicitly 2D for axisymmetric space&#45;times when in axisymmet..." alt="" coords="529,5,596,35"/>
+<area shape="rect" id="node9" href="$de/df8/initbase_8c.html#ab7cd2db876c8f553cbb0570316c6e796" title="set_grid_all" alt="" coords="645,5,733,35"/>
+<area shape="rect" id="node11" href="$de/df8/initbase_8c.html#ac4110398e386c9888d9565630357dbbe" title="General&#45;Primary init() routine Uses globals inside init() because sets memory and sets physics..." alt="" coords="783,5,820,35"/>
+<area shape="rect" id="node13" href="$d0/d29/main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main function that primarily calls init(), diag(), and step_ch_full() in loop." alt="" coords="869,5,920,35"/>
+</map>

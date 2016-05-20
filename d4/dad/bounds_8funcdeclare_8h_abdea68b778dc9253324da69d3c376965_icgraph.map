@@ -1,0 +1,22 @@
+<map id="bound_anypstag" name="bound_anypstag">
+<area shape="rect" id="node3" href="$de/df8/initbase_8c.html#ac4110398e386c9888d9565630357dbbe" title="General&#45;Primary init() routine Uses globals inside init() because sets memory and sets physics..." alt="" coords="1801,96,1839,125"/>
+<area shape="rect" id="node7" href="$d9/de0/step__ch_8c.html#a6f4b963a50a7288964f01775f2f18bb9" title="normal bounding of staggered primitives" alt="" coords="184,112,280,141"/>
+<area shape="rect" id="node42" href="$d9/de0/step__ch_8c.html#a460b84e1112e3aef17209c20e22e1cf1" title="bound all prims" alt="" coords="171,43,293,72"/>
+<area shape="rect" id="node5" href="$d0/d29/main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main function that primarily calls init(), diag(), and step_ch_full() in loop." alt="" coords="1888,148,1939,177"/>
+<area shape="rect" id="node9" href="$d0/de6/fluxvpot_8funcdeclare_8h.html#aa31dd83c96936277334c62e2098dd51d" title="wrapper for taking staggered conserved field quantity and obtaining centered field quantity upoint en..." alt="" coords="343,191,519,220"/>
+<area shape="rect" id="node40" href="$d0/dde/fluxctstag_8c.html#aa169cb1999412f2e2460012cc5d7a804" title="pure DONOR version: upoint is input staggered updated field that needs to be converted to pstag and t..." alt="" coords="343,103,519,150"/>
+<area shape="rect" id="node11" href="$df/d22/advance_8c.html#a217bbc071881142282a66a317664912b" title="this method guarantees conservation of non&#45;sourced conserved quantities when metric is time&#45;dependent..." alt="" coords="583,195,711,224"/>
+<area shape="rect" id="node22" href="$df/d22/advance_8c.html#a38c6fa95ece38a2821c70a1524ec47ec" title="this method guarantees conservation of non&#45;sourced conserved quantities when metric is time&#45;dependent..." alt="" coords="569,248,724,277"/>
+<area shape="rect" id="node24" href="$d0/de6/fluxvpot_8funcdeclare_8h.html#aaa24493002bc8c0a527b1ea2ac2dddbf" title="convert conservative U to stag point P and CENT point U and CENT point primitive" alt="" coords="580,141,713,171"/>
+<area shape="rect" id="node13" href="$df/d22/advance_8c.html#a22dff5dc24ff389254919e70b79be489" title="pi: initial values at t=t0 to compute Ui pb: values used to compute flux/source pf: solution using fl..." alt="" coords="779,200,848,229"/>
+<area shape="rect" id="node15" href="$d9/de0/step__ch_8c.html#a6ffc23f905bf9f398646f83250167dd2" title="take full step using normal MPI method This method transfers ALL boundary cells AT ONCE after updatin..." alt="" coords="921,200,1055,229"/>
+<area shape="rect" id="node17" href="$d9/de0/step__ch_8c.html#afe241569412f22a86dea9cd91b516af8" title="take step itself" alt="" coords="1325,200,1392,229"/>
+<area shape="rect" id="node19" href="$d9/de0/step__ch_8c.html#a306fe858d9befc91e386212efe65acaf" title="take full step (called from main.c)" alt="" coords="1484,200,1575,229"/>
+<area shape="rect" id="node26" href="$de/db2/initbase_8funcdeclare_8h.html#ae6b2ad4cd0debf5b89ba8a9e471d6977" title="assumes normal field p pleft used as temp var if FLUXB==FLUXCTSTAG assigns conserved field in UEVOLVE..." alt="" coords="775,96,852,125"/>
+<area shape="rect" id="node28" href="$df/d15/init_8tools_8c.html#a3750bc790613bc6c8c805af0f1b839c8" title="user1_init_vpot2field_user" alt="" coords="901,96,1075,125"/>
+<area shape="rect" id="node30" href="$de/db2/initbase_8funcdeclare_8h.html#afda44281ad5c163455c40f012d4a8954" title="init_vpot2field_user" alt="" coords="1124,96,1257,125"/>
+<area shape="rect" id="node32" href="$de/db2/initbase_8funcdeclare_8h.html#a90699a18ede8b7f112c0078512804ec1" title="initialize vector potential given user function assumes normal non&#45;staggered field in pr Notice that ..." alt="" coords="1324,96,1393,125"/>
+<area shape="rect" id="node34" href="$df/d15/init_8tools_8c.html#a77551ab2581efdbaf170dfca073ff9ab" title="user1_init_primitives" alt="" coords="1459,96,1600,125"/>
+<area shape="rect" id="node36" href="$de/db2/initbase_8funcdeclare_8h.html#a0afa200a5f947b1c9f6e554519f28fc4" title="init_primitives" alt="" coords="1649,96,1751,125"/>
+<area shape="rect" id="node44" href="$d9/de0/step__ch_8c.html#a91fe5c4370e3292a19e7f794797a407f" title="normal bounding of all primitives" alt="" coords="1308,43,1409,72"/>
+</map>

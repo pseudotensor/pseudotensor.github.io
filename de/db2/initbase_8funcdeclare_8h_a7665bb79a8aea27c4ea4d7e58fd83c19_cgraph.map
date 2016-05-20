@@ -1,0 +1,20 @@
+<map id="transform_primitive_vB" name="transform_primitive_vB">
+<area shape="rect" id="node3" href="$d3/d09/transforms_8c.html#a5eb01df8f2e210c8611a8320dc983a9d" title="assumes all centered quantities (so for FLUXB==FLUXCTSTAG assumes operates on centered field versions..." alt="" coords="212,85,321,115"/>
+<area shape="rect" id="node5" href="$d3/d09/transforms_8c.html#a571104584acab566d6eb37f51cfb2102" title="converts whichvel/whichcoord velocity to WHICHVEL/(&#45;&gt;MCOORD&#45;&gt;PRIMECOORDS) converts field too..." alt="" coords="372,85,527,115"/>
+<area shape="rect" id="node7" href="$d3/d09/transforms_8c.html#a0a76b7b5c088e56618389fe3acf60119" title="whichcoordin &#45;&gt; whichcoordout" alt="" coords="600,59,683,88"/>
+<area shape="rect" id="node28" href="$d3/d09/transforms_8c.html#a0c5044bf89287cf41d59999d96f9fc12" title="MCOORD &#45;&gt; prime MCOORD." alt="" coords="577,112,705,141"/>
+<area shape="rect" id="node9" href="$d3/d09/transforms_8c.html#a18c0d9e83dd42057f18c8682445e520e" title="bltoks" alt="" coords="776,5,832,35"/>
+<area shape="rect" id="node23" href="$d3/d09/transforms_8c.html#aeb5a7fff357c150f4a21d08ee9141661" title="kstobl" alt="" coords="776,59,832,88"/>
+<area shape="rect" id="node11" href="$d3/d09/transforms_8c.html#a4e56c98db9838030d332feae8a77e19d" title="bltoks_trans" alt="" coords="901,5,995,35"/>
+<area shape="rect" id="node13" href="$d9/de9/coord_8c.html#a96290375e27d5d0aa4d843b07e228e14" title="normally&#45;used bl_coord[i,j,k] {i,j,k} &#45;&gt; V only" alt="" coords="1057,59,1148,88"/>
+<area shape="rect" id="node15" href="$d9/de9/coord_8c.html#a041e7b005310415c97d90f4b8521ed1a" title="get X(i,j,k) CENT is default position in degenerate cases" alt="" coords="1220,59,1273,88"/>
+<area shape="rect" id="node17" href="$d9/de9/coord_8c.html#a65ad4ca9656d141cc995fd35ed31dc40" title="Returns boyer&#45;lindquist coordinte of point." alt="" coords="1212,112,1281,141"/>
+<area shape="rect" id="node19" href="$d8/d60/init_8c.html#a27c01fe4532cf3e10d467517403dbf70" title="blcoord_user" alt="" coords="1344,85,1440,115"/>
+<area shape="rect" id="node21" href="$d9/de9/coord_8c.html#af7a086e6042d598aea95c2360d07a99b" title="blcoord_singfixes" alt="" coords="1331,139,1453,168"/>
+<area shape="rect" id="node25" href="$d3/d09/transforms_8c.html#aeba8434ef96cb68e3557349ee8e24378" title="kstobl_trans" alt="" coords="901,59,995,88"/>
+<area shape="rect" id="node30" href="$d9/de9/coord_8c.html#a6b81e8ff9e3ef5fdf6eade928726f237" title="normally&#45;used dxdxp[i,j,k]" alt="" coords="755,112,853,141"/>
+<area shape="rect" id="node32" href="$d9/de9/coord_8c.html#a64a4372100fc55abf546f02c8b779595" title="Jacobian for dx uniform per dx nonuniform (dx/dr / dx/dr&#39;) i.e." alt="" coords="911,112,985,141"/>
+<area shape="rect" id="node37" href="$d9/de9/coord_8c.html#a8a51ec95e21441bc2c561af70a1037de" title="Get (dV/dX)^{&#45;1}." alt="" coords="909,165,987,195"/>
+<area shape="rect" id="node34" href="$d9/de9/coord_8c.html#a56c4b5c03b74a33a7d809daecfa6925e" title="numerical derivative of V w.r.t. X" alt="" coords="1043,112,1163,141"/>
+<area shape="rect" id="node39" href="$d6/d1b/metric_8tools_8c.html#af5438dd54272eb585ff5acb06d7195d4" title="matrix_inverse" alt="" coords="1049,165,1156,195"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="compute_entropy_simple_forcheckinversion" name="compute_entropy_simple_forcheckinversion">
+<area shape="rect" id="node3" href="$d7/def/phys_8tools_8c.html#ac6eb963661a1399f6a71f33e3a920a5b" title="entropy wrapper this function should NOT be called by utoprim_jon.c inversion" alt="" coords="221,13,427,43"/>
+<area shape="rect" id="node5" href="$d7/def/phys_8tools_8c.html#a9ef494ab2cecf6ba0072977dd46a3d25" title="separate function for getting thermodynamical quantities" alt="" coords="475,5,653,51"/>
+<area shape="rect" id="node7" href="$d7/def/phys_8tools_8c.html#ad46675c486138b240d9bfa27e5ca262a" title="used to check inversion, which has consistent pressure used to get things as functions of &#160;instead of..." alt="" coords="701,13,880,43"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="gcov_func" name="gcov_func">
+<area shape="rect" id="node3" href="$d6/d1b/metric_8tools_8c.html#ae69349da832b43c5e199da1b2526b2da" title="conn_func_numerical1" alt="" coords="347,36,499,66"/>
+<area shape="rect" id="node22" href="$d6/d1b/metric_8tools_8c.html#a16590e2fa012fcb4003a079c3d990854" title="gcov_func_mcoord" alt="" coords="152,36,283,66"/>
+<area shape="rect" id="node25" href="$d6/d1b/metric_8tools_8c.html#a5fd4211d5f50d31b117733fd23f86330" title="gdet_func_mcoord" alt="" coords="153,90,281,119"/>
+<area shape="rect" id="node27" href="$dd/d50/set__grid_8c.html#aaa7945715830e5c62a0ea015481ab25e" title="Grid functions that only exist at many locations and are assigned values on all points INCLUDING anot..." alt="" coords="364,142,481,171"/>
+<area shape="rect" id="node30" href="$dd/d50/set__grid_8c.html#aec4c87bfedcc9e39e2446fc504c31211" title="sets gcov" alt="" coords="141,194,293,223"/>
+<area shape="rect" id="node32" href="$dd/d50/set__grid_8c.html#aabbf5123d64295a3cb462c92aa9c5629" title="set_grid_metrics_others" alt="" coords="137,247,297,276"/>
+<area shape="rect" id="node5" href="$d9/d53/metric_8c.html#ad9016364674fada47dae513901633886" title="CONNECTIONS (numerical or analytic)" alt="" coords="552,36,675,66"/>
+<area shape="rect" id="node19" href="$d9/d53/metric_8c.html#a1e45f3c9253aee772c162ae63ea83717" title="set_conn_ksmetric" alt="" coords="548,90,679,119"/>
+<area shape="rect" id="node7" href="$dd/da9/metric_8funcdeclare_8h.html#af9dae924e575e391dfbf657879b2f889" title="connection not simply transformed – so compute directly from final metric (primcoords)" alt="" coords="728,90,811,119"/>
+<area shape="rect" id="node9" href="$dd/d50/set__grid_8c.html#a06dfefaa7728d6874c6a7ac641760b79" title="Grid functions that only exist at one location for all grid points." alt="" coords="860,90,969,119"/>
+<area shape="rect" id="node11" href="$d2/d22/set__grid_8funcdeclare_8h.html#a9ac78f6d937c36a5541eb64e9983c289" title="GODMARK: may want to make grid functions explicitly 2D for axisymmetric space&#45;times when in axisymmet..." alt="" coords="1020,116,1087,146"/>
+<area shape="rect" id="node13" href="$de/df8/initbase_8c.html#ab7cd2db876c8f553cbb0570316c6e796" title="set_grid_all" alt="" coords="1136,116,1224,146"/>
+<area shape="rect" id="node15" href="$de/df8/initbase_8c.html#ac4110398e386c9888d9565630357dbbe" title="General&#45;Primary init() routine Uses globals inside init() because sets memory and sets physics..." alt="" coords="1273,116,1311,146"/>
+<area shape="rect" id="node17" href="$d0/d29/main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main function that primarily calls init(), diag(), and step_ch_full() in loop." alt="" coords="1360,116,1411,146"/>
+</map>

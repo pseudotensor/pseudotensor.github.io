@@ -1,0 +1,4 @@
+<map id="step_ch" name="step_ch">
+<area shape="rect" id="node3" href="$d9/de0/step__ch_8c.html#a306fe858d9befc91e386212efe65acaf" title="take full step (called from main.c)" alt="" coords="124,5,215,35"/>
+<area shape="rect" id="node5" href="$d0/d29/main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main function that primarily calls init(), diag(), and step_ch_full() in loop." alt="" coords="264,5,315,35"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="user1_getmax_densities_full" name="user1_getmax_densities_full">
+<area shape="rect" id="node3" href="$d8/d60/init_8c.html#ade057393b5a9360920a3488dee330c24" title="getmax_densities_full" alt="" coords="241,5,388,35"/>
+<area shape="rect" id="node5" href="$d8/d60/init_8c.html#a91bb22ba17c7bb75ad2d8d9fa0594549" title="normalize_densities" alt="" coords="439,5,575,35"/>
+<area shape="rect" id="node7" href="$df/d15/init_8tools_8c.html#a77551ab2581efdbaf170dfca073ff9ab" title="user1_init_primitives" alt="" coords="624,5,765,35"/>
+<area shape="rect" id="node9" href="$de/db2/initbase_8funcdeclare_8h.html#a0afa200a5f947b1c9f6e554519f28fc4" title="init_primitives" alt="" coords="815,5,916,35"/>
+<area shape="rect" id="node11" href="$de/df8/initbase_8c.html#ac4110398e386c9888d9565630357dbbe" title="General&#45;Primary init() routine Uses globals inside init() because sets memory and sets physics..." alt="" coords="967,5,1004,35"/>
+<area shape="rect" id="node13" href="$d0/d29/main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main function that primarily calls init(), diag(), and step_ch_full() in loop." alt="" coords="1053,5,1104,35"/>
+</map>

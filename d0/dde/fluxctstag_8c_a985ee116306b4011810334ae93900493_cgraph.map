@@ -1,0 +1,29 @@
+<map id="interpolate_prim_face2corn" name="interpolate_prim_face2corn">
+<area shape="rect" id="node3" href="$d0/dde/fluxctstag_8c.html#ad6aa918442f7768dff3c099ba353ee64" title="slope_lim_face2corn() is provided p2interp and returns pleft/pright differs from slope_lim() by range..." alt="" coords="232,368,373,397"/>
+<area shape="rect" id="node43" href="$de/d8c/phys_8c.html#a92cd9cc63c782c0d94699d639aa48f69" title="wrapper for choosing to get state by computing it or from global array notice that ptrgeom&#45;&gt;p inputte..." alt="" coords="235,485,371,515"/>
+<area shape="rect" id="node5" href="$d5/d2f/flux_8funcdeclare_8h.html#a8dd1a8200cac33bfd5c4520a76285d69" title="slope_lim_linetype_c2e" alt="" coords="424,288,581,317"/>
+<area shape="rect" id="node7" href="$d5/d2f/flux_8funcdeclare_8h.html#a0d50fd876f4e61d909a1e006bac28387" title="whether primreal is p2interp can&#39;t assume this is true in general (e.g." alt="" coords="435,341,571,371"/>
+<area shape="rect" id="node37" href="$d4/dad/bounds_8funcdeclare_8h.html#addca75a18cc861326a321565a2e81aa0" title="normal bounding of non&#45;staggered primitives" alt="" coords="459,395,547,424"/>
+<area shape="rect" id="node9" href="$d8/ddd/interppoint_8c.html#ab50c96d0a8603ec34f1c7a023a4156ff" title="interpolate from a center point to a left/right interface" alt="" coords="663,139,801,168"/>
+<area shape="rect" id="node23" href="$d8/ddd/interppoint_8c.html#a7d9885f70f6b7a32637920ddf74b0f98" title="DEVELOPING RIGHT NOW interpolate from a center point to a left/right interface." alt="" coords="663,271,801,318"/>
+<area shape="rect" id="node27" href="$d8/ddd/interppoint_8c.html#af1ea622d3759b98722d11ed0a3d555e7" title="interpolate from a center point to a left/right interface" alt="" coords="661,341,803,371"/>
+<area shape="rect" id="node11" href="$df/d30/interppoint_8para_8c.html#a6f45f925dd7972198f6ef41de42374df" title="lout/rout is left and right sides of cell note how used in step_ch.c to get appropriate interface val..." alt="" coords="935,5,980,35"/>
+<area shape="rect" id="node13" href="$df/d30/interppoint_8para_8c.html#abe1b655c3bd8c6e3ac699e6cedb03c18" title="doesn&#39;t use dq" alt="" coords="931,59,984,88"/>
+<area shape="rect" id="node15" href="$d8/ddd/interppoint_8c.html#a70f54bffe6df5f410a43980f4aa83971" title="limited slopes using 3 points Gives slope that will be assumed to be located at same location as yc –..." alt="" coords="895,112,1020,141"/>
+<area shape="rect" id="node17" href="$d8/ddd/interppoint_8c.html#a9a8e95c4501b23d1a80162c3b2cee142" title="http://mesa.sourceforge.net/pdfs/suresh+huynh_97.pdf http://iopscience.iop.org/0264&#45;9381/31/1/015005/..." alt="" coords="935,165,980,195"/>
+<area shape="rect" id="node21" href="$d8/ddd/interppoint_8c.html#a75bf89b2527949948883f2089374dcf9" title="Enhanced PPM The Einstein Toolkit source code says that the relevant references are: Colella &amp; Sekora..." alt="" coords="931,219,984,248"/>
+<area shape="rect" id="node19" href="$d8/ddd/interppoint_8c.html#a5677d72681462036d6c8a6e13c1c20d9" title="if yll,yl,yc,yr,yrr are really in that order, then get lout." alt="" coords="1093,165,1165,195"/>
+<area shape="rect" id="node25" href="$d8/ddd/interppoint_8c.html#a367af7d2f93ccc62459fbdbacd4f62f3" title="limited 2nd derivatives using 4 points see e2c_continuous.nb" alt="" coords="880,271,1035,318"/>
+<area shape="rect" id="node29" href="$df/d30/interppoint_8para_8c.html#af36824cae5f3156fa6da09c3536c7785" title="used when lim=PARAFLAT" alt="" coords="929,341,985,371"/>
+<area shape="rect" id="node31" href="$df/d30/interppoint_8para_8c.html#ac3af1cc044a6058812c512179cbb090a" title="Get pressure Note this is quite inefficient since operating per&#45;point get same pressure for entire li..." alt="" coords="1084,341,1175,371"/>
+<area shape="rect" id="node33" href="$df/d21/global_8funcdeclare_8rad_8h.html#a5943065ab3d5b4e9f4f691db499b588f" title="calculates total opacity over dx[]" alt="" coords="1225,341,1311,371"/>
+<area shape="rect" id="node35" href="$d2/d72/phys_8tools_8rad_8c.html#a795959353203e99366b456b16d0d0bab" title="calculates total opacity over dx[] for given chi or chieff" alt="" coords="1360,341,1485,371"/>
+<area shape="rect" id="node39" href="$d4/dad/bounds_8funcdeclare_8h.html#adbe0e3ba8a74f09ab928a96bd68cab6d" title="bound any prim type CALLS directly real and MPI boundary functions pstag = pstagglobal ucons = unewgl..." alt="" coords="677,395,787,424"/>
+<area shape="rect" id="node41" href="$de/d51/bounds_8c.html#a4bc7413b2cdb89e070f38bbb689ae555" title="bound_prim_user_dir" alt="" coords="887,395,1028,424"/>
+<area shape="rect" id="node45" href="$d7/def/phys_8tools_8c.html#adf1cf36a7c564b77dca08d26ce233df7" title="find ucon, ucov, bcon, bcov from primitive variables when calling get_state, users of this function e..." alt="" coords="423,532,583,561"/>
+<area shape="rect" id="node47" href="$d3/ddc/phys_8funcdeclare_8h.html#a12a473e24b431762af4168179e82cd08" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="651,448,813,477"/>
+<area shape="rect" id="node49" href="$df/d21/global_8funcdeclare_8rad_8h.html#a8a762bf6582e6f7e1199de9c43b98454" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="633,501,831,531"/>
+<area shape="rect" id="node51" href="$d3/ddc/phys_8funcdeclare_8h.html#a41b8eacac0a4a23d6b00b670fe49629c" title="bsq_calc_fromq" alt="" coords="675,555,789,584"/>
+<area shape="rect" id="node53" href="$d7/def/phys_8tools_8c.html#a8db4cb0eaaedfc1b0f3d5791d5052068" title="separate function for getting primitives" alt="" coords="675,608,789,637"/>
+<area shape="rect" id="node55" href="$d7/def/phys_8tools_8c.html#ab23ee4012c46b45e96ebffcf5766b0bb" title="separate function for getting geometry" alt="" coords="675,661,789,691"/>
+</map>

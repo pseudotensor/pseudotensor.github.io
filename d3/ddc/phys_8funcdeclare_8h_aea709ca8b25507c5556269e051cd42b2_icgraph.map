@@ -1,0 +1,11 @@
+<map id="lc4" name="lc4">
+<area shape="rect" id="node3" href="$d7/def/phys_8tools_8c.html#a2568131c22f54019d6ae406ef7326066" title="Compute faraday assumes b and u are inputted as bcov&amp;ucov for F^{} and bcon&amp;ucon for F_{}..." alt="" coords="93,5,189,35"/>
+<area shape="rect" id="node20" href="$d7/def/phys_8tools_8c.html#a28755339b39b6648471eb4324cc877d8" title="Maxwell to Faraday which=0 : Mcon &#45;&gt; Fcov (for clean Mcon, Fcov has ) which=1 : Mcov &#45;&gt; Fcon (for cle..." alt="" coords="116,59,167,88"/>
+<area shape="rect" id="node5" href="$d8/d60/init_8c.html#af3b64278d50c2ff0fee80291fbd38dab" title="fieldprim" alt="" coords="239,32,308,61"/>
+<area shape="rect" id="node7" href="$df/d15/init_8tools_8c.html#acefd26944dbbb1c289886f520f6befac" title="init_dsandvels" alt="" coords="359,5,463,35"/>
+<area shape="rect" id="node17" href="$de/db2/initbase_8funcdeclare_8h.html#a4e121b9448ac1adaa7608206369f9ea5" title="init_postvpot" alt="" coords="363,59,459,88"/>
+<area shape="rect" id="node9" href="$df/d15/init_8tools_8c.html#a77551ab2581efdbaf170dfca073ff9ab" title="user1_init_primitives" alt="" coords="512,32,653,61"/>
+<area shape="rect" id="node11" href="$de/db2/initbase_8funcdeclare_8h.html#a0afa200a5f947b1c9f6e554519f28fc4" title="init_primitives" alt="" coords="703,32,804,61"/>
+<area shape="rect" id="node13" href="$de/df8/initbase_8c.html#ac4110398e386c9888d9565630357dbbe" title="General&#45;Primary init() routine Uses globals inside init() because sets memory and sets physics..." alt="" coords="855,32,892,61"/>
+<area shape="rect" id="node15" href="$d0/d29/main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main function that primarily calls init(), diag(), and step_ch_full() in loop." alt="" coords="941,32,992,61"/>
+</map>

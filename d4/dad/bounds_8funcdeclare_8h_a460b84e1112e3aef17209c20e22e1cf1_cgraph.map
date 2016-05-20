@@ -1,0 +1,6 @@
+<map id="bound_anyallprim" name="bound_anyallprim">
+<area shape="rect" id="node3" href="$d4/dad/bounds_8funcdeclare_8h.html#adbe0e3ba8a74f09ab928a96bd68cab6d" title="bound any prim type CALLS directly real and MPI boundary functions pstag = pstagglobal ucons = unewgl..." alt="" coords="180,5,289,35"/>
+<area shape="rect" id="node7" href="$d4/dad/bounds_8funcdeclare_8h.html#abdea68b778dc9253324da69d3c376965" title="bound any pstag type CALLS directly real and MPI boundary functions pstag is at FACE1,2,3 for fields, so user bound is different MPI bounding is the same as CENT quantities used when restarting in initbase.c to bound unewglobal for FLUXB==FLUXCTSTAG" alt="" coords="176,59,293,88"/>
+<area shape="rect" id="node5" href="$de/d51/bounds_8c.html#a4bc7413b2cdb89e070f38bbb689ae555" title="bound_prim_user_dir" alt="" coords="345,5,487,35"/>
+<area shape="rect" id="node9" href="$de/d51/bounds_8c.html#a3246b706b24adb6265016a8954807f6f" title="assume single user function takes care of primitive locations" alt="" coords="341,59,491,88"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="source_conn" name="source_conn">
+<area shape="rect" id="node3" href="$d7/def/phys_8tools_8c.html#a12238eba5936209a397a23dd34724ec9" title="returns entire space&#45;time(NDIM in size) / EOM(NPR in size) matrix" alt="" coords="149,189,245,219"/>
+<area shape="rect" id="node30" href="$df/d21/global_8funcdeclare_8rad_8h.html#a389bf7e41d2fd117af996e3392067cdc" title="compute radiation stres&#45;energy tensor assuming M1 closure" alt="" coords="653,5,755,35"/>
+<area shape="rect" id="node44" href="$d7/def/phys_8tools_8c.html#acee98fab974682bc6838e2040bed0d45" title="MHD stress tensor, with first index up, second index down mhd^dir_j." alt="" coords="159,321,236,351"/>
+<area shape="rect" id="node5" href="$d3/ddc/phys_8funcdeclare_8h.html#a19e08c0d7e5a7c9fb9d97ff5ffab053c" title="Calculate fluxes in direction dir and conserved variable U returntype==0 : flux with geometric factor..." alt="" coords="295,189,372,219"/>
+<area shape="rect" id="node7" href="$d7/def/phys_8tools_8c.html#ace478826bef11e98daed7dd2ab026c93" title="matter only terms (as if B=0)" alt="" coords="447,189,551,219"/>
+<area shape="rect" id="node27" href="$d7/def/phys_8tools_8c.html#a3c8277899afc2a48590156971490bb79" title="radiation terms (as if rho=u=p=0)" alt="" coords="447,59,551,88"/>
+<area shape="rect" id="node32" href="$d7/def/phys_8tools_8c.html#a664550c21e363870d26e73f3ab5b3d3c" title="electromagnetic terms (as if rho=u=p=0)" alt="" coords="447,375,551,404"/>
+<area shape="rect" id="node9" href="$d7/def/phys_8tools_8c.html#a133cabc36f68eda16f9245f749c3cc38" title="flux asociated with Ynu variable" alt="" coords="657,163,751,192"/>
+<area shape="rect" id="node11" href="$d7/def/phys_8tools_8c.html#a787551c0e83438fe9e63ecd3d996f61a" title="massflux_calc" alt="" coords="868,163,975,192"/>
+<area shape="rect" id="node13" href="$d7/def/phys_8tools_8c.html#a2ef51d65728fe59168e5b705165af6d4" title="flux associated with Y_L variable" alt="" coords="663,269,745,299"/>
+<area shape="rect" id="node16" href="$d7/def/phys_8tools_8c.html#a1e1dcf1d515232206c829a33d7e1192b" title="flux associated with Y_fl variable" alt="" coords="660,59,748,88"/>
+<area shape="rect" id="node19" href="$d7/def/phys_8tools_8c.html#a5717fa95303172fb697892a9232f0546" title="flux of specific entropy" alt="" coords="645,216,763,245"/>
+<area shape="rect" id="node21" href="$d7/def/phys_8tools_8c.html#a4886704a6724ea65ccaae2277b6ded74" title="MHD stress tensor, with first index up, second index down mhd^dir_j understood that mhddiagpress only..." alt="" coords="653,323,755,352"/>
+<area shape="rect" id="node23" href="$d7/def/phys_8tools_8c.html#ab3fd971df8ad09cce2462e78d7735f33" title="MHD stress tensor, with first index up, second index down." alt="" coords="863,320,980,349"/>
+<area shape="rect" id="node25" href="$d7/def/phys_8tools_8c.html#a44930b5d598885afcb717a270f42749f" title="MHD stress tensor, with first index up, second index down avoids catastrophic cancellation with rest&#45;..." alt="" coords="832,427,1011,456"/>
+<area shape="rect" id="node34" href="$d7/def/phys_8tools_8c.html#a3552b97ec9f1982094fbc3e3f9af7f05" title="MHD stress tensor, with first index up, second index down mhd^dir_j." alt="" coords="653,480,755,509"/>
+<area shape="rect" id="node40" href="$d7/def/phys_8tools_8c.html#a12b4ca77ffbef030f608b079327b4eb7" title="spatial part of dualfaraday" alt="" coords="625,376,783,405"/>
+<area shape="rect" id="node36" href="$d7/def/phys_8tools_8c.html#a3f6e052b84282b8db7b05a0acc435622" title="EM part of stress&#45;energy tensor." alt="" coords="863,533,980,563"/>
+<area shape="rect" id="node38" href="$d7/def/phys_8tools_8c.html#a864ca09eade159d4c4b545593c1095de" title="MHD stress tensor, with first index up, second index down avoids catastrophic cancellation with rest&#45;..." alt="" coords="843,480,1000,509"/>
+<area shape="rect" id="node42" href="$d7/def/phys_8tools_8c.html#abc846df49f33c007310b52240e099e3b" title="Notation for HARM paper and JCM&#39;s GRFFE paper is that: B^ = &#160;*F^{} and for lab&#45;frame we chose ={&#45;1..." alt="" coords="853,373,989,403"/>
+<area shape="rect" id="node46" href="$d7/def/phys_8tools_8c.html#adeb9f0f94ef0d4f02ddd49a3de4de7e3" title="MHD stress tensor, with first index up, second index down avoids catastrophic cancellation with rest&#45;..." alt="" coords="423,428,575,457"/>
+</map>

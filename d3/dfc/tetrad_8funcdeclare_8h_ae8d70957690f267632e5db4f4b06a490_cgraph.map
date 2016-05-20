@@ -1,0 +1,21 @@
+<map id="vector_harm2orthofluidorback" name="vector_harm2orthofluidorback">
+<area shape="rect" id="node3" href="$d5/d0a/tetrad_8c.html#af9cffa9c2f215c3446c8dced2a326b42" title="convert 4&#45;vector to/from lab&#45;frame coordinate basis to fluid frame orthonormal basis" alt="" coords="248,217,429,247"/>
+<area shape="rect" id="node5" href="$d5/d0a/tetrad_8c.html#a69bb4f4bdcfeeddc2f94c291e3c4a887" title="use lab frame contravariant 4&#45;velocity (uconlab) and get transformation matrix for going to orthonorm..." alt="" coords="477,217,616,247"/>
+<area shape="rect" id="node7" href="$d5/d0a/tetrad_8c.html#a529e9fcba9169e956453fa28b0ec5b29" title="get stored or compute tetrcov and tetrcon primcoord: whether PRIMCOORDS type, so will use dxdxp to si..." alt="" coords="683,153,789,183"/>
+<area shape="rect" id="node25" href="$d6/d1b/metric_8tools_8c.html#af5438dd54272eb585ff5acb06d7195d4" title="matrix_inverse" alt="" coords="1380,217,1487,247"/>
+<area shape="rect" id="node41" href="$d5/d0a/tetrad_8c.html#aecffb2ef6ac562816636daf704607915" title="calculate boost assuming in orthonormal basis where g_{}={} = diag(&#45;1,0,0,0) NOTEMARK: Orthonormal do..." alt="" coords="665,269,807,299"/>
+<area shape="rect" id="node9" href="$d5/d0a/tetrad_8c.html#a1a0f6fda274fc7e16bdd8fcdfb4450ed" title="Notes:" alt="" coords="856,140,971,169"/>
+<area shape="rect" id="node11" href="$d9/de9/coord_8c.html#a0672d8c0ee4ff07c7265d0ecbc365cdc" title="normally&#45;used dxdxp[i,j,k] = dV/dX" alt="" coords="1044,60,1137,89"/>
+<area shape="rect" id="node23" href="$d9/de9/coord_8c.html#a8a51ec95e21441bc2c561af70a1037de" title="Get (dV/dX)^{&#45;1}." alt="" coords="1212,165,1289,195"/>
+<area shape="rect" id="node27" href="$d5/d0a/tetrad_8c.html#ad5d2935e2a3bac988149aa7b02c8feca" title="find suitable orthonormal tetrad wrapper for tetr_func()." alt="" coords="1020,113,1161,143"/>
+<area shape="rect" id="node13" href="$d9/de9/coord_8c.html#a64a4372100fc55abf546f02c8b779595" title="Jacobian for dx uniform per dx nonuniform (dx/dr / dx/dr&#39;) i.e." alt="" coords="1213,59,1288,88"/>
+<area shape="rect" id="node15" href="$d9/de9/coord_8c.html#a56c4b5c03b74a33a7d809daecfa6925e" title="numerical derivative of V w.r.t. X" alt="" coords="1373,59,1493,88"/>
+<area shape="rect" id="node17" href="$d9/de9/coord_8c.html#a65ad4ca9656d141cc995fd35ed31dc40" title="Returns boyer&#45;lindquist coordinte of point." alt="" coords="1636,59,1705,88"/>
+<area shape="rect" id="node19" href="$d8/d60/init_8c.html#a27c01fe4532cf3e10d467517403dbf70" title="blcoord_user" alt="" coords="1827,5,1923,35"/>
+<area shape="rect" id="node21" href="$d9/de9/coord_8c.html#af7a086e6042d598aea95c2360d07a99b" title="blcoord_singfixes" alt="" coords="1813,59,1936,88"/>
+<area shape="rect" id="node30" href="$d5/d0a/tetrad_8c.html#a0ca3db13e43c41bb7271db7bac10dc2a" title="input gcov and get out orthonormal tetrad in covariant and contravariant forms if metrictype..." alt="" coords="1215,112,1287,141"/>
+<area shape="rect" id="node32" href="$d5/d0a/tetrad_8c.html#a2ed15e40ab71ecd986b28510b0d8b8d4" title="compute_tetrcon_frommetric" alt="" coords="1340,164,1527,193"/>
+<area shape="rect" id="node34" href="$d5/d0a/tetrad_8c.html#a7daace7a466d45cd01436b89193102c0" title="pre&#45;setup tetrad use of lapack function" alt="" coords="1601,112,1740,141"/>
+<area shape="rect" id="node38" href="$d5/d0a/tetrad_8c.html#acc8b9e9ae9e03624e53b0a45e881a367" title="compute orthonormal tetrad [ortho]^[lab] for converting u_[lab] or u^[ortho] Notes: For full rotating..." alt="" coords="1577,165,1764,211"/>
+<area shape="rect" id="node36" href="$d4/dfc/tetlapack__func__doubleonly_8c.html#a6493f604b00b9a2337263d17b6230a02" title="native doubles for inside variables find tetrad" alt="" coords="1821,112,1928,141"/>
+</map>

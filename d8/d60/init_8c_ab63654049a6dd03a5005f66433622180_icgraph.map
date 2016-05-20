@@ -1,0 +1,7 @@
+<map id="set_coord_parms_nodeps_user" name="set_coord_parms_nodeps_user">
+<area shape="rect" id="node3" href="$d6/d85/coord_8funcdeclare_8h.html#a60cc2ae07fc7fa7fe31f94d01bc7f4f8" title="Things to set that only depend upon defcoord and nothing else NOTEMARK: By nothing else..." alt="" coords="256,32,427,61"/>
+<area shape="rect" id="node5" href="$d6/d85/coord_8funcdeclare_8h.html#afadc9671fb01ff346f980daeee9780ca" title="can call when no dependencies" alt="" coords="475,5,597,35"/>
+<area shape="rect" id="node9" href="$de/df8/initbase_8c.html#ac4110398e386c9888d9565630357dbbe" title="General&#45;Primary init() routine Uses globals inside init() because sets memory and sets physics..." alt="" coords="517,59,555,88"/>
+<area shape="rect" id="node7" href="$d6/d85/coord_8funcdeclare_8h.html#a78425dc3bae629a1a4f7f9926de1aba3" title="read coordinate parameters" alt="" coords="647,5,775,35"/>
+<area shape="rect" id="node11" href="$d0/d29/main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main function that primarily calls init(), diag(), and step_ch_full() in loop." alt="" coords="685,59,736,88"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="defs.general.h" name="defs.general.h">
+<area shape="rect" id="node3" href="$dd/d46/mpidefs_8h.html" title="Variable definitions for MPI." alt="" coords="103,83,180,112"/>
+<area shape="rect" id="node13" href="$d0/d1f/defs_8user_8h.html" title="User type defs (but better to use init.c and extern unless for coord.c)" alt="" coords="529,83,615,112"/>
+<area shape="rect" id="node5" href="$de/de0/supermpidefs_8h.html" title="Large arrays for MPI." alt="" coords="5,169,115,199"/>
+<area shape="rect" id="node7" href="$d4/d44/mpidefs_8mpi__grmhd__grray__liaison_8h_source.html" title="Variable definitions for mpi_grmhd_grray_liaison.c." alt="" coords="139,161,309,207"/>
+</map>

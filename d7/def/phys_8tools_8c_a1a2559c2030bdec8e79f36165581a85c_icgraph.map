@@ -1,0 +1,25 @@
+<map id="get_state_radonly" name="get_state_radonly">
+<area shape="rect" id="node3" href="$d2/d72/phys_8tools_8rad_8c.html#af46d2b1cf89a70a7e2ef503146c649a9" title="uu0 &#45; original cons." alt="" coords="201,32,276,61"/>
+<area shape="rect" id="node32" href="$d1/d3e/utoprimgen_8c.html#a0a83e9e7fdd3cc595c5b8d0df88ec684" title="just picks the algorithm to invert" alt="" coords="179,85,299,115"/>
+<area shape="rect" id="node5" href="$d2/d72/phys_8tools_8rad_8c.html#a17aede36203a236390363af78d3a86f0" title="compute changes to U (both T and R) using implicit method KORALTODO: If doing implicit, should also add geometry source term that can sometimes be stiff." alt="" coords="501,32,709,61"/>
+<area shape="rect" id="node29" href="$d2/d72/phys_8tools_8rad_8c.html#afa73a2caa3209e565a64f92447058507" title="calculating approximate Jacobian: dUresid(dUrad,G(Urad))/dUrad = dy(x)/dx then compute inverse Jacobi..." alt="" coords="348,33,452,63"/>
+<area shape="rect" id="node7" href="$d2/d72/phys_8tools_8rad_8c.html#a675bb3f12a77c62cf2540bc42c4867f8" title="wrapper for mode method" alt="" coords="759,32,927,61"/>
+<area shape="rect" id="node9" href="$d2/d72/phys_8tools_8rad_8c.html#aa8c5c0d5de580899948f9f22e10aff23" title="General radiation source term calculation (EXTERNALLY called) NOTE: source_explicit() takes as first ..." alt="" coords="977,32,1097,61"/>
+<area shape="rect" id="node11" href="$d2/d1d/sources_8c.html#a504ce383765ca3d2ff0b1ee653aff854" title="Ugeomfree and dUother are in UNOTHING form (or UEVOLVE without geometry) pf might be modified so bett..." alt="" coords="1147,32,1253,61"/>
+<area shape="rect" id="node13" href="$d7/def/phys_8tools_8c.html#a12ce5092c3a1a566cb7a560a7440acc1" title="add in source terms to equations of motion ui and dUriemann in UEVOLVE form assume q(pr) so consisten..." alt="" coords="1316,32,1377,61"/>
+<area shape="rect" id="node15" href="$df/d22/advance_8c.html#a217bbc071881142282a66a317664912b" title="this method guarantees conservation of non&#45;sourced conserved quantities when metric is time&#45;dependent..." alt="" coords="1455,5,1583,35"/>
+<area shape="rect" id="node27" href="$df/d22/advance_8c.html#a38c6fa95ece38a2821c70a1524ec47ec" title="this method guarantees conservation of non&#45;sourced conserved quantities when metric is time&#45;dependent..." alt="" coords="1441,59,1596,88"/>
+<area shape="rect" id="node17" href="$df/d22/advance_8c.html#a22dff5dc24ff389254919e70b79be489" title="pi: initial values at t=t0 to compute Ui pb: values used to compute flux/source pf: solution using fl..." alt="" coords="1664,5,1733,35"/>
+<area shape="rect" id="node19" href="$d9/de0/step__ch_8c.html#a6ffc23f905bf9f398646f83250167dd2" title="take full step using normal MPI method This method transfers ALL boundary cells AT ONCE after updatin..." alt="" coords="1804,5,1937,35"/>
+<area shape="rect" id="node21" href="$d9/de0/step__ch_8c.html#afe241569412f22a86dea9cd91b516af8" title="take step itself" alt="" coords="2008,5,2075,35"/>
+<area shape="rect" id="node23" href="$d9/de0/step__ch_8c.html#a306fe858d9befc91e386212efe65acaf" title="take full step (called from main.c)" alt="" coords="2143,5,2233,35"/>
+<area shape="rect" id="node25" href="$d0/d29/main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main function that primarily calls init(), diag(), and step_ch_full() in loop." alt="" coords="2283,32,2333,61"/>
+<area shape="rect" id="node34" href="$db/dc8/utoprimgen_8funcdeclare_8h.html#a7e078cc9a354495bc85554d875a705d9" title="General explicit inversion of U[MHD]&#45;&gt;P[MHD] and also inverts scalars. Inverts radiation if(EOMRADTYP..." alt="" coords="1303,85,1391,115"/>
+<area shape="rect" id="node38" href="$d8/d60/init_8c.html#af3b64278d50c2ff0fee80291fbd38dab" title="fieldprim" alt="" coords="1484,112,1553,141"/>
+<area shape="rect" id="node52" href="$db/dc8/utoprimgen_8funcdeclare_8h.html#a8db9dc7c7f52d6fcb405a74e519db5cf" title="there may be something wrong with this function – didn&#39;t work in TIMEORDER==4, had to do standard met..." alt="" coords="1473,165,1564,195"/>
+<area shape="rect" id="node40" href="$df/d15/init_8tools_8c.html#acefd26944dbbb1c289886f520f6befac" title="init_dsandvels" alt="" coords="1647,59,1751,88"/>
+<area shape="rect" id="node49" href="$de/db2/initbase_8funcdeclare_8h.html#a4e121b9448ac1adaa7608206369f9ea5" title="init_postvpot" alt="" coords="1651,112,1747,141"/>
+<area shape="rect" id="node42" href="$df/d15/init_8tools_8c.html#a77551ab2581efdbaf170dfca073ff9ab" title="user1_init_primitives" alt="" coords="1800,59,1941,88"/>
+<area shape="rect" id="node44" href="$de/db2/initbase_8funcdeclare_8h.html#a0afa200a5f947b1c9f6e554519f28fc4" title="init_primitives" alt="" coords="1991,59,2092,88"/>
+<area shape="rect" id="node46" href="$de/df8/initbase_8c.html#ac4110398e386c9888d9565630357dbbe" title="General&#45;Primary init() routine Uses globals inside init() because sets memory and sets physics..." alt="" coords="2169,59,2207,88"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="limit_prim_correction" name="limit_prim_correction">
+<area shape="rect" id="node3" href="$d3/ddc/phys_8funcdeclare_8h.html#a11e17cd8b0594d1ad52e3594aa9f477e" title="find ucon, ucov, bcon, bcov from primitive variables when calling get_state, users of this function e..." alt="" coords="211,59,285,88"/>
+<area shape="rect" id="node11" href="$df/d22/advance_8c.html#a080ef26ac144e3416a4c5a0ccc1f1e9b" title="Returns the fractional difference between a &amp; b." alt="" coords="199,112,297,141"/>
+<area shape="rect" id="node5" href="$d3/ddc/phys_8funcdeclare_8h.html#a12a473e24b431762af4168179e82cd08" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="365,5,528,35"/>
+<area shape="rect" id="node7" href="$df/d21/global_8funcdeclare_8rad_8h.html#a8a762bf6582e6f7e1199de9c43b98454" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="348,59,545,88"/>
+<area shape="rect" id="node9" href="$d3/ddc/phys_8funcdeclare_8h.html#a41b8eacac0a4a23d6b00b670fe49629c" title="bsq_calc_fromq" alt="" coords="389,112,504,141"/>
+</map>

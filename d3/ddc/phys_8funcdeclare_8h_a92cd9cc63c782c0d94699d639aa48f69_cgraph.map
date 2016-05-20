@@ -1,0 +1,8 @@
+<map id="get_stateforfluxcalc" name="get_stateforfluxcalc">
+<area shape="rect" id="node3" href="$d7/def/phys_8tools_8c.html#adf1cf36a7c564b77dca08d26ce233df7" title="find ucon, ucov, bcon, bcov from primitive variables when calling get_state, users of this function e..." alt="" coords="191,112,351,141"/>
+<area shape="rect" id="node5" href="$d3/ddc/phys_8funcdeclare_8h.html#a12a473e24b431762af4168179e82cd08" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="419,5,581,35"/>
+<area shape="rect" id="node7" href="$df/d21/global_8funcdeclare_8rad_8h.html#a8a762bf6582e6f7e1199de9c43b98454" title="Get only u^ and u_ assumine b^ and b_ not used." alt="" coords="401,59,599,88"/>
+<area shape="rect" id="node9" href="$d3/ddc/phys_8funcdeclare_8h.html#a41b8eacac0a4a23d6b00b670fe49629c" title="bsq_calc_fromq" alt="" coords="443,112,557,141"/>
+<area shape="rect" id="node11" href="$d7/def/phys_8tools_8c.html#a8db4cb0eaaedfc1b0f3d5791d5052068" title="separate function for getting primitives" alt="" coords="443,165,557,195"/>
+<area shape="rect" id="node13" href="$d7/def/phys_8tools_8c.html#ab23ee4012c46b45e96ebffcf5766b0bb" title="separate function for getting geometry" alt="" coords="443,219,557,248"/>
+</map>

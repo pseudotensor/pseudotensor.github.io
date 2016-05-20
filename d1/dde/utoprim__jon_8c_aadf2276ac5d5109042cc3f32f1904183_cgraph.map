@@ -1,0 +1,8 @@
+<map id="set_guess_Wp" name="set_guess_Wp">
+<area shape="rect" id="node3" href="$d1/dde/utoprim__jon_8c.html#a00b6371d7c42afef750bef8c14b22258" title="compute Wp from primitives also get normalizations wglobal" alt="" coords="197,5,296,35"/>
+<area shape="rect" id="node7" href="$d1/dde/utoprim__jon_8c.html#a3ecaf51048018ba1c14b2cd7d83e1bd6" title="re&#45;look at this GODMARK Solution to the cold GRHD equation P^2 = ...[Wp]" alt="" coords="212,59,281,88"/>
+<area shape="rect" id="node9" href="$d1/dde/utoprim__jon_8c.html#a67f02f993eb333c075b363919e3346e5" title="Good for GRMHD or entropy GRMHD or cold GRMHD." alt="" coords="200,112,293,141"/>
+<area shape="rect" id="node13" href="$d8/d67/eos_8c.html#aef4f2a239ab2ba6c9471a5e9b45f55dd" title="specific entropy as function of rho0 and internal energy (wmrho0) specificS(rho0,wmrho0)" alt="" coords="164,165,329,211"/>
+<area shape="rect" id="node5" href="$d8/d67/eos_8c.html#a62fa304d208e1263d8d681524057a723" title="p(rho0, u) (needed to get initial guess for W)" alt="" coords="380,5,497,35"/>
+<area shape="rect" id="node11" href="$d1/dde/utoprim__jon_8c.html#a796ba9b859f5938812742d89b0238806" title="returns v^2&gt;=1 does NOT depend on EOS W^3 (W+2B^2) &#45; S^2 (2W+B^2) &#160;W^2 (P^2&#45;B^4) GODMARK: vsqgtr1 bas..." alt="" coords="407,112,471,141"/>
+</map>
